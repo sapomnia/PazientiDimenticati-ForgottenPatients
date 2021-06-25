@@ -1,0 +1,74 @@
+Prestazione,Regione,Provincia,Fonte,Ospedale,Tipologia,Eseguiti,Rinviati,Eseguiti nel 2019,Variazione percentuale,Note
+Chemioterapie,Lombardia,Cremona,Ats Valpadana,Ospedale Maggiore di Crema,Totale,922,:,1191,-22.5860621326616,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019. Il dato comprende anche le 922 prestazioni eseguite nel 2020 e le 1189 eseguite nel 2019"
+Chemioterapie,Lombardia,Mantova,Ats Valpadana,Ospedale Carlo Poma di Mantova,Totale,1306,:,1311,-0.381388253241795,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019. Il dato comprende anche le 1.302 prestazioni eseguite nel 2020 e le 1.302 prestazioni eseguite nel 2019 an poliambulatorio dell'ospedale di Mantova"
+Chemioterapie,Lombardia,Cremona,Ats Valpadana,Ospedale di Cremona,Totale,1284,:,1339,-4.10754294249441,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019. Il dato comprende anche le 1.238 prestazioni eseguite nel 2020 e le 1.285 eseguite nel 2019 al poliambulatorio dell'ospedale di Cremona"
+Chemioterapie,Lombardia,Mantova,Ats Valpadana,Ospedale Oglio Po,Totale,201,:,350,-42.5714285714286,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Lombardia,Mantova,Ats Valpadana,Poliambulatorio ospedale di Borgo Mantovano,Totale,21,:,87,-75.8620689655172,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Lombardia,Mantova,Ats Valpadana,Poliambulatorio ospedale di Asola,Totale,0,:,11,-100.0,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Campania,Salerno,Asl Salerno,"Ospedale ""Dell'Immacolata"" di Sapri",Totale,3,:,8,-62.5,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Campania,Salerno,Asl Salerno,"Ospedale ""San Luca"" di Vallo della Lucania",Totale,8,:,15,-46.6666666666667,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Campania,Salerno,Asl Salerno,"Ospedale ""Umberto I"" di Nocera Inferiore",Totale,83,:,104,-20.1923076923077,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Lazio,Latina,Asl Latina,Oncologia Distretto (parte nord ASL ),Totale,549,:,782,-29.7953964194373,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Lazio,Latina,Asl Latina,Ospedale Santa Maria Goretti di Latina,Totale,1732,:,2774,-37.5630857966835,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Lazio,Latina,Asl Latina,Ospedale Fiorini di Terracina,Totale,1129,:,1245,-9.31726907630522,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Lombardia,Brescia,Asst del Garda,Asst del Garda,Totale,1046,:,1251,-16.3868904876099,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Calabria,Cosenza,Asp Cosenza,Ospedale di Castrovillari,Totale,578,:,561,3.03030303030303,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Calabria,Cosenza,Asp Cosenza,Ospedale di Paola,Totale,950,:,1030,-7.76699029126213,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Calabria,Cosenza,Asp Cosenza,Ospedale di Rossano,Totale,602,:,712,-15.4494382022472,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Emilia Romagna,Ferrara,AOU Arcispedale Sant'Anna di Ferrara,AOU Arcispedale Sant'Anna di Ferrara,Totale,2369,:,2483,-4.59122029802658,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Friuli Venezia Giulia,Trieste,IRCCS Materno Infantile Burlo Garofolo,IRCCS Materno Infantile Burlo Garofolo,Totale,38,:,35,8.57142857142857,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Toscana,Massa Carrara,Azienda Usl Toscana Nord Ovest,Azienda Usl 1 Massa Carrara,Totale,54,:,46,17.3913043478261,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Azienda Usl 2 Lucca,Totale,50,:,45,11.1111111111111,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Toscana,Pisa,Azienda Usl Toscana Nord Ovest,Azienda Usl 5 Pisa,Totale,39,:,45,-13.3333333333333,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Toscana,Livorno,Azienda Usl Toscana Nord Ovest,Azienda Usl 6 Livorno,Totale,77,:,76,1.31578947368421,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Campania,Napoli,AORN Santobono Pausilipon di Napoli,AORN Santobono Pausilipon di Napoli,Totale,153,:,135,13.3333333333333,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019. L'azienda precisa che l'attività di follow-up oncologico non è mai stata sospesa"
+Chemioterapie,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale centrale di Bolzano,Totale,348,:,563,-38.1882770870337,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale di Merano,Totale,811,:,752,7.84574468085107,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale di Bressanone,Totale,132,:,300,-56.0,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale di Brunico,Totale,470,:,423,11.1111111111111,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Emilia Romagna,Bologna,Ausl Bologna,Ausl Bologna,Totale,1165,:,2366,-50.7607776838546,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Chemioterapie,Basilicata,Potenza,AO San Carlo,AO San Carlo,Totale,1700,0,:,0.0,
+Chemioterapie,Abruzzo,Chieti,Asl 2 Abruzzo,Clinica oncologica di Chieti,Totale,1598,0,:,0.0,
+Chemioterapie,Abruzzo,Chieti,Asl 2 Abruzzo,UOS Senologia oncologica di Ortona,Totale,467,0,:,0.0,
+Chemioterapie,Emilia Romagna,Bologna,Policlinico di Sant'Orsola,Policlinico di Sant'Orsola,Totale,5416,0,:,0.0,
+Chemioterapie,Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale San Bassiano di Bassano del Grappa,Totale,547,15,:,-2.66903914590747,
+Chemioterapie,Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale di Santorso,Totale,629,0,:,0.0,
+Chemioterapie,Piemonte,Verbania,Asl Vco,Asl Vco,Totale,907,0,:,0.0,
+Chemioterapie,Sardegna,Cagliari,Arnas Brotzu,Ospedale oncologico Armando Businco,Totale,4589,0,:,0.0,
+Chemioterapie,Sardegna,Oristano,Assl Oristano,Ospedal San Martino di Oristano,Totale,1244,0,:,0.0,
+Chemioterapie,Sardegna,Sassari,AOU Sassari,AOU Sassari,Totale,3088,0,:,0.0,
+Chemioterapie,Puglia,Bari,Policlinico di Bari,Policlinico di Bari,Totale,3627,0,:,0.0,
+Chemioterapie,Sicilia,Agrigento,Asp Agrigento,Ospedale San Giovanni di Dio di Agrigento,Totale,887,0,:,0.0,
+Chemioterapie,Sicilia,Agrigento,Asp Agrigento,Ospedale Barone Lombardo di Canicattì,Totale,327,220,:,-40.2193784277879,Le somministrazioni sono state rinviate per un massimo di 7 giorni
+Chemioterapie,Sicilia,Agrigento,Asp Agrigento,Ospedale Giovanni Paolo II di Sciacca,Totale,362,0,:,0.0,
+Chemioterapie,Campania,Salerno,Aou San Giovanni di Dio Ruggi d'Aragona,Ospedale San Giovanni di Dio Ruggi d'Aragona,Totale,2758,0,:,0.0,
+Chemioterapie,Toscana,Siena,AOU Senese,AOU Senese,Totale,539,0,:,0.0,
+Chemioterapie,Liguria,Genova,Ospedale pediatrico Gaslini,Ospedale pediatrico Gaslini,Totale,99,0,:,0.0,
+Chemioterapie,Liguria,Genova,Ospedale Galliera,Ospedale Galliera,Totale,1067,0,:,0.0,L'ospedale specifica che non ci sono stati rinvii se non per specifica richiesta dei pazienti
+Chemioterapie,Piemonte,Cuneo,Asl Cuneo 2,Asl Cuneo 2,Totale,406,0,:,0.0,
+Chemioterapie,Sicilia,Catania,Arnas Garibaldi,Arnas Garibaldi,Totale,225,0,:,0.0,
+Chemioterapie,Sicilia,Catania,AOU Policlinico Rodolico-San Marco,AOU Policlinico Rodolico-San Marco,Totale,34,0,:,0.0,
+Chemioterapie,Lombardia,Varese,Asst Sette Laghi,Asst Sette Laghi,Totale,2775,0,:,0.0,
+Chemioterapie,Lombardia,Mantova,Asst Mantova,Asst Mantova,Totale,851,0,:,0.0,
+Chemioterapie,Lombardia,Lecco,Asst Lecco,Asst Lecco,Totale,1460,0,:,0.0,
+Chemioterapie,Lombardia,Pavia,Asst Pavia,Ospedale Carlo Mira di Casorate Primo,Totale,23,0,:,0.0,
+Chemioterapie,Lombardia,Pavia,Asst Pavia,Ospedale di Mede,Totale,25,0,:,0.0,
+Chemioterapie,Lombardia,Pavia,Asst Pavia,Ospedale Asilo Vittoria di Mortara,Totale,31,0,:,0.0,
+Chemioterapie,Lombardia,Pavia,Asst Pavia,Ospedale unificato di Broni - Stradella,Totale,129,0,:,0.0,
+Chemioterapie,Lombardia,Pavia,Asst Pavia,Ospedale Ss. Annunziata di Varzi,Totale,66,0,:,0.0,
+Chemioterapie,Lombardia,Pavia,Asst Pavia,Ospedale civile di Vigevano,Totale,476,0,:,0.0,
+Chemioterapie,Lombardia,Pavia,Asst Pavia,Ospedale civile di Voghera,Totale,252,0,:,0.0,
+Chemioterapie,Piemonte,Torino,Asl Torino 4,Ospedale di Chivasso,Totale,330,0,:,0.0,
+Chemioterapie,Piemonte,Torino,Asl Torino 4,Ospedale di Ciriè,Totale,315,0,:,0.0,
+Chemioterapie,Piemonte,Torino,Asl Torino 4,Ospedale di Ivrea,Totale,754,0,:,0.0,
+Chemioterapie,Campania,Napoli,Asl Napoli 3 Sud,Ospedale di Sorrento,Totale,151,0,:,0.0,
+Chemioterapie,Campania,Napoli,Asl Napoli 3 Sud,Ospedale Santa Maria della Pietà di Nola,Totale,332,0,:,0.0,
+Chemioterapie,Campania,Napoli,Asl Napoli 3 Sud,Ospedale Cavalier Raffaele Apicenna di Pollena Trocchia,Totale,342,0,:,0.0,
+Chemioterapie,Lombardia,Lodi,Asst Lodi,Asst Lodi,Totale,410,0,:,0.0,
+Chemioterapie,Lombardia,Brescia,Asst Valcamonica,Asst Valcamonica,Totale,328,0,:,0.0,
+Chemioterapie,Lombardia,Sondrio,Asst Valtellina e Alto Lario,Asst Valtellina e Alto Lario,Totale,1286,0,:,0.0,
+Chemioterapie,Lazio,Roma,Asl Roma 3,Asl Roma 3,Totale,701,0,:,0.0,
+Chemioterapie,Umbria,Perugia,Azienda Usl Umbria 1,Azienda Usl Umbria 1,Totale,1411,0,:,0.0,
+Chemioterapie,Umbria,Terni,Azienda Usl Umbria 2,Azienda Usl Umbria 2,Totale,1445,0,:,0.0,
+Chemioterapie,Lombardia,Cremona,Asst Cremona,Asst Cremona,Totale,5036,24,:,-0.474308300395257,Il dati sono una nostra elaborazione a partire dai dati forniti
+Chemioterapie,Sicilia,Catania,Asp Catania,Asp Catania,Totale,14,13,:,-48.1481481481482,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"

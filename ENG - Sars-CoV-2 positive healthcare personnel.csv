@@ -1,0 +1,328 @@
+Regione,Province,Source,Hospital,Type,Sars-CoV-2 positive,Notes
+Basilicata,Potenza,AO San Carlo,AO San Carlo,Doctors,11,
+Basilicata,Potenza,AO San Carlo,AO San Carlo,Nurses,11,
+Basilicata,Potenza,AO San Carlo,AO San Carlo,Healthcare workers,1,
+Basilicata,Matera,ASM Matera,Distretto di Matera,Doctors,1,
+Basilicata,Matera,ASM Matera,Distretto di Matera,Nurses,1,
+Basilicata,Matera,ASM Matera,Distretto di Matera,Healthcare workers,1,
+Basilicata,Matera,ASM Matera,Distretto di Policoro,Doctors,1,
+Basilicata,Matera,ASM Matera,Distretto di Policoro,Nurses,1,
+Basilicata,Matera,ASM Matera,Distretto di Policoro,Healthcare workers,2,
+Basilicata,Potenza,ASP Potenza,ASP Potenza,Doctors,0,
+Basilicata,Potenza,ASP Potenza,ASP Potenza,Nurses,0,
+Basilicata,Potenza,ASP Potenza,ASP Potenza,Healthcare workers,0,
+Abruzzo,Chieti,Asl 2 Abruzzo,"Ospedale ""Floraspe Renzetti"" di Lanciano",Total,42,"Data including contagion to the Atessa hospital. The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Emilia Romagna,Bologna,Policlinico di Sant'Orsola,Policlinico di Sant'Orsola,Doctors,62,
+Emilia Romagna,Bologna,Policlinico di Sant'Orsola,Policlinico di Sant'Orsola,Nurses,85,
+Emilia Romagna,Bologna,Policlinico di Sant'Orsola,Policlinico di Sant'Orsola,Healthcare workers,52,
+Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale San Bassiano di Bassano del Grappa,Total,59,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale di Asiago,Total,79,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale di Santorso,Total,59,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Veneto,Vicenza,Ulss 7 Pedemontana,Servizi territoriali,Total,10,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Puglia,Bari,Asl Bari,Ospedale San Paolo di Bari,Total,7,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Puglia,Bari,Asl Bari,Ospedale Di Venere di Bari,Total,8,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Puglia,Bari,Asl Bari,Ospedale Santa Maria degli Angeli di Putignano,Total,2,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Puglia,Bari,Asl Bari,"Ospedale ""Sarcone"" di Terlizzi",Total,1,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Puglia,Bari,Asl Bari,Ospedale Don Tonino Bello di Molfetta,Total,1,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Puglia,Bari,Asl Bari,"Ospedale ""Umberto I"" di Corato",Total,1,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Puglia,Bari,Asl Bari,Ospedale San Giacomo di Monopoli,Total,2,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Puglia,Bari,Asl Bari,"Ospedale della Murgia ""Fabio Perinei""",Total,3,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Emilia Romagna,Bologna,Istituto ortopedico Rizzoli,Istituto ortopedico Rizzoli,Total,72,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Tuscany,Firenze,AOU Careggi,AOU Careggi,Total,0,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Lazio,Roma,Asl Roma 6,Ospedale dei Castelli,Doctors,2,
+Lazio,Roma,Asl Roma 6,Ospedale dei Castelli,Nurses,1,
+Lazio,Roma,Asl Roma 6,San Giuseppe - Marino,Doctors,1,
+Lazio,Roma,Asl Roma 6,San Sebastiano Martire,Doctors,2,
+Lazio,Roma,Asl Roma 6,San Sebastiano Martire,Nurses,4,
+Lazio,Roma,Asl Roma 6,Distretto H1,Doctors,1,
+Lazio,Roma,Asl Roma 6,"Civile di Velletri ""P. Colombo""",Doctors,1,
+Lazio,Roma,Asl Roma 6,"Civile di Velletri ""P. Colombo""",Nurses,1,
+Lazio,Roma,Inmi Lazzaro Spallanzani,Inmi Lazzaro Spallanzani,Total,2,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Piedmont,Verbania,Asl Vco,Asl Vco,Total,129,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Lombardy,Milano,Asst Grande ospedale metropolitano Niguarda,Ospedale Niguarda,Total,239,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Sardinia,Cagliari,Arnas Brotzu,Arnas Brotzu,Doctors,2,
+Lombardy,Cremona,Ats Valpadana,Asst di Crema,Doctors,1,
+Lombardy,Cremona,Ats Valpadana,Asst di Cremona,Doctors,2,
+Lombardy,Mantova,Ats Valpadana,Asst di Mantova,Doctors,4,
+Lombardy,Cremona,Ats Valpadana,Asst di Crema,Nurses,1,
+Lombardy,Cremona,Ats Valpadana,Asst di Cremona,Nurses,3,
+Lombardy,Mantova,Ats Valpadana,Asst di Mantova,Nurses,7,
+Sardinia,Sassari,AOU Sassari,AOU Sassari,Doctors,34,
+Sardinia,Sassari,AOU Sassari,AOU Sassari,Nurses,43,
+Sardinia,Sassari,AOU Sassari,AOU Sassari,Healthcare workers,8,
+Puglia,Bari,Policlinico di Bari,Policlinico di Bari,Total,27,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Sicily,Agrigento,Asp Agrigento,Ospedale Giovanni Paolo II di Sciacca,Total,10,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Sicily,Agrigento,Asp Agrigento,Ospedale San Giovanni di Dio di Agrigento,Total,2,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Sicily,Agrigento,Asp Agrigento,Ospedale Barone Lombardo di Canicattì,Total,4,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Sicily,Agrigento,Asp Agrigento,Ospedale Umberto I di Enna,Total,1,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Sicily,Agrigento,Asp Agrigento,Dipartimento di prevenzione,Total,1,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Sicily,Agrigento,Asp Agrigento,Ospedale Vittorio Emanuele di Castelvetrano,Total,1,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Veneto,Vicenza,Azienda ULSS 8 Berica,Azienda ULSS 8 Berica,Total,134,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Emilia Romagna,Parma,Ausl Parma,Ospedale di Vaio Fidenza,Doctors,15,
+Emilia Romagna,Parma,Ausl Parma,Ospedale di Vaio Fidenza,Nurses,15,
+Emilia Romagna,Parma,Ausl Parma,Ospedale di Vaio Fidenza,Healthcare workers,2,
+Emilia Romagna,Parma,Ausl Parma,Ospedale Santa Maria di Borgotaro,Doctors,1,
+Emilia Romagna,Parma,Ausl Parma,Ospedale Santa Maria di Borgotaro,Nurses,11,
+Emilia Romagna,Parma,Ausl Parma,Ospedale Santa Maria di Borgotaro,Healthcare workers,1,
+Emilia Romagna,Parma,Ausl Parma,Distretto di Parma,Doctors,2,The data includes 1 case registered within the Directorate-General
+Emilia Romagna,Parma,Ausl Parma,Distretto di Parma,Nurses,9,The data includes 2 cases registered within the Directorate-General
+Emilia Romagna,Parma,Ausl Parma,Distretto di Parma,Healthcare workers,1,
+Emilia Romagna,Parma,Ausl Parma,Distretto Sud-Est,Doctors,1,
+Emilia Romagna,Parma,Ausl Parma,Distretto Sud-Est,Nurses,1,
+Emilia Romagna,Parma,Ausl Parma,Distretto Valli Taro e Ceno,Doctors,2,
+Emilia Romagna,Parma,Ausl Parma,Distretto Valli Taro e Ceno,Nurses,1,
+Emilia Romagna,Parma,Ausl Parma,Distretto Valli Taro e Ceno,Healthcare workers,1,
+Liguria,Savona,Asl 2,Asl 2,Doctors,14,
+Liguria,Savona,Asl 2,Asl 2,Nurses,79,
+Tuscany,Firenze,AOU Meyer,Azienda ospedaliero universitaria Meyer,Total,19,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Lombardy,Bergamo,Asst Papa Giovanni XXIII,Ospedale Papa Giovanni XXIII di Bergamo,Doctors,115,
+Lombardy,Bergamo,Asst Papa Giovanni XXIII,Ospedale Papa Giovanni XXIII di Bergamo,Nurses,192,
+Lombardy,Bergamo,Asst Papa Giovanni XXIII,Ospedale Civile San Giovanni in Bianco,Total,33,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Lombardy,Milano,Asst Nord Milano,Asst Nord Milano,Doctors,18,
+Lombardy,Milano,Asst Nord Milano,Asst Nord Milano,Nurses,40,
+Lombardy,Milano,Asst Nord Milano,Asst Nord Milano,Healthcare workers,20,
+Abruzzo,L'Aquila,Asl 1 Abruzzo,Sede L'Aquila,Total,7,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Abruzzo,L'Aquila,Asl 1 Abruzzo,Sede Marsica,Total,2,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Abruzzo,L'Aquila,Asl 1 Abruzzo,Sede Peligna,Total,1,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Lazio,Latina,Asl Latina,Asl Latina,Doctors,4,
+Lazio,Latina,Asl Latina,Ospedale San Giovanni di Dio di Fondi,Doctors,1,
+Lazio,Latina,Asl Latina,Ospedale San Giovanni di Dio di Fondi,Nurses,1,
+Lazio,Latina,Asl Latina,Ospedale San Giovanni di Dio di Fondi,Healthcare workers,1,
+Lazio,Latina,Asl Latina,Ospedale Dono Svizzero di Formia,Nurses,1,
+Lazio,Latina,Asl Latina,Ospedale Fiorini di Terracina,Doctors,3,
+Lazio,Latina,Asl Latina,Ospedale Fiorini di Terracina,Nurses,2,
+Lazio,Latina,Asl Latina,Ospedale Fiorini di Terracina,Healthcare workers,1,
+Lazio,Latina,Asl Latina,Ospedale Santa Maria Goretti di Latina,Nurses,10,
+Lazio,Latina,Asl Latina,Ospedale Santa Maria Goretti di Latina,Healthcare workers,1,
+Emilia Romagna,Ferrara,Ausl Ferrara,Ausl Ferrara,Doctors,8,
+Emilia Romagna,Ferrara,Ausl Ferrara,Ausl Ferrara,Nurses,50,
+Emilia Romagna,Ferrara,Ausl Ferrara,Ausl Ferrara,Healthcare workers,23,
+Trentino Alto Adige,Trento,Apss Trento,Nuovo polo ospedaliero trentino,Total,1,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Trentino Alto Adige,Trento,Apss Trento,Ospedale di Arco,Total,11,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Trentino Alto Adige,Trento,Apss Trento,Ospedale di Borgo,Total,10,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Trentino Alto Adige,Trento,Apss Trento,Ospedale di Cavalese,Total,23,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Trentino Alto Adige,Trento,Apss Trento,Ospedale di Cles,Total,9,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Trentino Alto Adige,Trento,Apss Trento,Ospedale di Rovereto,Total,28,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Trentino Alto Adige,Trento,Apss Trento,Ospedale di Tione,Total,14,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Trentino Alto Adige,Trento,Apss Trento,Ospedale di Trento,Total,76,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Trentino Alto Adige,Trento,Apss Trento,Presidio Villa Igea,Total,1,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Trentino Alto Adige,Trento,Apss Trento,Servizi territoriali,Total,51,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Campania,Salerno,Aou San Giovanni di Dio Ruggi d'Aragona,Ospedale San Giovanni di Dio Ruggi d'Aragona,Total,6,"For 4 cases there is certainty that the contagion has occurred in an extra-pep. The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Lombardy,Brescia,Asst Franciacorta,Asst Franciacorta,Doctors,39,
+Lombardy,Brescia,Asst Franciacorta,Asst Franciacorta,Nurses,113,
+Lombardy,Brescia,Asst del Garda,Asst del Garda,Total,306,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Tuscany,Siena,AOU Senese,AOU Senese,Total,8,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Calabria,Cosenza,Asp Cosenza,Asp Cosenza,Nurses,1,The figure refers to the mental health department alone and dependencies
+Liguria,Genova,Ospedale pediatrico Gaslini,Ospedale pediatrico Gaslini,Total,28,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Liguria,Genova,Ospedale Galliera,Ospedale Galliera,Total,144,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Lazio,Rieti,Asl Rieti,Asl Rieti,Total,21,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Piedmont,Cuneo,Asl Cuneo 2,Asl Cuneo 2,Total,23,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Tuscany,Pisa,AOU Pisana,AOU Pisana,Doctors,12,
+Tuscany,Pisa,AOU Pisana,AOU Pisana,Nurses,7,
+Tuscany,Pisa,AOU Pisana,AOU Pisana,Healthcare workers,6,
+Piedmont,Novara,AOU Maggiore della Carità di Novara,AOU Maggiore della Carità di Novara,Doctors,83,
+Piedmont,Novara,AOU Maggiore della Carità di Novara,AOU Maggiore della Carità di Novara,Nurses,160,
+Emilia Romagna,Ferrara,AOU Arcispedale Sant'Anna di Ferrara,AOU Arcispedale Sant'Anna di Ferrara,Doctors,7,
+Emilia Romagna,Ferrara,AOU Arcispedale Sant'Anna di Ferrara,AOU Arcispedale Sant'Anna di Ferrara,Nurses,11,
+Emilia Romagna,Ferrara,AOU Arcispedale Sant'Anna di Ferrara,AOU Arcispedale Sant'Anna di Ferrara,Healthcare workers,5,
+Sicily,Catania,Arnas Garibaldi,Arnas Garibaldi,Doctors,8,
+Sicily,Catania,Arnas Garibaldi,Arnas Garibaldi,Nurses,1,
+Sicily,Messina,Ao Papardo,Ao Papardo,Doctors,2,
+Sicily,Messina,Ao Papardo,Ao Papardo,Nurses,1,
+Piedmont,Torino,Asl Torino 5,Ospedale Maggiore di Chieri,Total,43,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Piedmont,Torino,Asl Torino 5,Ospedale Santa Croce di Moncalieri,Total,112,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Piedmont,Torino,Asl Torino 5,Ospedale San Lorenzo di Carmagnola,Total,42,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Reggio Emilia,Total,274,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Castelnovo Monti,Total,34,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Correggio,Total,55,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Guastalla,Total,97,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Montecchio,Total,54,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Scandiano,Total,24,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Emilia Romagna,Modena,Ausl Modena,Ausl Modena,Total,86,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Liguria,Genova,Ospedale Evangelico Internazionale,Ospedale Evangelico Internazionale,Total,19,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Sicily,Catania,AOU Policlinico Rodolico-San Marco,AOU Policlinico Rodolico-San Marco,Doctors,2,
+Sicily,Catania,AOU Policlinico Rodolico-San Marco,AOU Policlinico Rodolico-San Marco,Nurses,4,
+Friuli Venezia Giulia,Trieste,IRCCS Materno Infantile Burlo Garofolo,IRCCS Materno Infantile Burlo Garofolo,Total,3,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale unico Versilia di Lido di Camaiore,Doctors,6,
+Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale unico Versilia di Lido di Camaiore,Nurses,31,
+Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale unico Versilia di Lido di Camaiore,Healthcare workers,13,
+Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Ospedali riuniti di Livorno,Doctors,7,
+Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Ospedali riuniti di Livorno,Nurses,20,
+Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Ospedali riuniti di Livorno,Healthcare workers,7,
+Tuscany,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale SS. Giacomo e Cristoforo di Massa,Doctors,1,
+Tuscany,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale SS. Giacomo e Cristoforo di Massa,Nurses,13,
+Tuscany,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale SS. Giacomo e Cristoforo di Massa,Healthcare workers,3,
+Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale San Luca di Lucca,Doctors,3,
+Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale San Luca di Lucca,Nurses,11,
+Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale San Luca di Lucca,Healthcare workers,6,
+Tuscany,Pisa,Azienda Usl Toscana Nord Ovest,Ospedale Felice Lotti di Pontedera,Doctors,6,
+Tuscany,Pisa,Azienda Usl Toscana Nord Ovest,Ospedale Felice Lotti di Pontedera,Nurses,7,
+Tuscany,Pisa,Azienda Usl Toscana Nord Ovest,Ospedale Felice Lotti di Pontedera,Healthcare workers,1,
+Tuscany,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale Sant'Antonio Abate di Fivizzano,Nurses,5,
+Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Ospedale di Cecina,Doctors,1,
+Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Ospedale di Cecina,Nurses,5,
+Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Ospedale di Cecina,Healthcare workers,1,
+Tuscany,Pisa,Azienda Usl Toscana Nord Ovest,Ospedale Santa Maria Maddalena di Volterra,Doctors,2,
+Tuscany,Pisa,Azienda Usl Toscana Nord Ovest,Ospedale Santa Maria Maddalena di Volterra,Nurses,2,
+Tuscany,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale civile di Carrara,Nurses,3,
+Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale San Francesco di Barga,Nurses,2,
+Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale San Francesco di Barga,Healthcare workers,1,
+Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale Santa Croce Castelnuovo Garfagnana,Nurses,1,
+Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale Santa Croce Castelnuovo Garfagnana,Healthcare workers,1,
+Tuscany,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale Sant'Antonio Abate di Pontremoli,Nurses,1,
+Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Cittadella della Salute Campo di Marte,Nurses,2,
+Tuscany,Massa Carrara,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Nurses,13,
+Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Doctors,2,
+Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Nurses,12,
+Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Doctors,1,
+Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Nurses,1,
+Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Healthcare workers,1,
+Tuscany,Pisa,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Doctors,1,
+Tuscany,Pisa,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Nurses,1,
+Piedmont,Alessandria,Asl Alessandria,Asl Alessandria,Doctors,2,
+Piedmont,Alessandria,Asl Alessandria,Asl Alessandria,Nurses,15,
+Piedmont,Alessandria,Asl Alessandria,Asl Alessandria,Healthcare workers,8,
+Piedmont,Alessandria,Asl Alessandria,Ospedale Monsignor Giovanni Galliano di Acqui Terme,Doctors,11,
+Piedmont,Alessandria,Asl Alessandria,Ospedale Monsignor Giovanni Galliano di Acqui Terme,Nurses,24,
+Piedmont,Alessandria,Asl Alessandria,Ospedale Monsignor Giovanni Galliano di Acqui Terme,Healthcare workers,12,
+Piedmont,Alessandria,Asl Alessandria,Ospedale Santo Spirito di Casale Monferrato,Doctors,16,
+Piedmont,Alessandria,Asl Alessandria,Ospedale Santo Spirito di Casale Monferrato,Nurses,50,
+Piedmont,Alessandria,Asl Alessandria,Ospedale Santo Spirito di Casale Monferrato,Healthcare workers,25,
+Piedmont,Alessandria,Asl Alessandria,Ospedale San Giacomo di Novi Ligure,Doctors,12,
+Piedmont,Alessandria,Asl Alessandria,Ospedale San Giacomo di Novi Ligure,Nurses,32,
+Piedmont,Alessandria,Asl Alessandria,Ospedale San Giacomo di Novi Ligure,Healthcare workers,8,
+Piedmont,Alessandria,Asl Alessandria,Ospedale civile di Ovada,Doctors,7,
+Piedmont,Alessandria,Asl Alessandria,Ospedale civile di Ovada,Nurses,18,
+Piedmont,Alessandria,Asl Alessandria,Ospedale civile di Ovada,Healthcare workers,12,
+Piedmont,Alessandria,Asl Alessandria,Ospedale civile Santi Antonio e Margherita di Tortona,Doctors,14,
+Piedmont,Alessandria,Asl Alessandria,Ospedale civile Santi Antonio e Margherita di Tortona,Nurses,34,
+Piedmont,Alessandria,Asl Alessandria,Ospedale civile Santi Antonio e Margherita di Tortona,Healthcare workers,8,
+Piedmont,Alessandria,Asl Alessandria,Ospedale di Valenza,Nurses,1,
+Lombardy,Varese,Asst Sette Laghi,Asst Sette Laghi,Doctors,16,
+Lombardy,Varese,Asst Sette Laghi,Asst Sette Laghi,Nurses,41,
+Lombardy,Mantova,Asst Mantova,Asst Mantova,Total,183,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Friuli Venezia Giulia,Pordenone,IRCCS Centro di riferimento oncologico di Aviano,IRCCS Centro di riferimento oncologico di Aviano,Total,0,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Campania,Napoli,IRCCS Fondazione Pascale di Napoli,IRCCS Fondazione Pascale di Napoli,Total,0,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff. The health local district specifies that all the positives were asymptomatic"
+Campania,Napoli,AORN Santobono Pausilipon di Napoli,AORN Santobono Pausilipon di Napoli,Doctors,6,
+Campania,Napoli,AORN Santobono Pausilipon di Napoli,AORN Santobono Pausilipon di Napoli,Nurses,5,
+Campania,Napoli,AORN Ospedali dei Colli,AORN Ospedali dei Colli,Total,68,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number could also include administrative staff"
+Lombardy,Lecco,Asst Lecco,Asst Lecco,Doctors,54,
+Lombardy,Lecco,Asst Lecco,Asst Lecco,Nurses,262,The data also includes oss and technicians
+Lombardy,Milano,IRCCS Ca' Granda Ospedale Maggiore Policlinico,IRCCS Ca' Granda Ospedale Maggiore Policlinico,Doctors,74,
+Lombardy,Milano,IRCCS Ca' Granda Ospedale Maggiore Policlinico,IRCCS Ca' Granda Ospedale Maggiore Policlinico,Nurses,77,The figure also concerns the obstetrics
+Lombardy,Milano,IRCCS Ca' Granda Ospedale Maggiore Policlinico,IRCCS Ca' Granda Ospedale Maggiore Policlinico,Healthcare workers,27,
+Lombardy,Milano,Asst Gaetano Pini CTO,Asst Gaetano Pini CTO,Doctors,24,
+Lombardy,Milano,Asst Gaetano Pini CTO,Asst Gaetano Pini CTO,Nurses,62,
+Lombardy,Pavia,Asst Pavia,Asst Pavia,Total,236,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Brands,Pesaro,Ao Ospedali riuniti Marche Nord,Ao Ospedali riuniti Marche Nord,Total,100,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss."
+Piedmont,Torino,Asl Torino 4,Ospedale di Chivasso,Total,64,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Piedmont,Torino,Asl Torino 4,Ospedale di Ciriè,Total,77,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Piedmont,Torino,Asl Torino 4,Ospedale di Ivrea,Total,58,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Puglia,Barletta-Andria-Trani,Asl BAT,Asl BAT,Doctors,6,
+Puglia,Barletta-Andria-Trani,Asl BAT,Asl BAT,Nurses,10,
+Puglia,Barletta-Andria-Trani,Asl BAT,Asl BAT,Healthcare workers,3,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Distretto di Portogruaro,Nurses,1,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di Jesolo,Nurses,8,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di Jesolo,Doctors,2,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di Jesolo,Healthcare workers,5,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di Portogruaro,Nurses,26,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di Portogruaro,Doctors,3,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di Portogruaro,Healthcare workers,7,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di San Donà di Piave,Nurses,11,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di San Donà di Piave,Doctors,7,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di San Donà di Piave,Healthcare workers,5,
+Lombardy,Como,Asst Lariana,Asst Lariana,Total,104,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Liguria,Genova,Asl 4 Liguria,Asl 4 Liguria,Doctors,12,
+Liguria,Genova,Asl 4 Liguria,Asl 4 Liguria,Nurses,27,
+Liguria,Genova,Asl 4 Liguria,Asl 4 Liguria,Healthcare workers,9,
+Lombardy,Pavia,Ats Pavia,Ats Pavia,Total,1,The figure refers to a not better precise health personnel
+Campania,Napoli,Asl Napoli 3 Sud,Ospedale di Sorrento,Total,1,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Campania,Napoli,Asl Napoli 3 Sud,Ospedale Santa Maria della Pietà di Nola,Total,4,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Campania,Napoli,Asl Napoli 3 Sud,Ospedale Cavalier Raffaele Apicenna di Pollena Trocchia,Total,0,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Lombardy,Lodi,Asst Lodi,Asst Lodi,Total,164,The figure refers to a not better precise health personnel
+Lombardy,Brescia,Asst Valcamonica,Asst Valcamonica,Doctors,32,
+Lombardy,Brescia,Asst Valcamonica,Asst Valcamonica,Total,59,"The figure refers to health personnel, excluding doctors"
+Lombardy,Sondrio,Asst Valtellina e Alto Lario,Asst Valtellina e Alto Lario,Total,117,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Lombardy,Milano,Asst Rhodense,Ospedale Guido Salvini di Garbagnate Milanese,Nurses,38,
+Lombardy,Milano,Asst Rhodense,Ospedale Guido Salvini di Garbagnate Milanese,Doctors,17,
+Lombardy,Milano,Asst Rhodense,Ospedale Guido Salvini di Garbagnate Milanese,Healthcare workers,17,
+Lombardy,Milano,Asst Rhodense,Ospedale di Rho,Nurses,66,
+Lombardy,Milano,Asst Rhodense,Ospedale di Rho,Doctors,17,
+Lombardy,Milano,Asst Rhodense,Ospedale di Rho,Healthcare workers,25,
+Lombardy,Milano,Asst Rhodense,Ospedale Giuseppe Casati Passirana,Nurses,30,
+Lombardy,Milano,Asst Rhodense,Ospedale Giuseppe Casati Passirana,Doctors,14,
+Lombardy,Milano,Asst Rhodense,Ospedale Giuseppe Casati Passirana,Healthcare workers,19,
+Lombardy,Milano,Asst Rhodense,Ospedale Caduti Bollatesi di Bollate,Nurses,6,
+Lombardy,Milano,Asst Rhodense,Ospedale Caduti Bollatesi di Bollate,Doctors,2,
+Lombardy,Milano,Asst Rhodense,Ospedale Caduti Bollatesi di Bollate,Healthcare workers,2,
+Lombardy,Milano,Asst Rhodense,R.S.A. Sandro Pertini di Garbagnate Milanese,Nurses,1,
+Lombardy,Milano,Asst Rhodense,R.S.A. Sandro Pertini di Garbagnate Milanese,Doctors,3,
+Lombardy,Milano,Asst Rhodense,R.S.A. Sandro Pertini di Garbagnate Milanese,Healthcare workers,13,
+Lombardy,Milano,Asst Rhodense,Territorio Asst Rhodense,Nurses,2,
+Lombardy,Varese,Asst Valle Olona,Asst Valle Olona,Total,167,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Campania,Napoli,AOU Federico II di Napoli,AOU Federico II di Napoli,Total,23,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Friuli Venezia Giulia,Pordenone,As Friuli Occidentale,As Friuli Occidentale,Total,50,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Lazio,Roma,Asl Roma 3,Presidio ospedaliero G.B. Grassi di Roma,Doctors,1,
+Lazio,Roma,Asl Roma 3,Presidio ospedaliero G.B. Grassi di Roma,Healthcare workers,2,
+Umbria,Perugia,Azienda Usl Umbria 1,Sede di Città di Castello,Total,34,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Umbria,Perugia,Azienda Usl Umbria 1,Sede di Branca,Total,7,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Umbria,Perugia,Azienda Usl Umbria 1,Sede di Assisi,Total,3,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Umbria,Perugia,Azienda Usl Umbria 1,Sede lago Trasimeno,Total,3,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Umbria,Perugia,Azienda Usl Umbria 1,Distretto Media Valle del Tevere,Total,1,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Umbria,Perugia,Azienda Usl Umbria 1,Distretto Perugia,Total,8,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Umbria,Perugia,Azienda Usl Umbria 1,Territorio Azienda Usl Umbria 1,Total,12,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria della Stella di Orvieto,Nurses,6,
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria della Stella di Orvieto,Doctors,3,
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria della Stella di Orvieto,Healthcare workers,1,
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale San Giovanni Battista di Foligno,Nurses,1,
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale San Giovanni Battista di Foligno,Doctors,3,
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale San Giovanni Battista di Foligno,Healthcare workers,1,
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale civile San Matteo degli Infermi di Spoleto,Nurses,1,
+Umbria,Terni,Azienda Usl Umbria 2,Stabilimento di Terni,Nurses,4,
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale di Norcia,Total,1,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff. It is not clear if you refer to the Hospital of Norcia or Cascia (Norcia / Cascia indication)"
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria dei Laici di Amelia,Nurses,1,
+Lazio,Roma,AOU Policlinico Umberto I,Policlinico Umberto I,Total,51,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff. The figure is relative to the period between March 1 and 31 May 2020"
+Liguria,Genova,IRCCS AOU San Martino,Ospedale Policlinico San Martino,Total,162,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Lombardy,Cremona,Asst Cremona,Asst Cremona,Total,276,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Lombardy,Milano,IRCCS Istituto tumori di Milano,IRCCS Istituto tumori di Milano,Doctors,9,
+Lombardy,Milano,IRCCS Istituto tumori di Milano,IRCCS Istituto tumori di Milano,Nurses,18,
+Lombardy,Milano,IRCCS Istituto tumori di Milano,IRCCS Istituto tumori di Milano,Healthcare workers,6,
+Liguria,Genova,Asl 3 Liguria,Asl 3 Liguria,Doctors,40,
+Liguria,Genova,Asl 3 Liguria,Asl 3 Liguria,Nurses,111,
+Liguria,Genova,Asl 3 Liguria,Asl 3 Liguria,Healthcare workers,31,
+Liguria,Imperia,Asl 1 Liguria,Ambito imperiese,Doctors,21,
+Liguria,Imperia,Asl 1 Liguria,Ambito imperiese,Nurses,74,The figure also refers to OSS
+Liguria,Imperia,Asl 1 Liguria,Ambito sanremese,Doctors,20,
+Liguria,Imperia,Asl 1 Liguria,Ambito sanremese,Nurses,79,The figure also refers to OSS
+Liguria,Imperia,Asl 1 Liguria,Ambito Bordighera/Ventimiglia,Doctors,4,
+Liguria,Imperia,Asl 1 Liguria,Ambito Bordighera/Ventimiglia,Nurses,22,The figure also refers to OSS
+Lombardy,Monza Brianza,Asst Brianza,Asst Brianza,Total,132,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Veneto,Treviso,Azienda Ulss 2 Marca Trevigiana,Azienda Ulss 2 Marca Trevigiana,Doctors,49,
+Veneto,Treviso,Azienda Ulss 2 Marca Trevigiana,Azienda Ulss 2 Marca Trevigiana,Healthcare workers,88,
+Veneto,Treviso,Azienda Ulss 2 Marca Trevigiana,Azienda Ulss 2 Marca Trevigiana,Nurses,158,
+Campania,Avellino,AORN San Giuseppe Moscati di Avellino,AORN San Giuseppe Moscati di Avellino,Total,32,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Sardinia,Cagliari,AOU Ospedale civile di Cagliari,AOU Ospedale civile di Cagliari,Total,23,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Lombardy,Milano,Ats Città metropolitana di Milano,Ats Città metropolitana di Milano,Total,27,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Emilia Romagna,Bologna,Ausl Bologna,Ausl Bologna,Doctors,77,Three positive doctors were trainees at the time
+Emilia Romagna,Bologna,Ausl Bologna,Ausl Bologna,Nurses,160,
+Emilia Romagna,Ravenna,Ausl Romagna,Ausl Romagna,Doctors,109,
+Emilia Romagna,Ravenna,Ausl Romagna,Ausl Romagna,Healthcare workers,88,
+Emilia Romagna,Ravenna,Ausl Romagna,Ausl Romagna,Nurses,323,
+Puglia,Foggia,AOU Ospedali riuniti di Foggia,AOU Ospedali riuniti di Foggia,Total,42,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Distretto di Bolzano,Total,95,The health local district provided the data relating to a not better precise health personnel
+Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Distretto di Merano,Total,30,The health local district provided the data relating to a not better precise health personnel
+Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Distretto di Bressanone,Total,37,The health local district provided the data relating to a not better precise health personnel
+Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Distretto di Brunico,Total,26,The health local district provided the data relating to a not better precise health personnel
+Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Azienda sanitaria dell'Alto Adige,Total,24,The health local district provided the data relating to a not better precise health personnel
+Piedmont,Torino,AOU San Luigi Gonzaga di Orbassano,AOU San Luigi Gonzaga di Orbassano,Total,91,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Abruzzo,Teramo,Asl Teramo,Ospedale Giuseppe Mazzini di Teramo,Total,69,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Abruzzo,Teramo,Asl Teramo,Ospedale San Liberatore di Atri,Total,8,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Abruzzo,Teramo,Asl Teramo,Ospedale Maria SS dello Splendore di Giulianova,Total,8,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Abruzzo,Teramo,Asl Teramo,Ospedale Val Vibrata di Sant'Omero,Total,5,"The health local district has not provided data that would allow to distinguish between doctors, nurses and oss. The number may also include administrative staff."
+Sicily,Catania,Asp Catania,Asp Catania,Doctors,23,
+Sicily,Catania,Asp Catania,Asp Catania,Nurses,18,
+Sicily,Catania,Asp Catania,Asp Catania,Healthcare workers,12,
+Lazio,Roma,AO San Giovanni,AO San Giovanni,Total,0,
+Lazio,Roma,Policlinico Tor Vergata,Policlinico Tor Vergata,Doctors,10,
+Lazio,Roma,Policlinico Tor Vergata,Policlinico Tor Vergata,Nurses,12,
+Lazio,Roma,Policlinico Tor Vergata,Policlinico Tor Vergata,Healthcare workers,1,

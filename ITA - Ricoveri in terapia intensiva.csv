@@ -1,0 +1,119 @@
+Regione,Provincia,Fonte,Ospedale,Ricoveri
+Basilicata,Potenza,AO San Carlo,Ospedale di Potenza,20
+Basilicata,Matera,ASM Matera,Distretto di Matera,19
+Abruzzo,Chieti,Asl 2 Abruzzo,"Ospedale ""SS. Annunziata"" di Chieti",38
+Emilia Romagna,Bologna,Policlinico di Sant'Orsola,Policlinico di Sant'Orsola,76
+Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale San Bassiano di Bassano del Grappa,12
+Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale di Santorso,36
+Toscana,Firenze,AOU Careggi,AOU Careggi,100
+Lazio,Roma,Inmi Lazzaro Spallanzani,Inmi Lazzaro Spallanzani,65
+Piemonte,Verbania,Asl Vco,"Ospedale ""Castelli"" di Verbania Pallanza",19
+Piemonte,Verbania,Asl Vco,Ospedale San Biagio di Domodossola,6
+Lombardia,Milano,Asst Grande ospedale metropolitano Niguarda,Ospedale Niguarda,163
+Sardegna,Cagliari,Arnas Brotzu,Arnas Brotzu,4
+Lombardia,Cremona,Ats Valpadana,Asst di Crema,16
+Lombardia,Cremona,Ats Valpadana,Asst di Cremona,163
+Lombardia,Mantova,Ats Valpadana,Asst di Mantova,25
+Sardegna,Sassari,AOU Sassari,AOU Sassari,28
+Puglia,Bari,Policlinico di Bari,Policlinico di Bari,57
+Lazio,Roma,Ospedale Sant'Andrea,Ospedale Sant'Andrea,47
+Sicilia,Catania,AOU Policlinico Rodolico-San Marco,AOU Policlinico Rodolico-San Marco,27
+Sicilia,Agrigento,Asp Agrigento,Asp Agrigento,0
+Veneto,Vicenza,Azienda ULSS 8 Berica,Azienda ULSS 8 Berica,67
+Emilia Romagna,Parma,Ausl Parma,Ospedale di Vaio Fidenza,63
+Campania,Salerno,Asl Salerno,"Ospedale ""San Francesco d'Assisi"" di Oliveto Citra",2
+Campania,Salerno,Asl Salerno,"Ospedale ""Luigi Curto"" di Polla",7
+Campania,Salerno,Asl Salerno,"Ospedale ""Maria SS.Addolorata"" di Eboli",4
+Campania,Salerno,Asl Salerno,"Ospedale ""San Luca"" di Vallo della Lucania",3
+Campania,Salerno,Asl Salerno,"Ospedale ""Umberto I"" di Nocera Inferiore",9
+Toscana,Firenze,AOU Meyer,Azienda ospedaliero universitaria Meyer,0
+Lombardia,Bergamo,Asst Papa Giovanni XXIII,Asst Papa Giovanni XXIII,349
+Lombardia,Milano,Asst Nord Milano,Asst Nord Milano,52
+Lazio,Latina,Asl Latina,Asl Latina,13
+Emilia Romagna,Ferrara,Ausl Ferrara,Ausl Ferrara,38
+Campania,Salerno,Aou San Giovanni di Dio Ruggi d'Aragona,Ospedale San Giovanni di Dio Ruggi d'Aragona,13
+Lombardia,Brescia,Asst Franciacorta,Asst Franciacorta,70
+Lombardia,Brescia,Asst del Garda,Asst del Garda,86
+Toscana,Siena,AOU Senese,AOU Senese,13
+Liguria,Genova,Ospedale Galliera,Ospedale Galliera,37
+Piemonte,Cuneo,Asl Cuneo 2,Asl Cuneo 2,25
+Toscana,Pisa,AOU Pisana,AOU Pisana,93
+Piemonte,Novara,AOU Maggiore della Carità di Novara,AOU Maggiore della Carità di Novara,120
+Emilia Romagna,Ferrara,AOU Arcispedale Sant'Anna di Ferrara,AOU Arcispedale Sant'Anna di Ferrara,50
+Sicilia,Catania,Arnas Garibaldi,Arnas Garibaldi,29
+Sicilia,Messina,Ao Papardo,Ao Papardo,0
+Piemonte,Cuneo,Asl Cuneo 1,Ospedale di Mondovì,31
+Piemonte,Cuneo,Asl Cuneo 1,Ospedale di Saluzzo,24
+Piemonte,Torino,Asl Torino 5,Ospedale Maggiore di Chieri,8
+Piemonte,Torino,Asl Torino 5,Ospedale Santa Croce di Moncalieri,7
+Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Reggio Emilia,82
+Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Guastalla,33
+Emilia Romagna,Modena,Ausl Modena,Ospedale di Carpi,30
+Liguria,Genova,Ospedale Evangelico Internazionale,Ospedale Evangelico Internazionale,11
+Friuli Venezia Giulia,Trieste,IRCCS Materno Infantile Burlo Garofolo,IRCCS Materno Infantile Burlo Garofolo,2
+Toscana,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale SS. Giacomo e Cristoforo di Massa,120
+Toscana,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale Sant'Antonio Abate di Pontremoli,2
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale San Luca di Lucca,58
+Toscana,Pisa,Azienda Usl Toscana Nord Ovest,Struttura per Covid19 CDM,10
+Toscana,Pisa,Azienda Usl Toscana Nord Ovest,Ospedale Felice Lotti di Pontedera,5
+Toscana,Livorno,Azienda Usl Toscana Nord Ovest,Ospedali riuniti di Livorno,33
+Toscana,Livorno,Azienda Usl Toscana Nord Ovest,Ospedale di Cecina,1
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale unico Versilia di Lido di Camaiore,42
+Piemonte,Alessandria,Asl Alessandria,Ospedale Monsignor Giovanni Galliano di Acqui Terme,20
+Piemonte,Alessandria,Asl Alessandria,Ospedale Santo Spirito di Casale Monferrato,37
+Piemonte,Alessandria,Asl Alessandria,Ospedale San Giacomo di Novi Ligure,25
+Piemonte,Alessandria,Asl Alessandria,Ospedale civile Santi Antonio e Margherita di Tortona,16
+Campania,Napoli,Asl Napoli 2 Nord,Ospedale civile San Giovanni di Dio di Frattamaggiore,5
+Campania,Napoli,Asl Napoli 2 Nord,Ospedale Anna Rizzoli di Lacco Ameno,2
+Campania,Napoli,Asl Napoli 2 Nord,Ospedale Santa Maria delle Grazie di Pozzuoli,6
+Campania,Napoli,Asl Napoli 2 Nord,Ospedale San Giuliano di Giugliano in Campania,6
+Lombardia,Varese,Asst Sette Laghi,Asst Sette Laghi,105
+Friuli Venezia Giulia,Pordenone,IRCCS Centro di riferimento oncologico di Aviano,IRCCS Centro di riferimento oncologico di Aviano,0
+Campania,Napoli,AORN Santobono Pausilipon di Napoli,AORN Santobono Pausilipon di Napoli,1
+Campania,Napoli,AORN Ospedali dei Colli,AORN Ospedali dei Colli,37
+Lombardia,Lecco,Asst Lecco,Asst Lecco,165
+Lombardia,Pavia,Asst Pavia,Ospedale civile di Voghera,64
+Lombardia,Pavia,Asst Pavia,Ospedale civile di Vigevano,36
+Marche,Pesaro,Ao Ospedali riuniti Marche Nord,Ao Ospedali riuniti Marche Nord,118
+Piemonte,Torino,Asl Torino 4,Ospedale di Chivasso,24
+Piemonte,Torino,Asl Torino 4,Ospedale di Ciriè,22
+Piemonte,Torino,Asl Torino 4,Ospedale di Ivrea,34
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Azienda ULSS 4 Veneto Orientale,51
+Lombardia,Como,Asst Lariana,Asst Lariana,106
+Liguria,Genova,Asl 4 Liguria,Ospedale di Lavagna,1
+Liguria,Genova,Asl 4 Liguria,Ospedale di Sestri Levante,16
+Campania,Napoli,Asl Napoli 3 Sud,Ospedale di Sorrento,0
+Campania,Napoli,Asl Napoli 3 Sud,Ospedale Santa Maria della Pietà di Nola,2
+Lombardia,Brescia,Asst Valcamonica,Asst Valcamonica,45
+Lombardia,Sondrio,Asst Valtellina e Alto Lario,Ospedale Morelli di Sondalo,64
+Lombardia,Milano,Asst Rhodense,Asst Rhodense,104
+Lombardia,Varese,Asst Valle Olona,Asst Valle Olona,112
+Friuli Venezia Giulia,Pordenone,As Friuli Occidentale,Ospedale Santa Maria degli Angeli di Pordenone,30
+Lazio,Roma,Asl Roma 3,Asl Roma 3,1
+Umbria,Perugia,Azienda Usl Umbria 1,Azienda Usl Umbria 1,16
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale San Giovanni Battista di Foligno,2
+Lazio,Roma,AOU Policlinico Umberto I,Policlinico Umberto I,77
+Liguria,Genova,IRCCS AOU San Martino,Ospedale Policlinico San Martino,192
+Liguria,Imperia,Asl 1 Liguria,Asl 1 Liguria,74
+Lombardia,Monza Brianza,Asst Brianza,Asst Brianza,54
+Piemonte,Cuneo,AO Santa Croce e Carle di Cuneo,AO Santa Croce e Carle di Cuneo,19
+Lazio,Viterbo,Asl Viterbo,Asl Viterbo,10
+Veneto,Belluno,Azienda Ussl 1 Dolomiti,Ospedale San Martino di Belluno,16
+Veneto,Belluno,Azienda Ussl 1 Dolomiti,Ospedale di Feltre,3
+Campania,Avellino,AORN San Giuseppe Moscati di Avellino,AORN San Giuseppe Moscati di Avellino,39
+Emilia Romagna,Bologna,Ausl Bologna,Ospedale Bellaria,168
+Emilia Romagna,Bologna,Ausl Bologna,Ospedale di Bentivoglio,68
+Emilia Romagna,Bologna,Ausl Bologna,Ospedale Maggiore,205
+Emilia Romagna,Forlì-Cesena,Ausl Romagna,Ospedale Bufalini di Cesena,22
+Emilia Romagna,Rimini,Ausl Romagna,Ospedale Franchini di Sant'Arcangelo di Rimini,20
+Emilia Romagna,Ravenna,Ausl Romagna,Ospedale Santa Maria delle Croci di Ravenna,19
+Emilia Romagna,Forlì-Cesena,Ausl Romagna,Ospedale Morgagni Pierantoni di Forlì,12
+Emilia Romagna,Ravenna,Ausl Romagna,Ospedale Umberto I di Lugo,4
+Puglia,Foggia,AOU Ospedali riuniti di Foggia,AOU Ospedali riuniti di Foggia,48
+Valle d'Aosta,Aosta,Ausl Valle d'Aosta,Ausl Valle d'Aosta,51
+Piemonte,Torino,AOU San Luigi Gonzaga di Orbassano,AOU San Luigi Gonzaga di Orbassano,24
+Sicilia,Catania,Asp Catania,Ospedale S. Marta e S. Venera di Acireale,4
+Sicilia,Catania,Asp Catania,Ospedale Gravina e S. Pietro di Caltagirone,6
+Lazio,Roma,AO San Giovanni,AO San Giovanni,2
+Lazio,Roma,Policlinico Tor Vergata,Policlinico Tor Vergata,47
+Campania,Caserta,AORN Caserta,AORN Caserta,27

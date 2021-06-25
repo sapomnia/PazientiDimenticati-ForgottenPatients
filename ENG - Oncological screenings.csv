@@ -1,0 +1,101 @@
+Service,Region,Province,Source,Hospital,Type,Delivered,Postponed,Delivered in 2019,Rate change,Notes
+Oncological screenings,Friuli Venezia Giulia,Pordenone,As Friuli Occidentale,As Friuli Occidentale,Colorectal cancer screenings,2065,:,4647,-55.56272864,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Friuli Venezia Giulia,Pordenone,As Friuli Occidentale,As Friuli Occidentale,Breast cancer screenings,640,:,3803,-83.17118065,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Veneto,Vicenza,Azienda ULSS 8 Berica,Ospedale di Montecchio-Arzignano,Total,1678,:,4805,-65.0780437,"The company has not provided data that allowed to distinguish between sinus cancer screenings and those for rectal colon cancer. The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Veneto,Vicenza,Azienda ULSS 8 Berica,Ospedale di Valdagno,Total,179,:,1601,-88.81948782,"The company has not provided data that allowed to distinguish between sinus cancer screenings and those for rectal colon cancer. The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Veneto,Vicenza,Azienda ULSS 8 Berica,Ospedale San Bortolo di Vicenza,Total,1848,:,3435,-46.20087336,"The company has not provided data that allowed to distinguish between sinus cancer screenings and those for rectal colon cancer. The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Liguria,Savona,Asl 2,Asl 2,Colorectal cancer screenings,554,:,3389,-83.65299498,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Liguria,Savona,Asl 2,Asl 2,Breast cancer screenings,378,:,2808,-86.53846154,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Abruzzo,L'Aquila,Asl 1 Abruzzo,Asl 1 Abruzzo,Breast cancer screenings,142,:,639,-77.77777778,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Abruzzo,L'Aquila,Asl 1 Abruzzo,Asl 1 Abruzzo,Colorectal cancer screenings,205,:,1186,-82.71500843,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Lombardy,Brescia,Asst Franciacorta,Asst Franciacorta,Breast cancer screenings,711,:,3285,-78.35616438,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Lombardy,Brescia,Asst Franciacorta,Asst Franciacorta,Colorectal cancer screenings,41,:,365,-88.76712329,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Lombardy,Brescia,Asst del Garda,Asst del Garda,Breast cancer screenings,31,:,182,-82.96703297,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Lazio,Rieti,Asl Rieti,Asl Rieti,Breast cancer screenings,6,:,13,-53.84615385,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Lazio,Rieti,Asl Rieti,Asl Rieti,Colorectal cancer screenings,15,:,26,-42.30769231,"The comparison is not on the referrals, but on the performance of the same period of 2019. The increase recorded in 2020 is due to an increase in invitations"
+Oncological screenings,Lombardy,Varese,Asst Sette Laghi,Asst Sette Laghi,Colorectal cancer screenings,158,:,176,-10.22727273,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Lombardy,Varese,Asst Sette Laghi,Asst Sette Laghi,Breast cancer screenings,4021,:,3399,18.29949985,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Lombardy,Milano,IRCCS Ca' Granda Ospedale Maggiore Policlinico,IRCCS Ca' Granda Ospedale Maggiore Policlinico,Breast cancer screenings,425,:,2790,-84.76702509,
+Oncological screenings,Lombardy,Milano,IRCCS Ca' Granda Ospedale Maggiore Policlinico,IRCCS Ca' Granda Ospedale Maggiore Policlinico,Colorectal cancer screenings,60,:,94,-36.17021277,
+Oncological screenings,Lombardy,Lodi,Asst Lodi,Asst Lodi,Colorectal cancer screenings,556,:,2221,-74.96623143,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Lombardy,Lodi,Asst Lodi,Asst Lodi,Breast cancer screenings,123,:,2451,-94.98164015,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Lombardy,Brescia,Asst Valcamonica,Asst Valcamonica,Colorectal cancer screenings,338,:,1592,-78.76884422,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Lombardy,Brescia,Asst Valcamonica,Asst Valcamonica,Breast cancer screenings,267,:,1209,-77.91563275,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Lombardy,Milano,Asst Rhodense,Asst Rhodense,Colorectal cancer screenings,123,:,169,-27.21893491,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Lombardy,Milano,Asst Rhodense,Asst Rhodense,Breast cancer screenings,496,:,2650,-81.28301887,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Liguria,Genova,IRCCS AOU San Martino,Ospedale Policlinico San Martino,Breast cancer screenings,723,:,3499,-79.33695342,
+Oncological screenings,Piedmont,Torino,Asl Torino 3,Asl Torino 3,Breast cancer screenings,522,:,2600,-79.92307692,The company specifies that the in-depth examination exams have never been suspended
+Oncological screenings,Piedmont,Torino,Asl Torino 3,Asl Torino 3,Colorectal cancer screenings,305,:,1150,-73.47826087,The company specifies that the in-depth examination exams have never been suspended
+Oncological screenings,Campania,Avellino,AORN San Giuseppe Moscati di Avellino,AORN San Giuseppe Moscati di Avellino,Total,526,:,1342,-60.804769,"The comparison is not on the postponements, but on the performance of the same period of 2019. The data also contain the screening for the protestate cancer"
+Oncological screenings,Emilia Romagna,Bologna,Ausl Bologna,Ausl Bologna,Breast cancer screenings,3025,:,12570,-75.93476531,"The comparison is not on the postponements, but on the performance of the same period of 2019. The AUSL has recovered the suspended visits between May and July 2020"
+Oncological screenings,Emilia Romagna,Bologna,Ausl Bologna,Ausl Bologna,Colorectal cancer screenings,3031,:,10921,-72.24613131,"The comparison is not on the postponements, but on the performance of the same period of 2019. The AUSL has recovered the suspended visits between May and July 2020"
+Oncological screenings,Sicily,Catania,Asp Catania,Asp Catania,Breast cancer screenings,175,:,3447,-94.92312155,
+Oncological screenings,Sicily,Catania,Asp Catania,Asp Catania,Colorectal cancer screenings,291,:,2614,-88.86763581,
+Oncological screenings,Basilicata,Matera,ASM Matera,Distretto di Matera,Breast cancer screenings,204,628,:,-75.48076923,
+Oncological screenings,Basilicata,Matera,ASM Matera,Distretto di Matera,Colorectal cancer screenings,12,52,:,-81.25,
+Oncological screenings,Basilicata,Matera,ASM Matera,Distretto di Policoro,Breast cancer screenings,72,467,:,-86.6419295,
+Oncological screenings,Basilicata,Matera,ASM Matera,Distretto di Policoro,Colorectal cancer screenings,8,0,:,0.0,
+Oncological screenings,Basilicata,Potenza,AO San Carlo,AO San Carlo,Breast cancer screenings,:,:,:,-100.0,Activities have been suspended in the period considered
+Oncological screenings,Basilicata,Potenza,AO San Carlo,AO San Carlo,Colorectal cancer screenings,:,:,:,-100.0,Activities have been suspended in the period considered
+Oncological screenings,Veneto,Vicenza,Ulss 7 Pedemontana,Distretto 1 Bassano,Breast cancer screenings,235,1148,:,-83.00795372,
+Oncological screenings,Veneto,Vicenza,Ulss 7 Pedemontana,Distretto 1 Bassano,Colorectal cancer screenings,1441,3077,:,-68.10535635,
+Oncological screenings,Veneto,Vicenza,Ulss 7 Pedemontana,Distretto 2 Alto Vicentino,Breast cancer screenings,370,1193,:,-76.32757518,
+Oncological screenings,Veneto,Vicenza,Ulss 7 Pedemontana,Distretto 2 Alto Vicentino,Colorectal cancer screenings,610,2786,:,-82.0376914,
+Oncological screenings,Lazio,Roma,Asl Roma 6,Unità mobile Nettuno,Colorectal cancer screenings,578,12829,:,-95.68881927,
+Oncological screenings,Lazio,Roma,Asl Roma 6,Ospedale Ariccia,Colorectal cancer screenings,91,48,:,-34.5323741,
+Oncological screenings,Lazio,Roma,Asl Roma 6,Ospedale dei Castelli,Colorectal cancer screenings,83,35,:,-29.66101695,
+Oncological screenings,Lazio,Roma,Asl Roma 6,Unità mobile Marino,Breast cancer screenings,148,1944,:,-92.92543021,
+Oncological screenings,Lazio,Roma,Asl Roma 6,Unità mobile Ariccia,Breast cancer screenings,259,4352,:,-94.38299718,
+Oncological screenings,Piedmont,Verbania,Asl Vco,Asl Vco,Colorectal cancer screenings,34,270,:,-88.81578947,
+Oncological screenings,Piedmont,Verbania,Asl Vco,Asl Vco,Breast cancer screenings,256,1650,:,-86.56873033,
+Oncological screenings,Puglia,Bari,Policlinico di Bari,Policlinico di Bari,Breast cancer screenings,575,2260,:,-79.71781305,
+Oncological screenings,Tuscany,Siena,AOU Senese,AOU Senese,Breast cancer screenings,327,825,:,-71.61458333,
+Oncological screenings,Tuscany,Siena,AOU Senese,AOU Senese,Colorectal cancer screenings,3,15,:,-83.33333333,
+Oncological screenings,Calabria,Cosenza,Asp Cosenza,Ospedale di Cetraro,Breast cancer screenings,12,228,:,-95.0,
+Oncological screenings,Calabria,Cosenza,Asp Cosenza,Ospedale di Praia a Mare,Breast cancer screenings,20,464,:,-95.8677686,
+Oncological screenings,Calabria,Cosenza,Asp Cosenza,Poliambulatorio di Rende,Breast cancer screenings,42,631,:,-93.75928678,
+Oncological screenings,Sicily,Catania,Ao Canizzaro,Ao Canizzaro,Breast cancer screenings,263,305,:,-53.6971831,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Oncological screenings,Piedmont,Torino,Asl Torino 5,Asl Torino 5,Breast cancer screenings,348,3500,:,-90.95634096,
+Oncological screenings,Piedmont,Torino,Asl Torino 5,Asl Torino 5,Colorectal cancer screenings,206,303,:,-59.52848723,
+Oncological screenings,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Montecchio,Breast cancer screenings,47,660,:,-93.35219236,
+Oncological screenings,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Reggio Emilia,Breast cancer screenings,445,4521,:,-91.03906565,
+Oncological screenings,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Guastalla,Breast cancer screenings,145,1652,:,-91.9309961,
+Oncological screenings,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Correggio,Breast cancer screenings,53,906,:,-94.4734098,
+Oncological screenings,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Scandiano,Breast cancer screenings,153,1473,:,-90.5904059,
+Oncological screenings,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Castelnovo Monti,Breast cancer screenings,56,608,:,-91.56626506,
+Oncological screenings,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Montecchio,Colorectal cancer screenings,126,1260,:,-90.90909091,
+Oncological screenings,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Reggio Emilia,Colorectal cancer screenings,474,4507,:,-90.48383859,
+Oncological screenings,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Guastalla,Colorectal cancer screenings,167,1554,:,-90.29633934,
+Oncological screenings,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Correggio,Colorectal cancer screenings,191,894,:,-82.39631336,
+Oncological screenings,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Scandiano,Colorectal cancer screenings,176,1732,:,-90.77568134,
+Oncological screenings,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Castelnovo Monti,Colorectal cancer screenings,96,764,:,-88.8372093,
+Oncological screenings,Emilia Romagna,Modena,Ausl Modena,Ausl Modena,Breast cancer screenings,1482,13907,:,-90.36974462,
+Oncological screenings,Emilia Romagna,Modena,Ausl Modena,Ausl Modena,Colorectal cancer screenings,1657,0,:,0.0,
+Oncological screenings,Lombardy,Mantova,Asst Mantova,Asst Mantova,Breast cancer screenings,304,86,:,-22.05128205,
+Oncological screenings,Lombardy,Mantova,Asst Mantova,Asst Mantova,Colorectal cancer screenings,1,69,:,-98.57142857,
+Oncological screenings,Lombardy,Lecco,Asst Lecco,Asst Lecco,Breast cancer screenings,295,1944,:,-86.82447521,
+Oncological screenings,Lombardy,Lecco,Asst Lecco,Asst Lecco,Colorectal cancer screenings,70,43,:,-38.05309735,
+Oncological screenings,Piedmont,Torino,Asl Torino 4,Asl Torino 4,Breast cancer screenings,720,10031,:,-93.30294856,
+Oncological screenings,Piedmont,Torino,Asl Torino 4,Asl Torino 4,Colorectal cancer screenings,155,1947,:,-92.62607041,
+Oncological screenings,Lombardy,Como,Asst Lariana,Asst Lariana,Colorectal cancer screenings,99,21,:,-17.5,The company specifies that the referrals have been requested by patients
+Oncological screenings,Calabria,Crotone,Asp Crotone,Asp Crotone,Colorectal cancer screenings,159,2092,:,-92.93647268,
+Oncological screenings,Calabria,Crotone,Asp Crotone,Asp Crotone,Breast cancer screenings,26,72,:,-73.46938776,
+Oncological screenings,Campania,Napoli,Asl Napoli 1 Centro,Asl Napoli 1 Centro,Colorectal cancer screenings,120,14,:,-10.44776119,In 9 cases the referrals are due to waiver by the assisted
+Oncological screenings,Umbria,Terni,Azienda Usl Umbria 2,Ospedale San Giovanni Battista di Foligno,Breast cancer screenings,192,1372,:,-87.72378517,
+Oncological screenings,Umbria,Terni,Azienda Usl Umbria 2,Ospedale San Giovanni Battista di Foligno,Colorectal cancer screenings,30,6,:,-16.66666667,
+Oncological screenings,Umbria,Terni,Azienda Usl Umbria 2,Ospedale civile San Matteo degli Infermi di Spoleto,Breast cancer screenings,73,1415,:,-95.09408602,
+Oncological screenings,Umbria,Terni,Azienda Usl Umbria 2,Ospedale civile San Matteo degli Infermi di Spoleto,Colorectal cancer screenings,14,2,:,-12.5,
+Oncological screenings,Umbria,Terni,Azienda Usl Umbria 2,Unità mobile di Norcia,Breast cancer screenings,0,26,:,-100.0,
+Oncological screenings,Umbria,Terni,Azienda Usl Umbria 2,Centro screening mammografico di Terni,Breast cancer screenings,267,1569,:,-85.45751634,
+Oncological screenings,Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria della Stella di Orvieto,Breast cancer screenings,38,773,:,-95.31442663,
+Oncological screenings,Umbria,Terni,Azienda Usl Umbria 2,Ospedale di Narni,Colorectal cancer screenings,43,8,:,-15.68627451,
+Oncological screenings,Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria della Stella di Orvieto,Colorectal cancer screenings,20,7,:,-25.92592593,
+Oncological screenings,Lombardy,Cremona,Asst Cremona,Asst Cremona,Breast cancer screenings,92,1510,:,-94.25717853,The data is our processing starting from the data provided
+Oncological screenings,Emilia Romagna,Forlì-Cesena,Ausl Romagna,Ambito di Forlì,Breast cancer screenings,580,3007,:,-83.83049902,
+Oncological screenings,Emilia Romagna,Ravenna,Ausl Romagna,Ambito di Ravenna,Breast cancer screenings,615,7900,:,-92.77745156,
+Oncological screenings,Emilia Romagna,Forlì-Cesena,Ausl Romagna,Ambito di Cesena,Breast cancer screenings,331,4001,:,-92.35918744,
+Oncological screenings,Emilia Romagna,Rimini,Ausl Romagna,Ambito di Rimini,Breast cancer screenings,483,7825,:,-94.18632643,
+Oncological screenings,Emilia Romagna,Forlì-Cesena,Ausl Romagna,Ambito di Forlì,Colorectal cancer screenings,328,4500,:,-93.2062966,
+Oncological screenings,Emilia Romagna,Ravenna,Ausl Romagna,Ambito di Ravenna,Colorectal cancer screenings,1025,11600,:,-91.88118812,
+Oncological screenings,Emilia Romagna,Forlì-Cesena,Ausl Romagna,Ambito di Cesena,Colorectal cancer screenings,576,4506,:,-88.66587957,
+Oncological screenings,Emilia Romagna,Rimini,Ausl Romagna,Ambito di Rimini,Colorectal cancer screenings,638,8600,:,-93.09374323,

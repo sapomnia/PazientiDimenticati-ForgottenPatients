@@ -1,0 +1,330 @@
+Service,Region,Province,Source,Hospital,Type,Delivered,Postponed,Delivered in 2019,Rate change,Notes
+Outpatient visits,Emilia Romagna,Bologna,Policlinico di Sant'Orsola,Policlinico di Sant'Orsola,Total,29100,:,68500,-57.51824818,"The comparison is not on the postponements, but on the performance of the same period of 2019. 48% of the postponements took place by the patient's initiative."
+Outpatient visits,Tuscany,Firenze,AOU Careggi,AOU Careggi,Total,52077,:,131074,-60.26900835,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Roma,Asl Roma 6,Asl Roma 6,Total,12660,:,45328,-72.07024356,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Friuli Venezia Giulia,Pordenone,As Friuli Occidentale,As Friuli Occidentale,Total,17051,:,37646,-54.70700738,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Cremona,Ats Valpadana,C.A.L. Rivolta d'Adda,Total,49,:,52,-5.769230769,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Cremona,Ats Valpadana,Centro psicosociale,Total,17,:,133,-87.21804511,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Cremona,Ats Valpadana,Ospedale Maggiore di Crema,Total,8267,:,36580,-77.4002187,"The comparison is not on the postponements, but on the performance of the same period of 2019. The figure includes 4,443 visits performed in 2020 and 23,278 visits performed in 2019 at the clinic of cream"
+Outpatient visits,Lombardy,Cremona,Ats Valpadana,Poliambulatorio di Rivolta d'Adda,Total,268,:,3042,-91.19000657,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Cremona,Ats Valpadana,C.A.L. Soresina,Total,57,:,52,9.615384615,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Cremona,Ats Valpadana,CPS Casalmaggiore,Total,13,:,44,-70.45454545,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Cremona,Ats Valpadana,CPS Cremona,Total,39,:,123,-68.29268293,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Cremona,Ats Valpadana,Ospedale di Cremona,Total,13745,:,49403,-72.17780297,"The comparison is not on the postponements, but on the performance of the same period in 2019. The figure includes 9,799 visits performed in 2020 and 38,672 visits performed in 2019 at the hospital clinic, as well as 0 visits performed in 2020 and 47 visits performed in 2019 at Uop 29 of Cremona"
+Outpatient visits,Lombardy,Cremona,Ats Valpadana,Ospedale di Oglio Po,Total,5196,:,15341,-66.12997849,"The comparison is not on the postponements, but on the performance of the same period of 2019. The figure includes 3,484 visits performed in 2020 and 10,206 visits performed in 2019 at the clinic, in addition to 85 visits performed in 2020 and at 101 visits performed in 2019 at the Cal dell ' Hospital"
+Outpatient visits,Lombardy,Mantova,Ats Valpadana,Ambulatorio di psichiatria di Ostiglia,Total,14,:,0,0.0,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Mantova,Ats Valpadana,C.A.L. Asola,Total,5,:,33,-84.84848485,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Mantova,Ats Valpadana,CPS Psichiatria Mantova,Total,93,:,167,-44.31137725,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Mantova,Ats Valpadana,CPS Psichiatria Viadana,Total,5,:,14,-64.28571429,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Mantova,Ats Valpadana,Ospedale civile Destra Secchia di Pieve di Coriano,Total,4827,:,14123,-65.82170927,"The comparison is not on the postponements, but on the performance of the same period of 2019. The data includes 2,748 visits performed in 2020 and 7,703 visits performed in 2019 at the clinic"
+Outpatient visits,Lombardy,Mantova,Ats Valpadana,Ospedale Carlo Poma di Mantova,Total,21545,:,45516,-52.66499692,"The comparison is not on the postponements, but on the performance of the same period of 2019. The figure includes 16,173 visits performed in 2020 and 35,433 visits performed in 2019 at the Mantua hospital clinic"
+Outpatient visits,Lombardy,Mantova,Ats Valpadana,Poliambulatorio di Goito,Total,210,:,1914,-89.02821317,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Mantova,Ats Valpadana,Poliambulatorio di Mantova,Total,608,:,2477,-75.45417844,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Mantova,Ats Valpadana,Poliambulatorio ospedale di Asola,Total,2277,:,6301,-63.86287891,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Mantova,Ats Valpadana,Poliambulatorio di Quistello,Total,120,:,843,-85.76512456,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Mantova,Ats Valpadana,Poliambulatorio di Viadana,Total,83,:,1307,-93.64957919,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Mantova,Ats Valpadana,Ospedale di Asola,Total,1185,:,5069,-76.62260801,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Mantova,Ats Valpadana,Polo Sanitario Nuovo Robbiani,Total,204,:,1965,-89.61832061,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Roma,Ospedale Sant'Andrea,Ospedale Sant'Andrea,Total,9596,:,29685,-67.67390938,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Veneto,Vicenza,Azienda ULSS 8 Berica,Azienda ULSS 8 Berica,Total,29746,:,63018,-52.79761338,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Tuscany,Firenze,AOU Meyer,Azienda ospedaliero universitaria Meyer,Total,4504,:,16170,-72.14594929,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Bergamo,Ats Bergamo,Ats Bergamo,Total,158498,:,603224,-73.7248518,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Consultori,Total,1511,:,2458,-38.52725793,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Centri TSRMEE,Total,3194,:,2036,56.8762279,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio Ospedale San Giovanni di Dio di Fondi,Total,398,:,2160,-81.57407407,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio Ospedale Dono Svizzero di Formia,Total,1211,:,3279,-63.06800854,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio Ospedale Santa Maria Goretti di Latina,Total,7321,:,19707,-62.85076369,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio Ospedale Fiorini di Terracina,Total,1937,:,4952,-60.88449111,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Aprilia,Total,1253,:,2702,-53.62694301,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Cisterna,Total,355,:,1344,-73.58630952,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Cori,Total,46,:,172,-73.25581395,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Fondi,Total,113,:,514,-78.0155642,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Gaeta,Total,899,:,3711,-75.77472379,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Latina,Total,1197,:,3956,-69.7421638,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Minturno,Total,63,:,668,-90.56886228,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Norma,Total,0,:,21,-100.0,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Pontinia,Total,39,:,192,-79.6875,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Ponza,Total,30,:,156,-80.76923077,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Priverno,Total,400,:,1043,-61.64908917,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Sabaudia,Total,47,:,36,30.55555556,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Sezze,Total,202,:,1195,-83.09623431,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Terracina,Total,252,:,955,-73.61256545,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Ventotene,Total,8,:,17,-52.94117647,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Brescia,Asst del Garda,Asst del Garda,Total,12433,:,33741,-63.15165526,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Calabria,Cosenza,Asp Cosenza,Ospedale di Corigliano,Total,258,:,1244,-79.26045016,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Calabria,Cosenza,Asp Cosenza,Ospedale di Rossano,Total,1278,:,3423,-62.66432954,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Calabria,Cosenza,Asp Cosenza,Ospedale di Cetraro,Total,346,:,3415,-89.8682284,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Calabria,Cosenza,Asp Cosenza,Ospedale di Castrovillari,Total,981,:,3550,-72.36619718,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Calabria,Cosenza,Asp Cosenza,Ospedale di Paola,Total,998,:,2617,-61.86473061,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Calabria,Cosenza,Asp Cosenza,Ospedale di Praia a Mare,Total,298,:,1199,-75.14595496,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Calabria,Cosenza,Asp Cosenza,Ospedale di San Giovanni in Fiore,Total,538,:,1017,-47.0993117,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Calabria,Cosenza,Asp Cosenza,Ospedale di Trebisacce,Total,723,:,1412,-48.79603399,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Calabria,Cosenza,Asp Cosenza,Ospedale di Acri,Total,261,:,837,-68.8172043,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Tuscany,Pisa,AOU Pisana,AOU Pisana,Total,6676,:,25081,-73.38224154,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Emilia Romagna,Ferrara,AOU Arcispedale Sant'Anna di Ferrara,AOU Arcispedale Sant'Anna di Ferrara,Total,13106,:,30946,-57.6488076,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Sicily,Messina,Ao Papardo,Ao Papardo,Total,5212,:,11838,-55.97229262,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Liguria,Genova,Ospedale Evangelico Internazionale,Ospedale Evangelico Internazionale,Total,7769,:,27971,-72.22480426,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Friuli Venezia Giulia,Trieste,IRCCS Materno Infantile Burlo Garofolo,IRCCS Materno Infantile Burlo Garofolo,Total,8208,:,19760,-58.46153846,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Tuscany,Massa Carrara,Azienda Usl Toscana Nord Ovest,Azienda Usl 1 Massa Carrara,Total,16620,:,50814,-67.29247845,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Azienda Usl 2 Lucca,Total,22011,:,59742,-63.15657327,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Tuscany,Pisa,Azienda Usl Toscana Nord Ovest,Azienda Usl 5 Pisa,Total,16711,:,42978,-61.11731584,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Azienda Usl 6 Livorno,Total,36627,:,88896,-58.79792117,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Azienda Usl 12 Viareggio,Total,6231,:,44034,-85.84957079,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Pavia,Ats Pavia,Policlinico San Matteo di Pavia,Total,13690,:,44069,-68.93507908,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Pavia,Ats Pavia,IRCCS Maugeri di Pavia,Total,2009,:,9228,-78.22930212,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Pavia,Ats Pavia,IRCCS Mondino,Total,599,:,3233,-81.47231673,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Pavia,Ats Pavia,IRCCS Maugeri di Montescano,Total,84,:,803,-89.5392279,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Lodi,Asst Lodi,Asst Lodi,Total,36640,:,139266,-73.69063519,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Brescia,Asst Valcamonica,Asst Valcamonica,Total,4052,:,15237,-73.40683862,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale central di Bolzano,Total,17211,:,36336,-52.63375165,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale di Merano,Total,21265,:,21099,0.7867671454,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale di Bressanone,Total,6393,:,15783,-59.4943927,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale di Brunico,Total,5805,:,15543,-62.65199768,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Lombardy,Milano,IRCCS Istituto tumori di Milano,IRCCS Istituto tumori di Milano,Total,3331,:,6502,-48.76960935,"The IRCCS specifies that the reduction is due in particular to the non-influx of patients from outside the region. The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Reggio Emilia,Total,28741,:,51144,-43.80376975,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Correggio,Total,3119,:,9192,-66.06832028,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Scandiano,Total,2257,:,8637,-73.86824129,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Distretto di Reggio Emilia,Total,5836,:,20084,-70.94204342,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Montecchio,Total,2801,:,10154,-72.4148119,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Castelnovo Monti,Total,1844,:,5289,-65.13518624,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Guastalla,Total,4954,:,13340,-62.86356822,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Campania,Avellino,AORN San Giuseppe Moscati di Avellino,AORN San Giuseppe Moscati di Avellino,Total,3628,:,13232,-72.58162031,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Emilia Romagna,Bologna,Ausl Bologna,Ausl Bologna,Total,66728,:,97003,-31.21037494,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Basilicata,Potenza,AO San Carlo,AO San Carlo,Total,7149,18761,:,-72.40833655,
+Outpatient visits,Basilicata,Matera,ASM Matera,Distretto di Policoro,Total,766,844,:,-52.42236025,
+Outpatient visits,Basilicata,Matera,ASM Matera,Distretto Matera,Total,4203,4180,:,-49.86281761,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Ambulatorio Rapone,Total,0,6,:,-100.0,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Ambulatorio San Fele,Total,0,6,:,-100.0,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Dip. Prevenzione - Neuropsichiatria infantile,Total,1,67,:,-98.52941176,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Dipartimento Salute Mentale,Total,179,61,:,-25.41666667,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Distretto Brienza,Total,0,21,:,-100.0,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Distretto Genzano di Lucania,Total,3,162,:,-98.18181818,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Distretto Lagonegro,Total,12,191,:,-94.08866995,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Distretto Lavello,Total,27,334,:,-92.52077562,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Distretto Melfi,Total,25,209,:,-89.31623932,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Distretto Rionero,Total,83,992,:,-92.27906977,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Distretto Villa D'Agri,Total,80,1275,:,-94.09594096,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Ex-Ospedale Pescopagano,Total,0,24,:,-100.0,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Ospedale di Chiaromonte,Total,30,518,:,-94.52554745,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Ospedale di Lauria,Total,27,744,:,-96.49805447,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Ospedale di Maratea,Total,54,397,:,-88.02660754,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Ospedale Venosa,Total,103,2262,:,-95.6448203,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Poliambulatorio Avigliano,Total,10,109,:,-91.59663866,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Poliambulatorio di Latronico,Total,0,12,:,-100.0,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Poliambulatorio di Rotonda,Total,1,216,:,-99.53917051,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Poliambulatorio di Senise,Total,31,856,:,-96.50507328,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Poliambulatorio Muro Lucano,Total,6,304,:,-98.06451613,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Poliambulatorio Oppido Lucano,Total,3,40,:,-93.02325581,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Poliambulatorio Picerno,Total,0,27,:,-100.0,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Poliambulatorio Potenza,Total,323,5299,:,-94.25471363,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Poliambulatorio Sant'Arcangelo,Total,25,469,:,-94.93927126,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Servizi ASP Ospedale Melfi,Total,11,185,:,-94.3877551,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Servizi ASP Ospedale VdA,Total,40,400,:,-90.90909091,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Servizio Igiene Alimenti e Nutrizione,Total,24,220,:,-90.16393443,
+Outpatient visits,Basilicata,Potenza,ASP Potenza,Sub Distretto Palazzo San Gervasio,Total,46,146,:,-76.04166667,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,Centro Salute mentale di Chieti,Total,448,2,:,-0.4444444444,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Atessa,Total,93,38,:,-29.00763359,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Bucchianico,Total,15,0,:,0.0,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Casalbordino,Total,141,88,:,-38.4279476,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Casoli,Total,349,104,:,-22.9580574,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Castiglione Messer Marino,Total,33,10,:,-23.25581395,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Chieti centro,Total,584,216,:,-27.0,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Fossacesia,Total,19,0,:,0.0,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Francavilla al mare,Total,595,246,:,-29.2508918,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Gissi,Total,68,32,:,-32.0,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Guardiagrele,Total,268,92,:,-25.55555556,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Lama dei Peligni,Total,35,2,:,-5.405405405,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Lanciano,Total,542,101,:,-15.70762053,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Miglianico,Total,89,26,:,-22.60869565,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Orsogna,Total,39,17,:,-30.35714286,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Ortona,Total,502,150,:,-23.00613497,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. San Giovanni Teatino,Total,113,60,:,-34.68208092,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. San Salvo,Total,281,84,:,-23.01369863,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Tollo,Total,134,36,:,-21.17647059,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Torriccella Peligna,Total,53,13,:,-19.6969697,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Vasto,Total,576,280,:,-32.71028037,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Villa Santa Maria,Total,219,57,:,-20.65217391,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,Ex ospedale pediatrico di Chieti,Total,147,0,:,0.0,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,"Hospice ""Alba chiara"" di Lanciano",Total,56,0,:,0.0,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,Hospice Torrevecchia Teatina,Total,5,0,:,0.0,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,"Ospedale ""San Camillo De Lellis"" di Atessa",Total,295,48,:,-13.9941691,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,"Ospedale ""Ss. Annunziata"" di Chieti",Total,8988,1213,:,-11.89099108,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,"Ospedale ""Floraspe Renzetti"" di Lanciano",Total,5000,151,:,-2.931469618,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,"Ospedale ""Bernabeo"" di Ortona",Total,1160,341,:,-22.71818787,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,"Ospedale ""San Pio da Pieterelcina"" di Vasto",Total,2956,76,:,-2.506596306,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,"P.T.A. ""Consalvi"" di Casoli",Total,333,0,:,0.0,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,P.T.A. Gissi,Total,188,19,:,-9.178743961,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,"P.T.A. Guardiagrele ""SS. Immacolata""",Total,121,8,:,-6.201550388,
+Outpatient visits,Abruzzo,Chieti,Asl 2 Abruzzo,Pneumologia territoriale Chieti,Total,106,0,:,0.0,
+Outpatient visits,Veneto,Vicenza,Ulss 7 Pedemontana,Distretto 1 Bassano,Total,8903,4359,:,-32.86834565,The figure includes 220 visits performed by the private accredited structures
+Outpatient visits,Veneto,Vicenza,Ulss 7 Pedemontana,Distretto 2 Alto Vicentino,Total,7872,5105,:,-39.33883024,The figure includes 400 visits performed by the private accredited structures
+Outpatient visits,Puglia,Bari,Asl Bari,Riabilitazione Gioia Del Colle,Total,8,12,:,-60.0,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Monopoli,Total,432,282,:,-39.49579832,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Polignano,Total,467,162,:,-25.75516693,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Alberobello,Total,220,75,:,-25.42372881,
+Outpatient visits,Puglia,Bari,Asl Bari,Ospedale Santa Maria degli Angeli di Putignano,Total,382,480,:,-55.68445476,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Casamassima,Total,456,396,:,-46.47887324,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio di Conversano,Total,1688,586,:,-25.76956904,"The figure includes 14 visits performed and 0 postponed to the ""F. Jaia"" hospital in Conversano"
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio di Gioia Del Colle,Total,790,567,:,-41.78334562,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Sammichele,Total,80,59,:,-42.44604317,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Turi,Total,157,103,:,-39.61538462,
+Outpatient visits,Puglia,Bari,Asl Bari,Ospedale San Giacomo di Monopoli,Total,950,472,:,-33.19268636,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Locorotondo,Total,202,152,:,-42.93785311,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Putignano,Total,660,409,:,-38.26005613,
+Outpatient visits,Puglia,Bari,Asl Bari,Ser.D. Gioia Del Colle,Total,1,0,:,0.0,
+Outpatient visits,Puglia,Bari,Asl Bari,Ospedale Don Tonino Bello di Molfetta,Total,1039,474,:,-31.32848645,The figure includes 7 visits performed and 0 postponed to the TisiPN center. Molfetta
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Molfetta,Total,919,437,:,-32.22713864,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Giovinazzo,Total,574,243,:,-29.74296206,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Bitonto,Total,1698,1033,:,-37.82497254,The figure includes 29 visits made and 23 postponed to the rehabilitation clinic of Via Gomes to Bitonto
+Outpatient visits,Puglia,Bari,Asl Bari,Polambulatorio Ruvo Di Puglia,Total,842,273,:,-24.48430493,The figure includes 11 visits made and 5 postponed to the RuVo di Puglia rehabilitation clinic
+Outpatient visits,Puglia,Bari,Asl Bari,"Ospedale ""Umberto I"" di Corato",Total,808,308,:,-27.59856631,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Corato,Total,1074,801,:,-42.72,
+Outpatient visits,Puglia,Bari,Asl Bari,"Ospedale ""Sarcone"" di Terlizzi",Total,751,493,:,-39.63022508,The figure includes 328 visits performed and 230 postponed to the Terlizzi clinic
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Palo Del Colle,Total,387,321,:,-45.33898305,
+Outpatient visits,Puglia,Bari,Asl Bari,Servizio Riabilitazione Ex Art 25 Terlizzi,Total,53,3,:,-5.357142857,
+Outpatient visits,Puglia,Bari,Asl Bari,Servizio Riabilitazione Ex Art 25 Corato,Total,29,1,:,-3.333333333,
+Outpatient visits,Puglia,Bari,Asl Bari,Ospedale Di Venere di Bari,Total,1228,1861,:,-60.24603432,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Bari Japigia,Total,1326,668,:,-33.5005015,
+Outpatient visits,Puglia,Bari,Asl Bari,Ospedale San Paolo di Bari,Total,2258,1751,:,-43.67672736,
+Outpatient visits,Puglia,Bari,Asl Bari,Ospedale Triggiano,Total,1258,548,:,-30.34330011,The figure includes 842 visits performed and 253 postponed to the Triggiano clinic
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Bari Cto,Total,111,73,:,-39.67391304,The figure includes 9 visits performed and 0 postponed by the prevention department
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Modugno,Total,1247,249,:,-16.64438503,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Rutigliano,Total,447,310,:,-40.95112285,"The data includes 22 visits performed and 17 postponed to the OSP. Rutigliano ""Monte dei P."""
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Mola Di Bari,Total,588,203,:,-25.66371681,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Adelfia,Total,859,412,:,-32.41542093,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Bari - Santo Spirito,Total,561,438,:,-43.84384384,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio San Paolo - Casa Salute di Bari,Total,747,171,:,-18.62745098,
+Outpatient visits,Puglia,Bari,Asl Bari,Consultorio Bitritto,Total,11,0,:,0.0,
+Outpatient visits,Puglia,Bari,Asl Bari,"Ospedale della Murgia ""Fabio Perinei""",Total,1105,871,:,-44.07894737,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Altamura,Total,488,474,:,-49.27234927,The data include 1 visit executed and 0 returned to the DCA eating disorders to Uosvd
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Toritto,Total,145,143,:,-49.65277778,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Gravina In Puglia,Total,503,431,:,-46.14561028,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Poggiorsini,Total,21,2,:,-8.695652174,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Cassano delle Murge,Total,178,302,:,-62.91666667,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Sannicandro,Total,169,81,:,-32.4,
+Outpatient visits,Puglia,Bari,Asl Bari,Riabilitazione Gravina In Puglia,Total,46,11,:,-19.29824561,
+Outpatient visits,Puglia,Bari,Asl Bari,Riabilitazione Santeramo,Total,24,7,:,-22.58064516,
+Outpatient visits,Puglia,Bari,Asl Bari,Riabilitazione Altamura,Total,11,55,:,-83.33333333,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Santeramo,Total,871,672,:,-43.55152301,
+Outpatient visits,Puglia,Bari,Asl Bari,Riabilitazione Acquaviva Delle Fonti,Total,10,5,:,-33.33333333,
+Outpatient visits,Puglia,Bari,Asl Bari,Pta Grumo Appula,Total,792,296,:,-27.20588235,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Noicattaro,Total,84,72,:,-46.15384615,
+Outpatient visits,Puglia,Bari,Asl Bari,Centri di salute mentale,Total,52,0,:,0.0,The figure refers to all mental health centers active in the territory of ASL
+Outpatient visits,Puglia,Bari,Asl Bari,Neuropsichiatria infantile,Total,266,320,:,-54.60750853,The figure refers to all infant neuropsychiatries active in the territory of the ASL
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Noci,Total,518,271,:,-34.34727503,
+Outpatient visits,Puglia,Bari,Asl Bari,Riabilitazione Bari Santo Spirito,Total,38,13,:,-25.49019608,
+Outpatient visits,Puglia,Bari,Asl Bari,Poliambulatorio Bari Via Fani,Total,3272,1598,:,-32.81314168,
+Outpatient visits,Emilia Romagna,Bologna,Istituto ortopedico Rizzoli,Istituto ortopedico Rizzoli,Total,4386,6448,:,-59.51633746,As of October 31st 5.666 viewed views were paid or reprogrammed
+Outpatient visits,Lazio,Roma,Inmi Lazzaro Spallanzani,Inmi Lazzaro Spallanzani,Total,1393,1045,:,-42.86300246,
+Outpatient visits,Piedmont,Verbania,Asl Vco,Asl Vco,Total,9480,16250,:,-63.1558492,
+Outpatient visits,Sardinia,Cagliari,Arnas Brotzu,Ospedale oncologico Armando Businco,Total,4320,2270,:,-34.4461305,
+Outpatient visits,Sardinia,Cagliari,Arnas Brotzu,Ospedale pediatrico Antonio Cao,Total,1467,1754,:,-54.45513816,
+Outpatient visits,Sardinia,Cagliari,Arnas Brotzu,Ospedale San Michele,Total,3038,3262,:,-51.77777778,
+Outpatient visits,Sardinia,Oristano,Assl Oristano,Ospedale Martino di Bosa,Total,463,567,:,-55.04854369,
+Outpatient visits,Sardinia,Oristano,Assl Oristano,Ospedale Delogu di Ghilarza,Total,728,460,:,-38.72053872,
+Outpatient visits,Sardinia,Oristano,Assl Oristano,Ospedal San Martino di Oristano,Total,6540,3899,:,-37.35032091,
+Outpatient visits,Sardinia,Sassari,AOU Sassari,AOU Sassari,Total,26286,109,:,-0.4129569994,
+Outpatient visits,Emilia Romagna,Parma,Ausl Parma,Ausl Parma,Total,10565,54312,:,-83.71533826,
+Outpatient visits,Campania,Salerno,Asl Salerno,Psaut di Agropoli,Total,6,16,:,-72.72727273,
+Outpatient visits,Campania,Salerno,Asl Salerno,"Ospedale ""Andrea Tortora"" di Pagani",Total,948,543,:,-36.41851107,
+Outpatient visits,Campania,Salerno,Asl Salerno,"Ospedale ""Santa Maria della Speranza"" di Battipaglia",Total,3653,720,:,-16.46466956,
+Outpatient visits,Campania,Salerno,Asl Salerno,"Ospedale ""Dell'Immacolata"" di Sapri",Total,265,228,:,-46.2474645,
+Outpatient visits,Campania,Salerno,Asl Salerno,"Ospedale ""Luigi Curto"" di Polla",Total,1210,1005,:,-45.3724605,
+Outpatient visits,Campania,Salerno,Asl Salerno,"Ospedale ""Maria SS.Addolorata"" di Eboli",Total,1241,1057,:,-45.99651871,
+Outpatient visits,Campania,Salerno,Asl Salerno,"Ospedale ""Mauro Scarlato"" di Scafati",Total,820,1039,:,-55.89026358,
+Outpatient visits,Campania,Salerno,Asl Salerno,Ospedale di Roccadaspide,Total,210,152,:,-41.98895028,
+Outpatient visits,Campania,Salerno,Asl Salerno,"Ospedale ""San Francesco d'Assisi"" di Oliveto Citra",Total,435,386,:,-47.01583435,
+Outpatient visits,Campania,Salerno,Asl Salerno,"Ospedale ""San Luca"" di Vallo della Lucania",Total,518,555,:,-51.72413793,
+Outpatient visits,Campania,Salerno,Asl Salerno,"Ospedale ""Martiri di Villa Malta"" di Sarno",Total,634,407,:,-39.09702209,
+Outpatient visits,Campania,Salerno,Asl Salerno,"Ospedale ""Umberto I"" di Nocera Inferiore",Total,1560,702,:,-31.03448276,
+Outpatient visits,Campania,Salerno,Asl Salerno,Poliambulatori DSB 60,Total,1936,808,:,-29.44606414,
+Outpatient visits,Campania,Salerno,Asl Salerno,Poliambulatori DSB 61,Total,1919,1532,:,-44.39292959,
+Outpatient visits,Campania,Salerno,Asl Salerno,Poliambulatori DSB 62,Total,1006,605,:,-37.55431409,
+Outpatient visits,Campania,Salerno,Asl Salerno,Poliambulatori DSB 63,Total,2609,1713,:,-39.63442851,
+Outpatient visits,Campania,Salerno,Asl Salerno,Poliambulatori DSB 64,Total,1451,1300,:,-47.25554344,
+Outpatient visits,Campania,Salerno,Asl Salerno,Poliambulatori DSB 65,Total,1598,1136,:,-41.55084126,
+Outpatient visits,Campania,Salerno,Asl Salerno,Poliambulatori DSB 66,Total,4679,4410,:,-48.52018924,
+Outpatient visits,Campania,Salerno,Asl Salerno,Poliambulatori DSB 67,Total,2032,818,:,-28.70175439,
+Outpatient visits,Campania,Salerno,Asl Salerno,Poliambulatori DSB 68,Total,1414,1222,:,-46.35811836,
+Outpatient visits,Campania,Salerno,Asl Salerno,Poliambulatori DSB 69,Total,759,1039,:,-57.78642937,
+Outpatient visits,Campania,Salerno,Asl Salerno,Poliambulatori DSB 70,Total,1660,2939,:,-63.90519678,
+Outpatient visits,Campania,Salerno,Asl Salerno,Poliambulatori DSB 71,Total,633,645,:,-50.46948357,
+Outpatient visits,Campania,Salerno,Asl Salerno,Poliambulatori DSB 72,Total,928,979,:,-51.33717881,
+Outpatient visits,Campania,Salerno,Asl Salerno,Casa circondariale di Salerno,Total,24,40,:,-62.5,
+Outpatient visits,Campania,Salerno,Aou San Giovanni di Dio Ruggi d'Aragona,Ospedale San Giovanni di Dio Ruggi d'Aragona,Total,17880,4235,:,-19.14989826,The health local district has not communicated data that would allow to distinguish between specialist visits and instrumental examinations. The data includes both cases
+Outpatient visits,Tuscany,Siena,AOU Senese,AOU Senese,Total,11483,13304,:,-53.67329649,
+Outpatient visits,Calabria,Cosenza,Asp Cosenza,Polo sanitario di Castrolibero,Total,399,579,:,-59.20245399,
+Outpatient visits,Calabria,Cosenza,Asp Cosenza,Poliambulatorio di Montalto,Total,141,858,:,-85.88588589,
+Outpatient visits,Calabria,Cosenza,Asp Cosenza,Poliambulatorio di Bisignano,Total,184,116,:,-38.66666667,
+Outpatient visits,Calabria,Cosenza,Asp Cosenza,Poliambulatorio di Acri,Total,242,750,:,-75.60483871,
+Outpatient visits,Calabria,Cosenza,Asp Cosenza,Dipartimento salute mentale e dipendenze,Total,7571,770,:,-9.231507014,
+Outpatient visits,Liguria,Genova,Ospedale pediatrico Gaslini,Ospedale pediatrico Gaslini,Total,4975,4417,:,-47.02938671,
+Outpatient visits,Liguria,Genova,Ospedale Galliera,Ospedale Galliera,Total,4374,3946,:,-47.42788462,
+Outpatient visits,Piedmont,Cuneo,Asl Cuneo 2,Asl Cuneo 2,Total,10224,8417,:,-45.15315702,
+Outpatient visits,Sicily,Catania,Arnas Garibaldi,Arnas Garibaldi,Total,17869,4992,:,-21.83631512,
+Outpatient visits,Emilia Romagna,Modena,Ausl Modena,Ospedale di Carpi,Total,3953,924,:,-18.94607341,
+Outpatient visits,Emilia Romagna,Modena,Ausl Modena,Ospedale di Mirandola,Total,2947,1613,:,-35.37280702,
+Outpatient visits,Emilia Romagna,Modena,Ausl Modena,Ospedale di Sassuolo,Total,3471,3531,:,-50.42844901,
+Outpatient visits,Emilia Romagna,Modena,Ausl Modena,Ospedale di Pavullo,Total,863,1010,:,-53.9241858,
+Outpatient visits,Emilia Romagna,Modena,Ausl Modena,Ospedale di Vignola,Total,4459,751,:,-14.41458733,
+Outpatient visits,Emilia Romagna,Modena,Ausl Modena,Poliambulatori distrettuali e consultori,Total,12041,20280,:,-62.74558337,
+Outpatient visits,Calabria,Catanzaro,Asp Catanzaro,Distretto di Catanzaro,Total,556,2032,:,-78.51622875,The health local district has worked at full capacity until March 10th. The data refer to the period between 11/04/20 and 04/30/20
+Outpatient visits,Calabria,Catanzaro,Asp Catanzaro,Distretto Lametino,Total,137,1011,:,-88.06620209,The health local district has worked at full capacity until March 10th. The data refer to the period between 11/04/20 and 04/30/20
+Outpatient visits,Calabria,Catanzaro,Asp Catanzaro,Distretto Soverato,Total,220,2091,:,-90.48031155,The health local district has worked at full capacity until March 10th. The data refer to the period between 11/04/20 and 04/30/20
+Outpatient visits,Calabria,Catanzaro,Asp Catanzaro,Presidio ospedaliero Giovanni Paolo II di Lamezia Terme,Total,1055,1802,:,-63.07315366,The health local district has worked at full capacity until March 10th. The data refer to the period between 11/04/20 and 04/30/20
+Outpatient visits,Calabria,Catanzaro,Asp Catanzaro,Ospedale civile di Soverato,Total,507,628,:,-55.33039648,The health local district has worked at full capacity until March 10th. The data refer to the period between 11/04/20 and 04/30/20
+Outpatient visits,Calabria,Catanzaro,Asp Catanzaro,Presidio ospedaliero Soveria Mannelli,Total,131,135,:,-50.7518797,The health local district has worked at full capacity until March 10th. The data refer to the period between 11/04/20 and 04/30/20
+Outpatient visits,Piedmont,Alessandria,Asl Alessandria,Ospedale Monsignor Giovanni Galliano di Acqui Terme,Total,1250,264,:,-17.43725231,
+Outpatient visits,Piedmont,Alessandria,Asl Alessandria,Ospedale civile di Ovada,Total,432,59,:,-12.01629328,
+Outpatient visits,Piedmont,Alessandria,Asl Alessandria,Ospedale Santo Spirito di Casale Monferrato,Total,3167,585,:,-15.59168443,
+Outpatient visits,Piedmont,Alessandria,Asl Alessandria,Ospedale San Giacomo di Novi Ligure,Total,7085,520,:,-6.837606838,
+Outpatient visits,Piedmont,Alessandria,Asl Alessandria,Ospedale civile Santi Antonio e Margherita di Tortona,Total,2398,227,:,-8.647619048,
+Outpatient visits,Lombardy,Varese,Asst Sette Laghi,Asst Sette Laghi,Total,15019,10704,:,-41.61256463,
+Outpatient visits,Lombardy,Mantova,Asst Mantova,Asst Mantova,Total,33221,3256,:,-8.926172657,
+Outpatient visits,Campania,Napoli,AORN Santobono Pausilipon di Napoli,AORN Santobono Pausilipon di Napoli,Total,1616,5828,:,-78.29124127,
+Outpatient visits,Campania,Napoli,AORN Ospedali dei Colli,AORN Ospedali dei Colli,Total,157,0,:,0.0,
+Outpatient visits,Lombardy,Lecco,Asst Lecco,Asst Lecco,Total,21169,30541,:,-59.06207697,
+Outpatient visits,Lombardy,Milano,Asst Gaetano Pini CTO,Asst Gaetano Pini CTO,Total,6336,6231,:,-49.5822392,
+Outpatient visits,Lombardy,Pavia,Asst Pavia,Ospedale di Broni,Total,38,426,:,-91.81034483,The figure refers to the first few visits. The post-referring figure is estimated
+Outpatient visits,Lombardy,Pavia,Asst Pavia,Ospedale Carlo Mira di Casorate Primo,Total,61,652,:,-91.44460028,The figure refers to the first few visits. The post-referring figure is estimated
+Outpatient visits,Lombardy,Pavia,Asst Pavia,Ospedale di Mede,Total,25,361,:,-93.52331606,The figure refers to the first few visits. The post-referring figure is estimated
+Outpatient visits,Lombardy,Pavia,Asst Pavia,Ospedale Asilo Vittoria di Mortara,Total,73,408,:,-84.82328482,The figure refers to the first few visits. The post-referring figure is estimated
+Outpatient visits,Lombardy,Pavia,Asst Pavia,Poliambulatorio di Pavia,Total,416,1254,:,-75.08982036,The figure refers to the first few visits. The post-referring figure is estimated
+Outpatient visits,Lombardy,Pavia,Asst Pavia,Ospedale unificato di Broni - Stradella,Total,132,496,:,-78.98089172,The figure refers to the first few visits. The post-referring figure is estimated
+Outpatient visits,Lombardy,Pavia,Asst Pavia,Ospedale Ss. Annunziata di Varzi,Total,21,250,:,-92.25092251,The figure refers to the first few visits. The post-referring figure is estimated
+Outpatient visits,Lombardy,Pavia,Asst Pavia,Ospedale civile di Vigevano,Total,609,2044,:,-77.04485488,The figure refers to the first few visits. The post-referring figure is estimated
+Outpatient visits,Lombardy,Pavia,Asst Pavia,Ospedale civile di Voghera,Total,444,1619,:,-78.47794474,The figure refers to the first few visits. The post-referring figure is estimated
+Outpatient visits,Marche,Pesaro,Ao Ospedali riuniti Marche Nord,Ao Ospedali riuniti Marche Nord,Total,7543,5721,:,-43.13178528,
+Outpatient visits,Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Azienda ULSS 4 Veneto Orientale,Total,1748,9898,:,-84.9905547,The figure refers to the period between March 15th and May 3rd
+Outpatient visits,Liguria,Genova,Asl 4 Liguria,Ospedale di Chiavari,Total,1502,1305,:,-46.49091557,
+Outpatient visits,Liguria,Genova,Asl 4 Liguria,Ospedale di Lavagna,Total,4625,1274,:,-21.59688083,
+Outpatient visits,Liguria,Genova,Asl 4 Liguria,Ospedale Nostra Signora di Montallegro di Rapallo,Total,564,1894,:,-77.05451587,
+Outpatient visits,Liguria,Genova,Asl 4 Liguria,Ospedale di Sestri Levante,Total,2802,3046,:,-52.08618331,
+Outpatient visits,Campania,Napoli,Asl Napoli 3 Sud,Ospedale di Sorrento,Total,360,164,:,-31.29770992,The data also include those relating to the Hospital of Vico Equense
+Outpatient visits,Campania,Napoli,Asl Napoli 3 Sud,Ospedale Santa Maria della Pietà di Nola,Total,3760,929,:,-19.81232672,
+Outpatient visits,Campania,Napoli,Asl Napoli 3 Sud,Ospedale Cavalier Raffaele Apicenna di Pollena Trocchia,Total,631,2271,:,-78.25637491,
+Outpatient visits,Lombardy,Sondrio,Asst Valtellina e Alto Lario,Asst Valtellina e Alto Lario,Total,5368,9562,:,-64.04554588,
+Outpatient visits,Lombardy,Varese,Asst Valle Olona,Asst Valle Olona,Total,28599,7993,:,-21.84357237,
+Outpatient visits,Campania,Napoli,AOU Federico II di Napoli,AOU Federico II di Napoli,Total,10635,20743,:,-66.10682644,
+Outpatient visits,Umbria,Perugia,Azienda Usl Umbria 1,Azienda Usl Umbria 1,Total,29109,41853,:,-58.97945379,
+Outpatient visits,Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria dei Laici di Amelia,Total,244,150,:,-38.07106599,
+Outpatient visits,Umbria,Terni,Azienda Usl Umbria 2,Ospedale di Cascia,Total,43,21,:,-32.8125,
+Outpatient visits,Umbria,Terni,Azienda Usl Umbria 2,Ospedale San Giovanni Battista di Foligno,Total,5637,1361,:,-19.44841383,
+Outpatient visits,Umbria,Terni,Azienda Usl Umbria 2,Ospedale di Narni,Total,785,274,:,-25.87346553,
+Outpatient visits,Umbria,Terni,Azienda Usl Umbria 2,Ospedale di Norcia,Total,109,50,:,-31.44654088,
+Outpatient visits,Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria della Stella di Orvieto,Total,1891,757,:,-28.58761329,
+Outpatient visits,Umbria,Terni,Azienda Usl Umbria 2,Ospedale civile San Matteo degli Infermi di Spoleto,Total,1898,629,:,-24.89117531,
+Outpatient visits,Umbria,Terni,Azienda Usl Umbria 2,Domus Gratiae di Terni,Total,326,432,:,-56.99208443,The data also includes 255 visits performed and 340 returned to the Narni office
+Outpatient visits,Umbria,Terni,Azienda Usl Umbria 2,Ospedale di Trevi,Total,63,0,:,0.0,
+Outpatient visits,Lombardy,Cremona,Asst Cremona,Asst Cremona,Total,11113,12182,:,-52.29448379,The data is our processing starting from the data provided
+Outpatient visits,Liguria,Genova,Asl 3 Liguria,DSS 9. Medio Ponente,Total,3966,5015,:,-55.84010689,
+Outpatient visits,Sardinia,Cagliari,AOU Ospedale civile di Cagliari,AOU Ospedale civile di Cagliari,Total,7053,4094,:,-36.72737059,
+Outpatient visits,Emilia Romagna,Ravenna,Ausl Romagna,Ausl Romagna,Total,83868,62034,:,-42.51758029,
+Outpatient visits,Sicily,Catania,Asp Catania,Ospedale S. Marta e S. Venera di Acireale,Total,3139,12289,:,-79.65387607,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Sicily,Catania,Asp Catania,Ospedale Maria SS. Addolorata di Biancavilla,Total,3540,10889,:,-75.46607527,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Sicily,Catania,Asp Catania,Ospedale Castiglione Prestianni di Bronte,Total,2592,6586,:,-71.75855306,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Sicily,Catania,Asp Catania,Ospedale Gravina e S. Pietro di Caltagirone,Total,4955,19881,:,-80.04912224,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Sicily,Catania,Asp Catania,Ospedale Basso Ragusa Mario di Militello,Total,1373,2828,:,-67.3173054,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Sicily,Catania,Asp Catania,Ospedale SS. Salvatore di Paternò,Total,3753,9701,:,-72.1049502,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Sicily,Catania,Asp Catania,Ospedale San Giovanni di Dio e Sant'Isidoro di Giarre,Total,309,2510,:,-89.03866619,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Outpatient visits,Campania,Caserta,AORN Caserta,AORN Caserta,Total,3439,4716,:,-57.82955242,

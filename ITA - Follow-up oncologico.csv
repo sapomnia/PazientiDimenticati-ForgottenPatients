@@ -1,0 +1,66 @@
+Prestazione,Regione,Provincia,Fonte,Ospedale,Tipologia,Eseguiti,Rinviati,Eseguiti nel 2019,Variazione,Note
+Follow-up oncologico,Toscana,Firenze,AOU Careggi,AOU Careggi,Totale,3235,:,5395,-40.0370713623726,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Lombardia,Cremona,Ats Valpadana,Poliambulatorio Ospedale Maggiore di Crema,Totale,1694,:,2377,-28.733697938578,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Lombardia,Cremona,Ats Valpadana,Poliambulatorio di Rivolta d'Adda,Totale,1,:,130,-99.2307692307692,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Lombardia,Cremona,Ats Valpadana,Ospedale Oglio Po,Totale,279,:,599,-53.4223706176962,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Lombardia,Cremona,Ats Valpadana,Ospedale di Cremona,Totale,1691,:,2187,-22.6794695930498,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Lombardia,Mantova,Ats Valpadana,Poliambulatorio Ospedale Carlo Poma di Mantova,Totale,1920,:,2332,-17.6672384219554,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Lombardia,Mantova,Ats Valpadana,Ospedale di Asola,Totale,6,:,57,-89.4736842105263,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Lazio,Roma,Ospedale Sant'Andrea,Ospedale Sant'Andrea,Totale,2260,:,3636,-37.8437843784378,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Lazio,Latina,Asl Latina,Oncologia Distretto (parte nord ASL ),Totale,454,:,666,-31.8318318318318,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Lazio,Latina,Asl Latina,Ospedale Santa Maria Goretti di Latina,Totale,1604,:,2712,-40.8554572271386,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Lazio,Latina,Asl Latina,Ospedale Fiorini di Terracina,Totale,697,:,1089,-35.9963269054178,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Lombardia,Brescia,Asst del Garda,Asst del Garda,Totale,131,:,744,-82.3924731182796,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Toscana,Pisa,AOU Pisana,AOU Pisana,Totale,3931,:,5942,-33.8438236284079,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Emilia Romagna,Ferrara,AOU Arcispedale Sant'Anna di Ferrara,AOU Arcispedale Sant'Anna di Ferrara,Totale,2780,:,3290,-15.5015197568389,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Friuli Venezia Giulia,Trieste,IRCCS Materno Infantile Burlo Garofolo,IRCCS Materno Infantile Burlo Garofolo,Totale,39,:,80,-51.25,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Campania,Napoli,AORN Santobono Pausilipon di Napoli,AORN Santobono Pausilipon di Napoli,Totale,18,:,22,-18.1818181818182,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019. L'azienda precisa che l'attività di follow-up oncologico non è mai stata sospesa"
+Follow-up oncologico,Lombardia,Pavia,Ats Pavia,Policlinico San Matteo di Pavia,Totale,978,:,1014,-3.55029585798816,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Lombardia,Pavia,Ats Pavia,IRCCS Maugeri di Pavia,Totale,156,:,865,-81.9653179190751,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Lombardia,Milano,IRCCS Istituto tumori di Milano,IRCCS Istituto tumori di Milano,Totale,10383,:,21942,-52.679792179382,"L'IRCCS precisa che la riduzione è dovuta in particolare al mancato afflusso dei pazienti da fuori regione. Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Emilia Romagna,Bologna,Ausl Bologna,Ausl Bologna,Totale,1523,:,2384,-36.1157718120805,"Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Follow-up oncologico,Basilicata,Potenza,AO San Carlo,AO San Carlo,Totale,100,368,:,-78.6324786324786,
+Follow-up oncologico,Basilicata,Matera,ASM Matera,Distretto di Matera,Totale,367,27,:,-6.85279187817259,
+Follow-up oncologico,Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale San Bassiano di Bassano del Grappa,Totale,691,87,:,-11.1825192802057,
+Follow-up oncologico,Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale di Asiago,Totale,46,0,:,0.0,
+Follow-up oncologico,Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale di Santorso,Totale,788,0,:,0.0,
+Follow-up oncologico,Piemonte,Verbania,Asl Vco,Asl Vco,Totale,400,0,:,0.0,Tutte le visite sono state eseguite in forma telematica
+Follow-up oncologico,Sardegna,Cagliari,Arnas Brotzu,Ospedale oncologico Armando Businco,Totale,1750,1157,:,-39.8004815961472,Il dato comprende 24 visite eseguite e 0 rinviate al monoblocco San Michele
+Follow-up oncologico,Sardegna,Cagliari,Arnas Brotzu,Ospedale pediatrico Antonio Cao,Totale,33,21,:,-38.8888888888889,
+Follow-up oncologico,Sardegna,Sassari,AOU Sassari,AOU Sassari,Totale,:,:,:,0.0,"Il follow-up oncologico non è mai stato sospeso o rinviato, ma l'azienda non è in grado di estrarre il numero delle visite effettuate"
+Follow-up oncologico,Puglia,Bari,Policlinico di Bari,Policlinico di Bari,Totale,488,0,:,0.0,
+Follow-up oncologico,Sicilia,Agrigento,Asp Agrigento,Ospedale San Giovanni di Dio di Agrigento,Totale,492,214,:,-30.3116147308782,
+Follow-up oncologico,Sicilia,Agrigento,Asp Agrigento,Ospedale Barone Lombardo di Canicattì,Totale,182,20,:,-9.9009900990099,
+Follow-up oncologico,Sicilia,Agrigento,Asp Agrigento,Ospedale Giovanni Paolo II di Sciacca,Totale,175,0,:,0.0,
+Follow-up oncologico,Toscana,Siena,AOU Senese,AOU Senese,Totale,423,306,:,-41.9753086419753,
+Follow-up oncologico,Calabria,Cosenza,Asp Cosenza,Ospedale di Castrovillari,Totale,0,102,:,-100.0,
+Follow-up oncologico,Liguria,Genova,Ospedale pediatrico Gaslini,Ospedale pediatrico Gaslini,Totale,830,350,:,-29.6610169491525,
+Follow-up oncologico,Liguria,Genova,Ospedale Galliera,Ospedale Galliera,Totale,209,48,:,-18.6770428015564,
+Follow-up oncologico,Piemonte,Cuneo,Asl Cuneo 2,Asl Cuneo 2,Totale,692,211,:,-23.3665559246955,
+Follow-up oncologico,Sicilia,Catania,Arnas Garibaldi,Arnas Garibaldi,Totale,302,112,:,-27.0531400966184,
+Follow-up oncologico,Lombardia,Varese,Asst Sette Laghi,Asst Sette Laghi,Totale,143,695,:,-82.9355608591886,
+Follow-up oncologico,Lombardia,Mantova,Asst Mantova,Asst Mantova,Totale,443,30,:,-6.34249471458774,
+Follow-up oncologico,Friuli Venezia Giulia,Pordenone,IRCCS Centro di riferimento oncologico di Aviano,IRCCS Centro di riferimento oncologico di Aviano,Totale,3659,2600,:,-41.5401821377217,"L'Istituto precisa che nel periodo dal 1 marzo al 15 maggio 2020 sono state sospese circa nr. 2600 prestazioni di controllo/follow-up/alcune di primo accesso con priorità P (programmata), valutate differibili. Le prestazioni sospese sono state riprogrammate attraverso un piano operativo basato su una valutazione clinica dei pazienti da parte di medici, tramite contatto telefonico ed esame della documentazione clinica, che ha permesso di riposizionare i pazienti nelle agende in funzione del bisogno clinico."
+Follow-up oncologico,Lombardia,Lecco,Asst Lecco,Asst Lecco,Totale,980,0,:,0.0,
+Follow-up oncologico,Lombardia,Pavia,Asst Pavia,Ospedale di Mede,Totale,0,6,:,-100.0,Il dato relativo ai rinvii è stimato
+Follow-up oncologico,Lombardia,Pavia,Asst Pavia,Ospedale Asilo Vittoria di Mortara,Totale,2,0,:,0.0,Il dato relativo ai rinvii è stimato
+Follow-up oncologico,Lombardia,Pavia,Asst Pavia,Ospedale unificato di Broni - Stradella,Totale,5,0,:,0.0,Il dato relativo ai rinvii è stimato
+Follow-up oncologico,Lombardia,Pavia,Asst Pavia,Ospedale Ss. Annunziata di Varzi,Totale,5,23,:,-82.1428571428571,Il dato relativo ai rinvii è stimato
+Follow-up oncologico,Lombardia,Pavia,Asst Pavia,Ospedale civile di Vigevano,Totale,35,5,:,-12.5,Il dato relativo ai rinvii è stimato
+Follow-up oncologico,Lombardia,Pavia,Asst Pavia,Ospedale civile di Voghera,Totale,40,61,:,-60.3960396039604,Il dato relativo ai rinvii è stimato
+Follow-up oncologico,Marche,Pesaro,Ao Ospedali riuniti Marche Nord,Ao Ospedali riuniti Marche Nord,Totale,888,1428,:,-61.6580310880829,
+Follow-up oncologico,Piemonte,Torino,Asl Torino 4,Ospedale di Chivasso,Totale,164,20,:,-10.8695652173913,
+Follow-up oncologico,Piemonte,Torino,Asl Torino 4,Ospedale di Ciriè,Totale,50,121,:,-70.7602339181287,
+Follow-up oncologico,Piemonte,Torino,Asl Torino 4,Ospedale di Ivrea,Totale,200,52,:,-20.6349206349206,
+Follow-up oncologico,Lombardia,Como,Asst Lariana,Asst Lariana,Totale,284,240,:,-45.8015267175573,L'azienda precisa che le visite rinviate sono state recuperate tra ottobre e novembre 2020
+Follow-up oncologico,Campania,Napoli,Asl Napoli 3 Sud,Ospedale Santa Maria della Pietà di Nola,Totale,164,0,:,0.0,
+Follow-up oncologico,Campania,Napoli,Asl Napoli 3 Sud,Ospedale Cavalier Raffaele Apicenna di Pollena Trocchia,Totale,162,0,:,0.0,
+Follow-up oncologico,Lombardia,Brescia,Asst Valcamonica,Asst Valcamonica,Totale,121,0,:,0.0,
+Follow-up oncologico,Lombardia,Sondrio,Asst Valtellina e Alto Lario,Asst Valtellina e Alto Lario,Totale,268,0,:,0.0,
+Follow-up oncologico,Lombardia,Varese,Asst Valle Olona,Asst Valle Olona,Totale,495,300,:,-37.7358490566038,
+Follow-up oncologico,Umbria,Perugia,Azienda Usl Umbria 1,Azienda Usl Umbria 1,Totale,2551,0,:,0.0,"L'azienda precisa che alcune visite sono state effettuate in modalità telematica, concordando con il paziente il rinvio di 1-2 mesi della visita in presenza"
+Follow-up oncologico,Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria dei Laici di Amelia,Totale,9,0,:,0.0,
+Follow-up oncologico,Umbria,Terni,Azienda Usl Umbria 2,Ospedale San Giovanni Battista di Foligno,Totale,364,45,:,-11.0024449877751,
+Follow-up oncologico,Umbria,Terni,Azienda Usl Umbria 2,Ospedale di Narni,Totale,67,0,:,0.0,
+Follow-up oncologico,Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria della Stella di Orvieto,Totale,198,12,:,-5.71428571428571,
+Follow-up oncologico,Umbria,Terni,Azienda Usl Umbria 2,Ospedale civile San Matteo degli Infermi di Spoleto,Totale,48,0,:,0.0,
