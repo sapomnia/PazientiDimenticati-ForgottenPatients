@@ -1,0 +1,302 @@
+Service,Region,Province,Source,Hospital,Type,Delivered,Postponed,Delivered in 2019,Rate change,Notes
+Medical exams,Emilia Romagna,Bologna,Policlinico di Sant'Orsola,Policlinico di Sant'Orsola,Total,13000,:,30500,-57.37704918,"The comparison is not on the postponements, but on the performance of the same period of 2019. 31% of the postponements took place by the patient's initiative."
+Medical exams,Tuscany,Firenze,AOU Careggi,AOU Careggi,Total,30756,:,66560,-53.79206731,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Roma,Asl Roma 6,Asl Roma 6,Total,15318,:,61465,-75.07849996,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Friuli Venezia Giulia,Pordenone,As Friuli Occidentale,As Friuli Occidentale,Total,21975,:,50861,-56.7940072,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Cremona,Ats Valpadana,Centro psicosociale,Total,0,:,15,-100.0,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Cremona,Ats Valpadana,Ospedale Maggiore di Crema,Total,6927,:,34689,-80.03113379,"The comparison is not on the postponements, but on the performance of the same period of 2019. The data includes 3,897 exams performed in 2020 and 26.235 exams performed in 2019 at the clinic of cream"
+Medical exams,Lombardy,Cremona,Ats Valpadana,Poliambulatorio di Rivolta d'Adda,Total,83,:,3757,-97.79079052,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Cremona,Ats Valpadana,Ospedale di Cremona,Total,5419,:,12180,-55.5090312,"The comparison is not on the postponements, but on the performance of the same period of 2019. The figure also includes 1,985 visits performed in 2020 and 24,067 visits performed in 2019 at the hospital clinic, as well as 8 visits performed in 2020 and 82 visits performed in 2019 in infant neuropsychiatry of the hospital"
+Medical exams,Lombardy,Cremona,Ats Valpadana,Ospedale Oglio Po,Total,5288,:,39866,-86.73556414,"The comparison is not on the postponements, but on the performance of the same period of 2019. The figure includes 832 exams performed in 2020 and 10,244 exams performed in 2019 at the clinic of the Oglio Po hospital"
+Medical exams,Lombardy,Mantova,Ats Valpadana,Ospedale civile Destra Secchia di Pieve di Coriano,Total,4396,:,11661,-62.30168939,"The comparison is not on the postponements, but on the performance of the same period of 2019. The data includes 2,446 exams performed in 2020 and 7,800 exams performed in 2019 at the clinic"
+Medical exams,Lombardy,Mantova,Ats Valpadana,Ospedale Carlo Poma di Mantova,Total,14281,:,38759,-63.15436415,"The comparison is not on the postponements, but on the performance of the same period of 2019. The figure includes the 52 exams performed in 2020 and 234 executed in 2019 at the Uoonpa of the Mantua hospital"
+Medical exams,Lombardy,Mantova,Ats Valpadana,Poliambulatorio di Goito,Total,34,:,498,-93.17269076,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Mantova,Ats Valpadana,Poliambulatorio di Mantova,Total,33,:,435,-92.4137931,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Mantova,Ats Valpadana,Poliambulatorio ospedale di Asola,Total,1730,:,6899,-74.92390201,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Mantova,Ats Valpadana,Poliambulatorio di Quistello,Total,41,:,99,-58.58585859,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Mantova,Ats Valpadana,Poliambulatorio di Viadana,Total,12,:,243,-95.0617284,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Mantova,Ats Valpadana,Ospedale di Asola,Total,766,:,2108,-63.66223909,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Mantova,Ats Valpadana,Polo Sanitario Nuovo Robbiani,Total,1343,:,4338,-69.04103273,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Roma,Ospedale Sant'Andrea,Ospedale Sant'Andrea,Total,7491,:,19726,-62.02473892,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Veneto,Vicenza,Azienda ULSS 8 Berica,Azienda ULSS 8 Berica,Total,21019,:,34279,-38.68257534,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Tuscany,Firenze,AOU Meyer,Azienda ospedaliero universitaria Meyer,Total,1285,:,4302,-70.13017201,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Consultori,Total,424,:,1488,-71.50537634,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Centri TSRMEE,Total,1658,:,8677,-80.89201337,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio Ospedale San Giovanni di Dio di Fondi,Total,13711,:,45664,-69.97415907,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio Ospedale Dono Svizzero di Formia,Total,25810,:,75159,-65.65946859,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio Ospedale Santa Maria Goretti di Latina,Total,27632,:,62549,-55.82343443,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio Ospedale Fiorini di Terracina,Total,15904,:,50732,-68.65095009,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Aprilia,Total,14156,:,31403,-54.92150431,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Cisterna,Total,12511,:,32508,-61.51408884,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Cori,Total,6506,:,13887,-53.15042846,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Fondi,Total,114,:,453,-74.83443709,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Gaeta,Total,13526,:,42436,-68.12611933,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Itri,Total,2951,:,5527,-46.60756287,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Latina,Total,21930,:,65782,-66.66261287,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Minturno,Total,12683,:,38107,-66.717401,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Norma,Total,106,:,1079,-90.17608897,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Pontinia,Total,2147,:,7073,-69.64512937,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Ponza,Total,2366,:,3691,-35.89813059,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Priverno,Total,11802,:,30148,-60.85312459,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Sabaudia,Total,43,:,332,-87.04819277,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Sezze,Total,11221,:,30462,-63.16394196,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Ss. Cosma E Damiano,Total,658,:,4069,-83.8289506,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Terracina,Total,258,:,1386,-81.38528139,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lazio,Latina,Asl Latina,Poliambulatorio territoriale Ventotene,Total,446,:,480,-7.083333333,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Brescia,Asst del Garda,Asst del Garda,Total,45322,:,71952,-37.01078497,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Calabria,Cosenza,Asp Cosenza,Ospedale di Corigliano,Total,13426,:,31319,-57.13145375,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Calabria,Cosenza,Asp Cosenza,Ospedale di Rossano,Total,25786,:,49034,-47.41199984,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Calabria,Cosenza,Asp Cosenza,Ospedale di Cetraro,Total,19537,:,21147,-7.613373055,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Calabria,Cosenza,Asp Cosenza,Ospedale di Castrovillari,Total,21862,:,55515,-60.61965235,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Calabria,Cosenza,Asp Cosenza,Ospedale di Paola,Total,17455,:,33853,-48.43883851,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Calabria,Cosenza,Asp Cosenza,Ospedale di Praia a Mare,Total,8641,:,19890,-56.55605832,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Calabria,Cosenza,Asp Cosenza,Ospedale di San Giovanni in Fiore,Total,11027,:,32642,-66.21836897,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Calabria,Cosenza,Asp Cosenza,Ospedale di Trebisacce,Total,12203,:,33308,-63.363156,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Calabria,Cosenza,Asp Cosenza,Ospedale di Acri,Total,12301,:,42253,-70.88727428,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Tuscany,Pisa,AOU Pisana,AOU Pisana,Total,23732,:,53085,-55.29433927,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Emilia Romagna,Ferrara,AOU Arcispedale Sant'Anna di Ferrara,AOU Arcispedale Sant'Anna di Ferrara,Total,10463,:,33185,-68.47069459,"The comparison is not on the referrals, but on the performance of the same period of 2019. The health local district specifies that no urgent performance has been postponed"
+Medical exams,Sicily,Messina,Ao Papardo,Ao Papardo,Total,3900,:,10420,-62.57197697,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Liguria,Genova,Ospedale Evangelico Internazionale,Ospedale Evangelico Internazionale,Total,2284,:,9968,-77.08667737,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Friuli Venezia Giulia,Trieste,IRCCS Materno Infantile Burlo Garofolo,IRCCS Materno Infantile Burlo Garofolo,Total,6578,:,18633,-64.69704288,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Tuscany,Massa Carrara,Azienda Usl Toscana Nord Ovest,Presidio Ospedaliero delle Apuane,Total,9198,:,14238,-35.39823009,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Tuscany,Massa Carrara,Azienda Usl Toscana Nord Ovest,Presidio Ospedaliero della Lunigiana,Total,1709,:,5143,-66.77036749,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Presidio Ospedaliero della Piana di Lucca,Total,9477,:,12755,-25.6997256,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Presidio Ospedaliero della Valle del Serchio,Total,2781,:,5323,-47.75502536,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Tuscany,Pisa,Azienda Usl Toscana Nord Ovest,Zona Pisana,Total,889,:,4240,-79.03301887,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Tuscany,Pisa,Azienda Usl Toscana Nord Ovest,Presidio Ospedaliero della Val d'Era,Total,8776,:,12643,-30.58609507,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Presidio Ospedaliero dell'Alta Val di Cecina,Total,2025,:,3394,-40.33588686,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Presidio Ospedaliero Livornese,Total,10951,:,15674,-30.13270384,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Presidio Ospedaliero dell'Elba,Total,1900,:,3147,-39.62503972,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Presidio Ospedaliero della Val di Cornia,Total,4307,:,5331,-19.20840368,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,"Presidio Ospedaliero Ospedale Unico ""Versilia""",Total,4666,:,14193,-67.12463891,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Pavia,Ats Pavia,Policlinico San Matteo di Pavia,Total,131753,:,313765,-58.00901949,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Pavia,Ats Pavia,IRCCS Maugeri di Pavia,Total,28230,:,104157,-72.89668481,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Pavia,Ats Pavia,IRCCS Mondino,Total,2782,:,16596,-83.23692456,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Pavia,Ats Pavia,IRCCS Maugeri di Montescano,Total,711,:,9103,-92.18938811,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Brescia,Asst Valcamonica,Asst Valcamonica,Total,3247,:,12093,-73.14975606,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale central di Bolzano,Total,79072,:,201405,-60.73980288,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale di Merano,Total,60243,:,106302,-43.32844161,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale di Bressanone,Total,35202,:,90546,-61.12252336,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale di Brunico,Total,38600,:,99879,-61.35323742,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Lombardy,Milano,IRCCS Istituto tumori di Milano,IRCCS Istituto tumori di Milano,Total,14924,:,21665,-31.11470113,"The IRCCS specifies that the reduction is due in particular to the non-influx of patients from outside the region. The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Reggio Emilia,Total,19042,:,39315,-51.56556022,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Correggio,Total,2614,:,10109,-74.14185379,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Scandiano,Total,3822,:,13198,-71.04106683,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Distretto di Reggio Emilia,Total,1309,:,9456,-86.15693739,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Montecchio,Total,2040,:,6882,-70.35745423,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Castelnovo Monti,Total,1770,:,5792,-69.44060773,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Guastalla,Total,3933,:,10269,-61.70026293,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Campania,Avellino,AORN San Giuseppe Moscati di Avellino,AORN San Giuseppe Moscati di Avellino,Total,3497,:,11722,-70.16720696,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Emilia Romagna,Bologna,Ausl Bologna,Ausl Bologna,Total,40057,:,107446,-62.71894719,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Basilicata,Potenza,AO San Carlo,AO San Carlo,Total,6321,17314,:,-73.25576476,
+Medical exams,Basilicata,Matera,ASM Matera,Distretto di Matera,Total,41752,0,:,0.0,
+Medical exams,Basilicata,Matera,ASM Matera,Distretto di Policoro,Total,16083,1618,:,-9.140726513,
+Medical exams,Basilicata,Potenza,ASP Potenza,Dip. Prevenzione - Neuropsichiatria infantile,Total,1,58,:,-98.30508475,
+Medical exams,Basilicata,Potenza,ASP Potenza,Dipartimento Salute Mentale,Total,23,69,:,-75.0,
+Medical exams,Basilicata,Potenza,ASP Potenza,Distretto Brienza,Total,0,2,:,-100.0,
+Medical exams,Basilicata,Potenza,ASP Potenza,Distretto Genzano di Lucania,Total,3,127,:,-97.69230769,
+Medical exams,Basilicata,Potenza,ASP Potenza,Distretto Lagonegro,Total,13,47,:,-78.33333333,
+Medical exams,Basilicata,Potenza,ASP Potenza,Distretto Lavello,Total,12,183,:,-93.84615385,
+Medical exams,Basilicata,Potenza,ASP Potenza,Distretto Melfi,Total,3,79,:,-96.34146341,
+Medical exams,Basilicata,Potenza,ASP Potenza,Distretto Rionero,Total,14,255,:,-94.79553903,
+Medical exams,Basilicata,Potenza,ASP Potenza,Distretto Villa D'Agri,Total,49,381,:,-88.60465116,
+Medical exams,Basilicata,Potenza,ASP Potenza,Ex-Ospedale Pescopagano,Total,0,21,:,-100.0,
+Medical exams,Basilicata,Potenza,ASP Potenza,Ospedale di Chiaromonte,Total,77,381,:,-83.18777293,
+Medical exams,Basilicata,Potenza,ASP Potenza,Ospedale di Lauria,Total,162,656,:,-80.19559902,
+Medical exams,Basilicata,Potenza,ASP Potenza,Ospedale di Maratea,Total,21,194,:,-90.23255814,
+Medical exams,Basilicata,Potenza,ASP Potenza,Ospedale Venosa,Total,181,2169,:,-92.29787234,
+Medical exams,Basilicata,Potenza,ASP Potenza,Poliambulatorio Avigliano,Total,7,138,:,-95.17241379,
+Medical exams,Basilicata,Potenza,ASP Potenza,Poliambulatorio di Rotonda,Total,0,20,:,-100.0,
+Medical exams,Basilicata,Potenza,ASP Potenza,Poliambulatorio di Senise,Total,31,287,:,-90.25157233,
+Medical exams,Basilicata,Potenza,ASP Potenza,Poliambulatorio Muro Lucano,Total,13,167,:,-92.77777778,
+Medical exams,Basilicata,Potenza,ASP Potenza,Poliambulatorio Oppido Lucano,Total,0,9,:,-100.0,
+Medical exams,Basilicata,Potenza,ASP Potenza,Poliambulatorio Picerno,Total,0,27,:,-100.0,
+Medical exams,Basilicata,Potenza,ASP Potenza,Poliambulatorio Potenza,Total,438,4620,:,-91.34045077,
+Medical exams,Basilicata,Potenza,ASP Potenza,Poliambulatorio Sant'Arcangelo,Total,10,425,:,-97.70114943,
+Medical exams,Basilicata,Potenza,ASP Potenza,Servizi ASP Ospedale Melfi,Total,6,6,:,-50.0,
+Medical exams,Basilicata,Potenza,ASP Potenza,Servizi ASP Ospedale VdA,Total,34,15,:,-30.6122449,
+Medical exams,Basilicata,Potenza,ASP Potenza,Sub Distretto Palazzo San Gervasio,Total,0,35,:,-100.0,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,Centro Salute mentale di Chieti,Total,58,0,:,0.0,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Atessa,Total,24,8,:,-25.0,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Bucchianico,Total,17,12,:,-41.37931034,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Casalbordino,Total,31,13,:,-29.54545455,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Casoli,Total,45,39,:,-46.42857143,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Castiglione Messer Marino,Total,148,23,:,-13.4502924,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Chieti centro,Total,463,193,:,-29.42073171,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Fossacesia,Total,17,6,:,-26.08695652,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Francavilla al mare,Total,731,339,:,-31.68224299,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Gissi,Total,16,6,:,-27.27272727,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Guardiagrele,Total,208,101,:,-32.68608414,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Lama dei Peligni,Total,94,7,:,-6.930693069,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Lanciano,Total,230,99,:,-30.09118541,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Miglianico,Total,17,10,:,-37.03703704,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Orsogna,Total,10,0,:,0.0,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Ortona,Total,433,137,:,-24.03508772,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. San Giovanni Teatino,Total,40,11,:,-21.56862745,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. San Salvo,Total,521,76,:,-12.73031826,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Tollo,Total,103,38,:,-26.95035461,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Torriccella Peligna,Total,44,6,:,-12.0,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Vasto,Total,846,152,:,-15.23046092,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,D.S.B. Villa Santa Maria,Total,362,128,:,-26.12244898,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,Ex ospedale pediatrico di Chieti,Total,180,0,:,0.0,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,Itab,Total,456,102,:,-18.27956989,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,"Ospedale ""San Camillo De Lellis"" di Atessa",Total,1276,535,:,-29.54168967,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,"Ospedale ""Ss. Annunziata"" di Chieti",Total,40853,2739,:,-6.283262984,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,"Ospedale ""Floraspe Renzetti"" di Lanciano",Total,15457,2380,:,-13.34305096,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,"Ospedale ""Bernabeo"" di Ortona",Total,3176,1475,:,-31.71360998,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,"Ospedale ""San Pio da Pieterelcina"" di Vasto",Total,12014,1326,:,-9.940029985,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,"P.T.A. ""Consalvi"" di Casoli",Total,1988,69,:,-3.354399611,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,P.T.A. Gissi,Total,439,36,:,-7.578947368,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,"P.T.A. Guardiagrele ""SS. Immacolata""",Total,659,123,:,-15.72890026,
+Medical exams,Abruzzo,Chieti,Asl 2 Abruzzo,Pneumologia territoriale Chieti,Total,151,190,:,-55.71847507,
+Medical exams,Veneto,Vicenza,Ulss 7 Pedemontana,Distretto 1 Bassano,Total,31981,5455,:,-14.57153542,"The figure includes 3,669 exams performed by private structures accredited"
+Medical exams,Veneto,Vicenza,Ulss 7 Pedemontana,Distretto 2 Alto Vicentino,Total,24183,5462,:,-18.42469219,"The data includes 2,354 exams performed by the private structures accredited"
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Monopoli,Total,236,73,:,-23.62459547,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Polignano,Total,91,48,:,-34.5323741,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Alberobello,Total,21,4,:,-16.0,
+Medical exams,Puglia,Bari,Asl Bari,Ospedale Santa Maria degli Angeli di Putignano,Total,1676,1187,:,-41.46000699,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Casamassima,Total,542,445,:,-45.08611955,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio di Conversano,Total,3130,1032,:,-24.79577126,"The figure includes 9 exams executed and 0 returned to the ""F. Jaia"" hospital in Conversano"
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio di Gioia Del Colle,Total,1099,791,:,-41.85185185,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Sammichele,Total,33,29,:,-46.77419355,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Turi,Total,53,29,:,-35.36585366,
+Medical exams,Puglia,Bari,Asl Bari,Ospedale San Giacomo di Monopoli,Total,2022,1116,:,-35.56405354,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Locorotondo,Total,13,14,:,-51.85185185,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Putignano,Total,605,459,:,-43.13909774,
+Medical exams,Puglia,Bari,Asl Bari,Ser.D. Gioia Del Colle,Total,3,0,:,0.0,
+Medical exams,Puglia,Bari,Asl Bari,Ospedale Don Tonino Bello di Molfetta,Total,1581,709,:,-30.96069869,The data includes 3 exams executed and 0 returned to the TisiPN center. Molfetta
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Molfetta,Total,431,268,:,-38.34048641,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Giovinazzo,Total,148,113,:,-43.29501916,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Bitonto,Total,777,400,:,-33.98470688,
+Medical exams,Puglia,Bari,Asl Bari,Polambulatorio Ruvo Di Puglia,Total,727,428,:,-37.05627706,
+Medical exams,Puglia,Bari,Asl Bari,"Ospedale ""Umberto I"" di Corato",Total,1690,788,:,-31.79983858,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Corato,Total,442,383,:,-46.42424242,
+Medical exams,Puglia,Bari,Asl Bari,"Ospedale ""Sarcone"" di Terlizzi",Total,2449,1728,:,-41.36940388,The figure includes 142 visits performed and 145 postponed to the clinic of Terlizzi
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Palo Del Colle,Total,269,129,:,-32.4120603,
+Medical exams,Puglia,Bari,Asl Bari,Servizio Riabilitazione Ex Art 25 Terlizzi,Total,10,1,:,-9.090909091,
+Medical exams,Puglia,Bari,Asl Bari,Ser.D. Ruvo,Total,9,5,:,-35.71428571,
+Medical exams,Puglia,Bari,Asl Bari,Ser.D. Bitonto,Total,15,25,:,-62.5,
+Medical exams,Puglia,Bari,Asl Bari,Servizio Riabilitazione Ex Art 25 Corato,Total,16,16,:,-50.0,
+Medical exams,Puglia,Bari,Asl Bari,Ospedale Di Venere di Bari,Total,3982,3909,:,-49.53744773,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Bari Japigia,Total,587,372,:,-38.79040667,
+Medical exams,Puglia,Bari,Asl Bari,Ospedale San Paolo di Bari,Total,4981,3207,:,-39.16707377,
+Medical exams,Puglia,Bari,Asl Bari,Ospedale Triggiano,Total,1719,778,:,-31.15738887,The figure includes 361 instrumental exams performed and 273 returned to the Triggiano clinic
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Bari Cto,Total,472,2587,:,-84.57012095,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Modugno,Total,373,82,:,-18.02197802,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Rutigliano,Total,358,187,:,-34.31192661,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Mola Di Bari,Total,1509,289,:,-16.07341491,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Adelfia,Total,499,177,:,-26.18343195,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Bari - Santo Spirito,Total,456,152,:,-25.0,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio San Paolo - Casa Salute di Bari,Total,182,15,:,-7.614213198,
+Medical exams,Puglia,Bari,Asl Bari,Neuropsichiatria infantile,Total,3,0,:,0.0,The figure refers to all infant neuropsychiatries active in the territory of the ASL
+Medical exams,Puglia,Bari,Asl Bari,"Ospedale della Murgia ""Fabio Perinei""",Total,2433,1667,:,-40.65853659,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Altamura,Total,175,269,:,-60.58558559,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Toritto,Total,10,3,:,-23.07692308,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Gravina In Puglia,Total,192,260,:,-57.52212389,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Poggiorsini,Total,18,3,:,-14.28571429,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Cassano delle Murge,Total,83,190,:,-69.5970696,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Sannicandro,Total,78,69,:,-46.93877551,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Santeramo,Total,1094,746,:,-40.54347826,
+Medical exams,Puglia,Bari,Asl Bari,Pta Grumo Appula,Total,646,311,:,-32.49738767,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Noicattaro,Total,49,28,:,-36.36363636,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Noci,Total,152,57,:,-27.27272727,
+Medical exams,Puglia,Bari,Asl Bari,Poliambulatorio Bari Via Fani,Total,1776,1015,:,-36.36689359,
+Medical exams,Emilia Romagna,Bologna,Istituto ortopedico Rizzoli,Istituto ortopedico Rizzoli,Total,2527,1269,:,-33.42992624,"As of October 31st, the postponed exams were carried out or reprogrammed"
+Medical exams,Lazio,Roma,Inmi Lazzaro Spallanzani,Inmi Lazzaro Spallanzani,Total,557,1060,:,-65.55349412,
+Medical exams,Piedmont,Verbania,Asl Vco,Asl Vco,Total,37015,30282,:,-44.99754818,
+Medical exams,Sardinia,Cagliari,Arnas Brotzu,Ospedale oncologico Armando Businco,Total,55447,1481,:,-2.601531759,
+Medical exams,Sardinia,Cagliari,Arnas Brotzu,Ospedale pediatrico Antonio Cao,Total,6894,434,:,-5.922489083,
+Medical exams,Sardinia,Cagliari,Arnas Brotzu,Ospedale San Michele,Total,50100,2658,:,-5.038098487,
+Medical exams,Sardinia,Sassari,AOU Sassari,AOU Sassari,Total,8453,56,:,-0.6581266894,
+Medical exams,Sicily,Agrigento,Asp Agrigento,Asp Agrigento,Total,5417,953,:,-14.96075353,
+Medical exams,Emilia Romagna,Parma,Ausl Parma,Ausl Parma,Total,8943,44704,:,-83.32991593,
+Medical exams,Campania,Salerno,Ausl Salerno,Psaut di Agropoli,Total,1963,42,:,-2.094763092,
+Medical exams,Campania,Salerno,Ausl Salerno,"Ospedale ""Andrea Tortora"" di Pagani",Total,6809,1249,:,-15.5001241,
+Medical exams,Campania,Salerno,Ausl Salerno,"Ospedale ""Santa Maria della Speranza"" di Battipaglia",Total,14196,676,:,-4.545454545,
+Medical exams,Campania,Salerno,Ausl Salerno,"Ospedale ""Dell'Immacolata"" di Sapri",Total,5378,1171,:,-17.88059246,
+Medical exams,Campania,Salerno,Ausl Salerno,"Ospedale ""Luigi Curto"" di Polla",Total,11723,1463,:,-11.09510086,
+Medical exams,Campania,Salerno,Ausl Salerno,"Ospedale ""Maria SS.Addolorata"" di Eboli",Total,3042,1036,:,-25.4046101,
+Medical exams,Campania,Salerno,Ausl Salerno,"Ospedale ""Mauro Scarlato"" di Scafati",Total,4565,1113,:,-19.60197253,
+Medical exams,Campania,Salerno,Ausl Salerno,Ospedale di Roccadaspide,Total,4005,400,:,-9.080590238,
+Medical exams,Campania,Salerno,Ausl Salerno,"Ospedale ""San Francesco d'Assisi"" di Oliveto Citra",Total,5843,561,:,-8.760149906,
+Medical exams,Campania,Salerno,Ausl Salerno,"Ospedale ""San Luca"" di Vallo della Lucania",Total,3148,1394,:,-30.69132541,
+Medical exams,Campania,Salerno,Ausl Salerno,"Ospedale ""Martiri di Villa Malta"" di Sarno",Total,2954,293,:,-9.023714198,
+Medical exams,Campania,Salerno,Ausl Salerno,"Ospedale ""Umberto I"" di Nocera Inferiore",Total,10749,643,:,-5.644311798,
+Medical exams,Campania,Salerno,Ausl Salerno,Poliambulatori DSB 60,Total,412,189,:,-31.44758735,
+Medical exams,Campania,Salerno,Ausl Salerno,Poliambulatori DSB 61,Total,828,803,:,-49.23359902,
+Medical exams,Campania,Salerno,Ausl Salerno,Poliambulatori DSB 62,Total,253,118,:,-31.80592992,
+Medical exams,Campania,Salerno,Ausl Salerno,Poliambulatori DSB 63,Total,811,697,:,-46.22015915,
+Medical exams,Campania,Salerno,Ausl Salerno,Poliambulatori DSB 64,Total,924,882,:,-48.8372093,
+Medical exams,Campania,Salerno,Ausl Salerno,Poliambulatori DSB 65,Total,1893,394,:,-17.22780936,
+Medical exams,Campania,Salerno,Ausl Salerno,Poliambulatori DSB 66,Total,5206,2298,:,-30.62366738,
+Medical exams,Campania,Salerno,Ausl Salerno,Poliambulatori DSB 67,Total,930,543,:,-36.86354379,
+Medical exams,Campania,Salerno,Ausl Salerno,Poliambulatori DSB 68,Total,1124,742,:,-39.7642015,
+Medical exams,Campania,Salerno,Ausl Salerno,Poliambulatori DSB 69,Total,422,539,:,-56.08740895,
+Medical exams,Campania,Salerno,Ausl Salerno,Poliambulatori DSB 70,Total,1159,1841,:,-61.36666667,
+Medical exams,Campania,Salerno,Ausl Salerno,Poliambulatori DSB 71,Total,352,431,:,-55.04469987,
+Medical exams,Campania,Salerno,Ausl Salerno,Poliambulatori DSB 72,Total,443,593,:,-57.23938224,
+Medical exams,Campania,Salerno,Ausl Salerno,Casa circondariale di Salerno,Total,16,0,:,0.0,
+Medical exams,Campania,Salerno,Aou San Giovanni di Dio Ruggi d'Aragona,Ospedale San Giovanni di Dio Ruggi d'Aragona,Total,17880,4235,:,-19.14989826,The health local district has not communicated data that would allow to distinguish between specialist visits and instrumental examinations. The data includes both cases
+Medical exams,Tuscany,Siena,AOU Senese,AOU Senese,Total,8469,22045,:,-72.24552664,
+Medical exams,Calabria,Cosenza,Asp Cosenza,Poliambulatorio di Montalto,Total,28,571,:,-95.32554257,
+Medical exams,Calabria,Cosenza,Asp Cosenza,Poliambulatorio di Bisignano,Total,77,67,:,-46.52777778,
+Medical exams,Calabria,Cosenza,Asp Cosenza,Poliambulatorio di Acri,Total,22,50,:,-69.44444444,
+Medical exams,Liguria,Genova,Ospedale pediatrico Gaslini,Ospedale pediatrico Gaslini,Total,1191,2002,:,-62.6996555,
+Medical exams,Liguria,Genova,Ospedale Galliera,Ospedale Galliera,Total,6406,1913,:,-22.99555235,
+Medical exams,Emilia Romagna,Modena,Ausl Modena,Ospedale di Carpi,Total,4250,2672,:,-38.60156024,
+Medical exams,Emilia Romagna,Modena,Ausl Modena,Ospedale di Mirandola,Total,3396,4397,:,-56.42243039,
+Medical exams,Emilia Romagna,Modena,Ausl Modena,Ospedale di Sassuolo,Total,5487,9984,:,-64.53364359,
+Medical exams,Emilia Romagna,Modena,Ausl Modena,Ospedale di Pavullo,Total,968,1407,:,-59.24210526,
+Medical exams,Emilia Romagna,Modena,Ausl Modena,Ospedale di Vignola,Total,2221,805,:,-26.60277594,
+Medical exams,Emilia Romagna,Modena,Ausl Modena,Poliambulatori distrettuali e consultori,Total,7269,9378,:,-56.33447468,
+Medical exams,Calabria,Catanzaro,Asp Catanzaro,Distretto di Catanzaro,Total,495,2365,:,-82.69230769,The health local district has worked at full capacity until March 10th. The data refer to the period between 11/04/20 and 04/30/20
+Medical exams,Calabria,Catanzaro,Asp Catanzaro,Distretto Lametino,Total,44,1834,:,-97.657082,The health local district has worked at full capacity until March 10th. The data refer to the period between 11/04/20 and 04/30/20
+Medical exams,Calabria,Catanzaro,Asp Catanzaro,Distretto Soverato,Total,252,2257,:,-89.95615783,The health local district has worked at full capacity until March 10th. The data refer to the period between 11/04/20 and 04/30/20
+Medical exams,Calabria,Catanzaro,Asp Catanzaro,Presidio ospedaliero Giovanni Paolo II di Lamezia Terme,Total,4005,1872,:,-31.85298622,The health local district has worked at full capacity until March 10th. The data refer to the period between 11/04/20 and 04/30/20
+Medical exams,Calabria,Catanzaro,Asp Catanzaro,Ospedale civile di Soverato,Total,1080,2354,:,-68.54979616,The health local district has worked at full capacity until March 10th. The data refer to the period between 11/04/20 and 04/30/20
+Medical exams,Calabria,Catanzaro,Asp Catanzaro,Presidio ospedaliero Soveria Mannelli,Total,106,138,:,-56.55737705,The health local district has worked at full capacity until March 10th. The data refer to the period between 11/04/20 and 04/30/20
+Medical exams,Lombardy,Varese,Asst Sette Laghi,Asst Sette Laghi,Total,19965,21324,:,-51.64571678,
+Medical exams,Lombardy,Mantova,Asst Mantova,Asst Mantova,Total,23200,3700,:,-13.75464684,
+Medical exams,Campania,Napoli,AORN Santobono Pausilipon di Napoli,AORN Santobono Pausilipon di Napoli,Total,487,2160,:,-81.60181337,
+Medical exams,Lombardy,Lecco,Asst Lecco,Asst Lecco,Total,13385,26349,:,-66.31348467,
+Medical exams,Lombardy,Milano,Asst Gaetano Pini CTO,Asst Gaetano Pini CTO,Total,4082,3570,:,-46.65446942,
+Medical exams,Lombardy,Pavia,Asst Pavia,Ospedale Carlo Mira di Casorate Primo,Total,351,646,:,-64.79438315,The post-referring figure is estimated
+Medical exams,Lombardy,Pavia,Asst Pavia,Ospedale di Mede,Total,357,401,:,-52.90237467,The post-referring figure is estimated
+Medical exams,Lombardy,Pavia,Asst Pavia,Ospedale Asilo Vittoria di Mortara,Total,286,543,:,-65.50060314,The post-referring figure is estimated
+Medical exams,Lombardy,Pavia,Asst Pavia,Poliambulatorio di Pavia,Total,65,171,:,-72.45762712,The post-referring figure is estimated
+Medical exams,Lombardy,Pavia,Asst Pavia,Ospedale unificato di Broni - Stradella,Total,1046,1397,:,-57.18379042,The post-referring figure is estimated
+Medical exams,Lombardy,Pavia,Asst Pavia,Ospedale Ss. Annunziata di Varzi,Total,254,344,:,-57.52508361,The post-referring figure is estimated
+Medical exams,Lombardy,Pavia,Asst Pavia,Ospedale civile di Vigevano,Total,1774,1376,:,-43.68253968,The post-referring figure is estimated
+Medical exams,Lombardy,Pavia,Asst Pavia,Ospedale civile di Voghera,Total,1206,1623,:,-57.37009544,The post-referring figure is estimated
+Medical exams,Marche,Pesaro,Ao Ospedali riuniti Marche Nord,Ao Ospedali riuniti Marche Nord,Total,5786,8059,:,-58.20873962,
+Medical exams,Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Azienda ULSS 4 Veneto Orientale,Total,7641,12070,:,-61.23484349,The figure refers to the period between March 15th and May 3rd
+Medical exams,Liguria,Genova,Asl 4 Liguria,Ospedale di Chiavari,Total,846,1593,:,-65.31365314,
+Medical exams,Liguria,Genova,Asl 4 Liguria,Ospedale di Lavagna,Total,1896,2428,:,-56.15171138,
+Medical exams,Liguria,Genova,Asl 4 Liguria,Ospedale Nostra Signora di Montallegro di Rapallo,Total,472,1061,:,-69.21069798,
+Medical exams,Liguria,Genova,Asl 4 Liguria,Ospedale di Sestri Levante,Total,529,2799,:,-84.10456731,
+Medical exams,Campania,Napoli,Asl Napoli 3 Sud,Ospedale di Sorrento,Total,133,48,:,-26.51933702,The data also include those relating to the Hospital of Vico Equense
+Medical exams,Campania,Napoli,Asl Napoli 3 Sud,Ospedale Santa Maria della Pietà di Nola,Total,146,112,:,-43.41085271,
+Medical exams,Campania,Napoli,Asl Napoli 3 Sud,Ospedale Cavalier Raffaele Apicenna di Pollena Trocchia,Total,55,132,:,-70.58823529,
+Medical exams,Lombardy,Sondrio,Asst Valtellina e Alto Lario,Asst Valtellina e Alto Lario,Total,8578,9175,:,-51.68140596,
+Medical exams,Lombardy,Varese,Asst Valle Olona,Asst Valle Olona,Total,22164,9394,:,-29.76741238,
+Medical exams,Campania,Napoli,AOU Federico II di Napoli,AOU Federico II di Napoli,Total,3630,8007,:,-68.8063934,
+Medical exams,Umbria,Perugia,Azienda Usl Umbria 1,Azienda Usl Umbria 1,Total,111698,49209,:,-30.5822618,
+Medical exams,Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria dei Laici di Amelia,Total,283,160,:,-36.11738149,
+Medical exams,Umbria,Terni,Azienda Usl Umbria 2,Ospedale di Cascia,Total,4,1,:,-20.0,
+Medical exams,Umbria,Terni,Azienda Usl Umbria 2,Ospedale San Giovanni Battista di Foligno,Total,4436,2117,:,-32.30581413,
+Medical exams,Umbria,Terni,Azienda Usl Umbria 2,Ospedale di Narni,Total,580,300,:,-34.09090909,
+Medical exams,Umbria,Terni,Azienda Usl Umbria 2,Ospedale di Norcia,Total,144,49,:,-25.38860104,
+Medical exams,Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria della Stella di Orvieto,Total,1121,1114,:,-49.84340045,
+Medical exams,Umbria,Terni,Azienda Usl Umbria 2,Ospedale civile San Matteo degli Infermi di Spoleto,Total,2076,968,:,-31.80026281,
+Medical exams,Umbria,Terni,Azienda Usl Umbria 2,Domus Gratiae di Terni,Total,57,167,:,-74.55357143,The figure refers to the Narni office
+Medical exams,Lombardy,Cremona,Asst Cremona,Asst Cremona,Total,2515,10239,:,-80.28069625,The data is our processing starting from the data provided
+Medical exams,Sardinia,Cagliari,AOU Ospedale civile di Cagliari,AOU Ospedale civile di Cagliari,Total,4511,2029,:,-31.02446483,
+Medical exams,Emilia Romagna,Ravenna,Ausl Romagna,Ausl Romagna,Total,84069,87452,:,-50.98617662,
+Medical exams,Sicily,Catania,Asp Catania,Ospedale S. Marta e S. Venera di Acireale,Total,1812,6103,:,-77.10675932,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Sicily,Catania,Asp Catania,Ospedale Maria SS. Addolorata di Biancavilla,Total,1609,5209,:,-76.40070402,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Sicily,Catania,Asp Catania,Ospedale Castiglione Prestianni di Bronte,Total,1016,2426,:,-70.48227775,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Sicily,Catania,Asp Catania,Ospedale Gravina e S. Pietro di Caltagirone,Total,1242,4489,:,-78.32838946,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Sicily,Catania,Asp Catania,Ospedale Basso Ragusa Mario di Militello,Total,691,1975,:,-74.08102026,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Sicily,Catania,Asp Catania,Ospedale SS. Salvatore di Paternò,Total,1625,3730,:,-69.65452848,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Sicily,Catania,Asp Catania,Ospedale San Giovanni di Dio e Sant'Isidoro di Giarre,Total,123,578,:,-82.45363766,"The comparison is not on the referrals, but on the performance of the same period of 2019"
+Medical exams,Campania,Caserta,AORN Caserta,AORN Caserta,Total,744,1280,:,-63.24110672,

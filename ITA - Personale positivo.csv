@@ -1,0 +1,328 @@
+Regione,Provincia,Fonte,Ospedale,Tipologia,Positivi,Note
+Basilicata,Potenza,AO San Carlo,AO San Carlo,Medici,11,
+Basilicata,Potenza,AO San Carlo,AO San Carlo,Infermieri,11,
+Basilicata,Potenza,AO San Carlo,AO San Carlo,Oss,1,
+Basilicata,Matera,ASM Matera,Distretto di Matera,Medici,1,
+Basilicata,Matera,ASM Matera,Distretto di Matera,Infermieri,1,
+Basilicata,Matera,ASM Matera,Distretto di Matera,Oss,1,
+Basilicata,Matera,ASM Matera,Distretto di Policoro,Medici,1,
+Basilicata,Matera,ASM Matera,Distretto di Policoro,Infermieri,1,
+Basilicata,Matera,ASM Matera,Distretto di Policoro,Oss,2,
+Basilicata,Potenza,ASP Potenza,ASP Potenza,Medici,0,
+Basilicata,Potenza,ASP Potenza,ASP Potenza,Infermieri,0,
+Basilicata,Potenza,ASP Potenza,ASP Potenza,Oss,0,
+Abruzzo,Chieti,Asl 2 Abruzzo,"Ospedale ""Floraspe Renzetti"" di Lanciano",Totale,42,"Dato comprensivo dei contagi all'ospedale di Atessa. L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Emilia Romagna,Bologna,Policlinico di Sant'Orsola,Policlinico di Sant'Orsola,Medici,62,
+Emilia Romagna,Bologna,Policlinico di Sant'Orsola,Policlinico di Sant'Orsola,Infermieri,85,
+Emilia Romagna,Bologna,Policlinico di Sant'Orsola,Policlinico di Sant'Orsola,Oss,52,
+Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale San Bassiano di Bassano del Grappa,Totale,59,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale di Asiago,Totale,79,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale di Santorso,Totale,59,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Veneto,Vicenza,Ulss 7 Pedemontana,Servizi territoriali,Totale,10,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Puglia,Bari,Asl Bari,Ospedale San Paolo di Bari,Totale,7,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Puglia,Bari,Asl Bari,Ospedale Di Venere di Bari,Totale,8,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Puglia,Bari,Asl Bari,Ospedale Santa Maria degli Angeli di Putignano,Totale,2,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Puglia,Bari,Asl Bari,"Ospedale ""Sarcone"" di Terlizzi",Totale,1,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Puglia,Bari,Asl Bari,Ospedale Don Tonino Bello di Molfetta,Totale,1,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Puglia,Bari,Asl Bari,"Ospedale ""Umberto I"" di Corato",Totale,1,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Puglia,Bari,Asl Bari,Ospedale San Giacomo di Monopoli,Totale,2,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Puglia,Bari,Asl Bari,"Ospedale della Murgia ""Fabio Perinei""",Totale,3,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Emilia Romagna,Bologna,Istituto ortopedico Rizzoli,Istituto ortopedico Rizzoli,Totale,72,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Toscana,Firenze,AOU Careggi,AOU Careggi,Totale,0,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Lazio,Roma,Asl Roma 6,Ospedale dei Castelli,Medici,2,
+Lazio,Roma,Asl Roma 6,Ospedale dei Castelli,Infermieri,1,
+Lazio,Roma,Asl Roma 6,San Giuseppe - Marino,Medici,1,
+Lazio,Roma,Asl Roma 6,San Sebastiano Martire,Medici,2,
+Lazio,Roma,Asl Roma 6,San Sebastiano Martire,Infermieri,4,
+Lazio,Roma,Asl Roma 6,Distretto H1,Medici,1,
+Lazio,Roma,Asl Roma 6,"Civile di Velletri ""P. Colombo""",Medici,1,
+Lazio,Roma,Asl Roma 6,"Civile di Velletri ""P. Colombo""",Infermieri,1,
+Lazio,Roma,Inmi Lazzaro Spallanzani,Inmi Lazzaro Spallanzani,Totale,2,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Piemonte,Verbania,Asl Vco,Asl Vco,Totale,129,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Lombardia,Milano,Asst Grande ospedale metropolitano Niguarda,Ospedale Niguarda,Totale,239,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Sardegna,Cagliari,Arnas Brotzu,Arnas Brotzu,Medici,2,
+Lombardia,Cremona,Ats Valpadana,Asst di Crema,Medici,1,
+Lombardia,Cremona,Ats Valpadana,Asst di Cremona,Medici,2,
+Lombardia,Mantova,Ats Valpadana,Asst di Mantova,Medici,4,
+Lombardia,Cremona,Ats Valpadana,Asst di Crema,Infermieri,1,
+Lombardia,Cremona,Ats Valpadana,Asst di Cremona,Infermieri,3,
+Lombardia,Mantova,Ats Valpadana,Asst di Mantova,Infermieri,7,
+Sardegna,Sassari,AOU Sassari,AOU Sassari,Medici,34,
+Sardegna,Sassari,AOU Sassari,AOU Sassari,Infermieri,43,
+Sardegna,Sassari,AOU Sassari,AOU Sassari,Oss,8,
+Puglia,Bari,Policlinico di Bari,Policlinico di Bari,Totale,27,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Sicilia,Agrigento,Asp Agrigento,Ospedale Giovanni Paolo II di Sciacca,Totale,10,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Sicilia,Agrigento,Asp Agrigento,Ospedale San Giovanni di Dio di Agrigento,Totale,2,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Sicilia,Agrigento,Asp Agrigento,Ospedale Barone Lombardo di Canicattì,Totale,4,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Sicilia,Agrigento,Asp Agrigento,Ospedale Umberto I di Enna,Totale,1,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Sicilia,Agrigento,Asp Agrigento,Dipartimento di prevenzione,Totale,1,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Sicilia,Agrigento,Asp Agrigento,Ospedale Vittorio Emanuele di Castelvetrano,Totale,1,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Veneto,Vicenza,Azienda ULSS 8 Berica,Azienda ULSS 8 Berica,Totale,134,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Emilia Romagna,Parma,Ausl Parma,Ospedale di Vaio Fidenza,Medici,15,
+Emilia Romagna,Parma,Ausl Parma,Ospedale di Vaio Fidenza,Infermieri,15,
+Emilia Romagna,Parma,Ausl Parma,Ospedale di Vaio Fidenza,Oss,2,
+Emilia Romagna,Parma,Ausl Parma,Ospedale Santa Maria di Borgotaro,Medici,1,
+Emilia Romagna,Parma,Ausl Parma,Ospedale Santa Maria di Borgotaro,Infermieri,11,
+Emilia Romagna,Parma,Ausl Parma,Ospedale Santa Maria di Borgotaro,Oss,1,
+Emilia Romagna,Parma,Ausl Parma,Distretto di Parma,Medici,2,Il dato comprende 1 caso registrati all'interno della Direzione generale
+Emilia Romagna,Parma,Ausl Parma,Distretto di Parma,Infermieri,9,Il dato comprende 2 casi registrati all'interno della Direzione generale
+Emilia Romagna,Parma,Ausl Parma,Distretto di Parma,Oss,1,
+Emilia Romagna,Parma,Ausl Parma,Distretto Sud-Est,Medici,1,
+Emilia Romagna,Parma,Ausl Parma,Distretto Sud-Est,Infermieri,1,
+Emilia Romagna,Parma,Ausl Parma,Distretto Valli Taro e Ceno,Medici,2,
+Emilia Romagna,Parma,Ausl Parma,Distretto Valli Taro e Ceno,Infermieri,1,
+Emilia Romagna,Parma,Ausl Parma,Distretto Valli Taro e Ceno,Oss,1,
+Liguria,Savona,Asl 2,Asl 2,Medici,14,
+Liguria,Savona,Asl 2,Asl 2,Infermieri,79,
+Toscana,Firenze,AOU Meyer,Azienda ospedaliero universitaria Meyer,Totale,19,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Lombardia,Bergamo,Asst Papa Giovanni XXIII,Ospedale Papa Giovanni XXIII di Bergamo,Medici,115,
+Lombardia,Bergamo,Asst Papa Giovanni XXIII,Ospedale Papa Giovanni XXIII di Bergamo,Infermieri,192,
+Lombardia,Bergamo,Asst Papa Giovanni XXIII,Ospedale Civile San Giovanni in Bianco,Totale,33,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Lombardia,Milano,Asst Nord Milano,Asst Nord Milano,Medici,18,
+Lombardia,Milano,Asst Nord Milano,Asst Nord Milano,Infermieri,40,
+Lombardia,Milano,Asst Nord Milano,Asst Nord Milano,Oss,20,
+Abruzzo,L'Aquila,Asl 1 Abruzzo,Sede L'Aquila,Totale,7,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Abruzzo,L'Aquila,Asl 1 Abruzzo,Sede Marsica,Totale,2,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Abruzzo,L'Aquila,Asl 1 Abruzzo,Sede Peligna,Totale,1,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Lazio,Latina,Asl Latina,Asl Latina,Medici,4,
+Lazio,Latina,Asl Latina,Ospedale San Giovanni di Dio di Fondi,Medici,1,
+Lazio,Latina,Asl Latina,Ospedale San Giovanni di Dio di Fondi,Infermieri,1,
+Lazio,Latina,Asl Latina,Ospedale San Giovanni di Dio di Fondi,Oss,1,
+Lazio,Latina,Asl Latina,Ospedale Dono Svizzero di Formia,Infermieri,1,
+Lazio,Latina,Asl Latina,Ospedale Fiorini di Terracina,Medici,3,
+Lazio,Latina,Asl Latina,Ospedale Fiorini di Terracina,Infermieri,2,
+Lazio,Latina,Asl Latina,Ospedale Fiorini di Terracina,Oss,1,
+Lazio,Latina,Asl Latina,Ospedale Santa Maria Goretti di Latina,Infermieri,10,
+Lazio,Latina,Asl Latina,Ospedale Santa Maria Goretti di Latina,Oss,1,
+Emilia Romagna,Ferrara,Ausl Ferrara,Ausl Ferrara,Medici,8,
+Emilia Romagna,Ferrara,Ausl Ferrara,Ausl Ferrara,Infermieri,50,
+Emilia Romagna,Ferrara,Ausl Ferrara,Ausl Ferrara,Oss,23,
+Trentino Alto Adige,Trento,Apss Trento,Nuovo polo ospedaliero trentino,Totale,1,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Trentino Alto Adige,Trento,Apss Trento,Ospedale di Arco,Totale,11,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Trentino Alto Adige,Trento,Apss Trento,Ospedale di Borgo,Totale,10,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Trentino Alto Adige,Trento,Apss Trento,Ospedale di Cavalese,Totale,23,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Trentino Alto Adige,Trento,Apss Trento,Ospedale di Cles,Totale,9,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Trentino Alto Adige,Trento,Apss Trento,Ospedale di Rovereto,Totale,28,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Trentino Alto Adige,Trento,Apss Trento,Ospedale di Tione,Totale,14,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Trentino Alto Adige,Trento,Apss Trento,Ospedale di Trento,Totale,76,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Trentino Alto Adige,Trento,Apss Trento,Presidio Villa Igea,Totale,1,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Trentino Alto Adige,Trento,Apss Trento,Servizi territoriali,Totale,51,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Campania,Salerno,Aou San Giovanni di Dio Ruggi d'Aragona,Ospedale San Giovanni di Dio Ruggi d'Aragona,Totale,6,"Per 4 casi esiste la certezza che il contagio sia avvenuto in contesto extraospedaliero. L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Lombardia,Brescia,Asst Franciacorta,Asst Franciacorta,Medici,39,
+Lombardia,Brescia,Asst Franciacorta,Asst Franciacorta,Infermieri,113,
+Lombardia,Brescia,Asst del Garda,Asst del Garda,Totale,306,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Toscana,Siena,AOU Senese,AOU Senese,Totale,8,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Calabria,Cosenza,Asp Cosenza,Asp Cosenza,Infermieri,1,Il dato fa riferimento al solo Dipartimento salute mentale e dipendenze
+Liguria,Genova,Ospedale pediatrico Gaslini,Ospedale pediatrico Gaslini,Totale,28,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Liguria,Genova,Ospedale Galliera,Ospedale Galliera,Totale,144,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Lazio,Rieti,Asl Rieti,Asl Rieti,Totale,21,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Piemonte,Cuneo,Asl Cuneo 2,Asl Cuneo 2,Totale,23,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Toscana,Pisa,AOU Pisana,AOU Pisana,Medici,12,
+Toscana,Pisa,AOU Pisana,AOU Pisana,Infermieri,7,
+Toscana,Pisa,AOU Pisana,AOU Pisana,Oss,6,
+Piemonte,Novara,AOU Maggiore della Carità di Novara,AOU Maggiore della Carità di Novara,Medici,83,
+Piemonte,Novara,AOU Maggiore della Carità di Novara,AOU Maggiore della Carità di Novara,Infermieri,160,
+Emilia Romagna,Ferrara,AOU Arcispedale Sant'Anna di Ferrara,AOU Arcispedale Sant'Anna di Ferrara,Medici,7,
+Emilia Romagna,Ferrara,AOU Arcispedale Sant'Anna di Ferrara,AOU Arcispedale Sant'Anna di Ferrara,Infermieri,11,
+Emilia Romagna,Ferrara,AOU Arcispedale Sant'Anna di Ferrara,AOU Arcispedale Sant'Anna di Ferrara,Oss,5,
+Sicilia,Catania,Arnas Garibaldi,Arnas Garibaldi,Medici,8,
+Sicilia,Catania,Arnas Garibaldi,Arnas Garibaldi,Infermieri,1,
+Sicilia,Messina,Ao Papardo,Ao Papardo,Medici,2,
+Sicilia,Messina,Ao Papardo,Ao Papardo,Infermieri,1,
+Piemonte,Torino,Asl Torino 5,Ospedale Maggiore di Chieri,Totale,43,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Piemonte,Torino,Asl Torino 5,Ospedale Santa Croce di Moncalieri,Totale,112,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Piemonte,Torino,Asl Torino 5,Ospedale San Lorenzo di Carmagnola,Totale,42,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Reggio Emilia,Totale,274,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Castelnovo Monti,Totale,34,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Correggio,Totale,55,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Guastalla,Totale,97,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Montecchio,Totale,54,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Scandiano,Totale,24,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Emilia Romagna,Modena,Ausl Modena,Ausl Modena,Totale,86,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Liguria,Genova,Ospedale Evangelico Internazionale,Ospedale Evangelico Internazionale,Totale,19,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Sicilia,Catania,AOU Policlinico Rodolico-San Marco,AOU Policlinico Rodolico-San Marco,Medici,2,
+Sicilia,Catania,AOU Policlinico Rodolico-San Marco,AOU Policlinico Rodolico-San Marco,Infermieri,4,
+Friuli Venezia Giulia,Trieste,IRCCS Materno Infantile Burlo Garofolo,IRCCS Materno Infantile Burlo Garofolo,Totale,3,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale unico Versilia di Lido di Camaiore,Medici,6,
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale unico Versilia di Lido di Camaiore,Infermieri,31,
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale unico Versilia di Lido di Camaiore,Oss,13,
+Toscana,Livorno,Azienda Usl Toscana Nord Ovest,Ospedali riuniti di Livorno,Medici,7,
+Toscana,Livorno,Azienda Usl Toscana Nord Ovest,Ospedali riuniti di Livorno,Infermieri,20,
+Toscana,Livorno,Azienda Usl Toscana Nord Ovest,Ospedali riuniti di Livorno,Oss,7,
+Toscana,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale SS. Giacomo e Cristoforo di Massa,Medici,1,
+Toscana,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale SS. Giacomo e Cristoforo di Massa,Infermieri,13,
+Toscana,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale SS. Giacomo e Cristoforo di Massa,Oss,3,
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale San Luca di Lucca,Medici,3,
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale San Luca di Lucca,Infermieri,11,
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale San Luca di Lucca,Oss,6,
+Toscana,Pisa,Azienda Usl Toscana Nord Ovest,Ospedale Felice Lotti di Pontedera,Medici,6,
+Toscana,Pisa,Azienda Usl Toscana Nord Ovest,Ospedale Felice Lotti di Pontedera,Infermieri,7,
+Toscana,Pisa,Azienda Usl Toscana Nord Ovest,Ospedale Felice Lotti di Pontedera,Oss,1,
+Toscana,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale Sant'Antonio Abate di Fivizzano,Infermieri,5,
+Toscana,Livorno,Azienda Usl Toscana Nord Ovest,Ospedale di Cecina,Medici,1,
+Toscana,Livorno,Azienda Usl Toscana Nord Ovest,Ospedale di Cecina,Infermieri,5,
+Toscana,Livorno,Azienda Usl Toscana Nord Ovest,Ospedale di Cecina,Oss,1,
+Toscana,Pisa,Azienda Usl Toscana Nord Ovest,Ospedale Santa Maria Maddalena di Volterra,Medici,2,
+Toscana,Pisa,Azienda Usl Toscana Nord Ovest,Ospedale Santa Maria Maddalena di Volterra,Infermieri,2,
+Toscana,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale civile di Carrara,Infermieri,3,
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale San Francesco di Barga,Infermieri,2,
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale San Francesco di Barga,Oss,1,
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale Santa Croce Castelnuovo Garfagnana,Infermieri,1,
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale Santa Croce Castelnuovo Garfagnana,Oss,1,
+Toscana,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale Sant'Antonio Abate di Pontremoli,Infermieri,1,
+Toscana,Livorno,Azienda Usl Toscana Nord Ovest,Cittadella della Salute Campo di Marte,Infermieri,2,
+Toscana,Massa Carrara,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Infermieri,13,
+Toscana,Livorno,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Medici,2,
+Toscana,Livorno,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Infermieri,12,
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Medici,1,
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Infermieri,1,
+Toscana,Lucca,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Oss,1,
+Toscana,Pisa,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Medici,1,
+Toscana,Pisa,Azienda Usl Toscana Nord Ovest,Presidi territoriali,Infermieri,1,
+Piemonte,Alessandria,Asl Alessandria,Asl Alessandria,Medici,2,
+Piemonte,Alessandria,Asl Alessandria,Asl Alessandria,Infermieri,15,
+Piemonte,Alessandria,Asl Alessandria,Asl Alessandria,Oss,8,
+Piemonte,Alessandria,Asl Alessandria,Ospedale Monsignor Giovanni Galliano di Acqui Terme,Medici,11,
+Piemonte,Alessandria,Asl Alessandria,Ospedale Monsignor Giovanni Galliano di Acqui Terme,Infermieri,24,
+Piemonte,Alessandria,Asl Alessandria,Ospedale Monsignor Giovanni Galliano di Acqui Terme,Oss,12,
+Piemonte,Alessandria,Asl Alessandria,Ospedale Santo Spirito di Casale Monferrato,Medici,16,
+Piemonte,Alessandria,Asl Alessandria,Ospedale Santo Spirito di Casale Monferrato,Infermieri,50,
+Piemonte,Alessandria,Asl Alessandria,Ospedale Santo Spirito di Casale Monferrato,Oss,25,
+Piemonte,Alessandria,Asl Alessandria,Ospedale San Giacomo di Novi Ligure,Medici,12,
+Piemonte,Alessandria,Asl Alessandria,Ospedale San Giacomo di Novi Ligure,Infermieri,32,
+Piemonte,Alessandria,Asl Alessandria,Ospedale San Giacomo di Novi Ligure,Oss,8,
+Piemonte,Alessandria,Asl Alessandria,Ospedale civile di Ovada,Medici,7,
+Piemonte,Alessandria,Asl Alessandria,Ospedale civile di Ovada,Infermieri,18,
+Piemonte,Alessandria,Asl Alessandria,Ospedale civile di Ovada,Oss,12,
+Piemonte,Alessandria,Asl Alessandria,Ospedale civile Santi Antonio e Margherita di Tortona,Medici,14,
+Piemonte,Alessandria,Asl Alessandria,Ospedale civile Santi Antonio e Margherita di Tortona,Infermieri,34,
+Piemonte,Alessandria,Asl Alessandria,Ospedale civile Santi Antonio e Margherita di Tortona,Oss,8,
+Piemonte,Alessandria,Asl Alessandria,Ospedale di Valenza,Infermieri,1,
+Lombardia,Varese,Asst Sette Laghi,Asst Sette Laghi,Medici,16,
+Lombardia,Varese,Asst Sette Laghi,Asst Sette Laghi,Infermieri,41,
+Lombardia,Mantova,Asst Mantova,Asst Mantova,Totale,183,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Friuli Venezia Giulia,Pordenone,IRCCS Centro di riferimento oncologico di Aviano,IRCCS Centro di riferimento oncologico di Aviano,Totale,0,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Campania,Napoli,IRCCS Fondazione Pascale di Napoli,IRCCS Fondazione Pascale di Napoli,Totale,0,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo. L'azienda precisa che tutti i positivi erano asintomatici"
+Campania,Napoli,AORN Santobono Pausilipon di Napoli,AORN Santobono Pausilipon di Napoli,Medici,6,
+Campania,Napoli,AORN Santobono Pausilipon di Napoli,AORN Santobono Pausilipon di Napoli,Infermieri,5,
+Campania,Napoli,AORN Ospedali dei Colli,AORN Ospedali dei Colli,Totale,68,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo"
+Lombardia,Lecco,Asst Lecco,Asst Lecco,Medici,54,
+Lombardia,Lecco,Asst Lecco,Asst Lecco,Infermieri,262,Il dato comprende anche gli OSS e i tecnici
+Lombardia,Milano,IRCCS Ca' Granda Ospedale Maggiore Policlinico,IRCCS Ca' Granda Ospedale Maggiore Policlinico,Medici,74,
+Lombardia,Milano,IRCCS Ca' Granda Ospedale Maggiore Policlinico,IRCCS Ca' Granda Ospedale Maggiore Policlinico,Infermieri,77,Il dato riguarda anche le ostetriche
+Lombardia,Milano,IRCCS Ca' Granda Ospedale Maggiore Policlinico,IRCCS Ca' Granda Ospedale Maggiore Policlinico,Oss,27,
+Lombardia,Milano,Asst Gaetano Pini CTO,Asst Gaetano Pini CTO,Medici,24,
+Lombardia,Milano,Asst Gaetano Pini CTO,Asst Gaetano Pini CTO,Infermieri,62,
+Lombardia,Pavia,Asst Pavia,Asst Pavia,Totale,236,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Marche,Pesaro,Ao Ospedali riuniti Marche Nord,Ao Ospedali riuniti Marche Nord,Totale,100,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss."
+Piemonte,Torino,Asl Torino 4,Ospedale di Chivasso,Totale,64,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Piemonte,Torino,Asl Torino 4,Ospedale di Ciriè,Totale,77,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Piemonte,Torino,Asl Torino 4,Ospedale di Ivrea,Totale,58,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Puglia,Barletta-Andria-Trani,Asl BAT,Asl BAT,Medici,6,
+Puglia,Barletta-Andria-Trani,Asl BAT,Asl BAT,Infermieri,10,
+Puglia,Barletta-Andria-Trani,Asl BAT,Asl BAT,Oss,3,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Distretto di Portogruaro,Infermieri,1,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di Jesolo,Infermieri,8,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di Jesolo,Medici,2,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di Jesolo,Oss,5,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di Portogruaro,Infermieri,26,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di Portogruaro,Medici,3,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di Portogruaro,Oss,7,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di San Donà di Piave,Infermieri,11,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di San Donà di Piave,Medici,7,
+Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Ospedale di San Donà di Piave,Oss,5,
+Lombardia,Como,Asst Lariana,Asst Lariana,Totale,104,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Liguria,Genova,Asl 4 Liguria,Asl 4 Liguria,Medici,12,
+Liguria,Genova,Asl 4 Liguria,Asl 4 Liguria,Infermieri,27,
+Liguria,Genova,Asl 4 Liguria,Asl 4 Liguria,Oss,9,
+Lombardia,Pavia,Ats Pavia,Ats Pavia,Totale,1,Il dato fa riferimento a un non meglio precisato personale sanitario
+Campania,Napoli,Asl Napoli 3 Sud,Ospedale di Sorrento,Totale,1,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Campania,Napoli,Asl Napoli 3 Sud,Ospedale Santa Maria della Pietà di Nola,Totale,4,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Campania,Napoli,Asl Napoli 3 Sud,Ospedale Cavalier Raffaele Apicenna di Pollena Trocchia,Totale,0,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Lombardia,Lodi,Asst Lodi,Asst Lodi,Totale,164,Il dato fa riferimento a un non meglio precisato personale sanitario
+Lombardia,Brescia,Asst Valcamonica,Asst Valcamonica,Medici,32,
+Lombardia,Brescia,Asst Valcamonica,Asst Valcamonica,Totale,59,"Il dato fa riferimento a personale sanitario, esclusi i medici"
+Lombardia,Sondrio,Asst Valtellina e Alto Lario,Asst Valtellina e Alto Lario,Totale,117,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Lombardia,Milano,Asst Rhodense,Ospedale Guido Salvini di Garbagnate Milanese,Infermieri,38,
+Lombardia,Milano,Asst Rhodense,Ospedale Guido Salvini di Garbagnate Milanese,Medici,17,
+Lombardia,Milano,Asst Rhodense,Ospedale Guido Salvini di Garbagnate Milanese,Oss,17,
+Lombardia,Milano,Asst Rhodense,Ospedale di Rho,Infermieri,66,
+Lombardia,Milano,Asst Rhodense,Ospedale di Rho,Medici,17,
+Lombardia,Milano,Asst Rhodense,Ospedale di Rho,Oss,25,
+Lombardia,Milano,Asst Rhodense,Ospedale Giuseppe Casati Passirana,Infermieri,30,
+Lombardia,Milano,Asst Rhodense,Ospedale Giuseppe Casati Passirana,Medici,14,
+Lombardia,Milano,Asst Rhodense,Ospedale Giuseppe Casati Passirana,Oss,19,
+Lombardia,Milano,Asst Rhodense,Ospedale Caduti Bollatesi di Bollate,Infermieri,6,
+Lombardia,Milano,Asst Rhodense,Ospedale Caduti Bollatesi di Bollate,Medici,2,
+Lombardia,Milano,Asst Rhodense,Ospedale Caduti Bollatesi di Bollate,Oss,2,
+Lombardia,Milano,Asst Rhodense,R.S.A. Sandro Pertini di Garbagnate Milanese,Infermieri,1,
+Lombardia,Milano,Asst Rhodense,R.S.A. Sandro Pertini di Garbagnate Milanese,Medici,3,
+Lombardia,Milano,Asst Rhodense,R.S.A. Sandro Pertini di Garbagnate Milanese,Oss,13,
+Lombardia,Milano,Asst Rhodense,Territorio Asst Rhodense,Infermieri,2,
+Lombardia,Varese,Asst Valle Olona,Asst Valle Olona,Totale,167,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Campania,Napoli,AOU Federico II di Napoli,AOU Federico II di Napoli,Totale,23,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Friuli Venezia Giulia,Pordenone,As Friuli Occidentale,As Friuli Occidentale,Totale,50,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Lazio,Roma,Asl Roma 3,Presidio ospedaliero G.B. Grassi di Roma,Medici,1,
+Lazio,Roma,Asl Roma 3,Presidio ospedaliero G.B. Grassi di Roma,Oss,2,
+Umbria,Perugia,Azienda Usl Umbria 1,Sede di Città di Castello,Totale,34,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Umbria,Perugia,Azienda Usl Umbria 1,Sede di Branca,Totale,7,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Umbria,Perugia,Azienda Usl Umbria 1,Sede di Assisi,Totale,3,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Umbria,Perugia,Azienda Usl Umbria 1,Sede lago Trasimeno,Totale,3,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Umbria,Perugia,Azienda Usl Umbria 1,Distretto Media Valle del Tevere,Totale,1,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Umbria,Perugia,Azienda Usl Umbria 1,Distretto Perugia,Totale,8,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Umbria,Perugia,Azienda Usl Umbria 1,Territorio Azienda Usl Umbria 1,Totale,12,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria della Stella di Orvieto,Infermieri,6,
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria della Stella di Orvieto,Medici,3,
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria della Stella di Orvieto,Oss,1,
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale San Giovanni Battista di Foligno,Infermieri,1,
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale San Giovanni Battista di Foligno,Medici,3,
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale San Giovanni Battista di Foligno,Oss,1,
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale civile San Matteo degli Infermi di Spoleto,Infermieri,1,
+Umbria,Terni,Azienda Usl Umbria 2,Stabilimento di Terni,Infermieri,4,
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale di Norcia,Totale,1,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo. Non è chiaro se faccia riferimento all'ospedale di Norcia o di Cascia (indicazione Norcia/Cascia)"
+Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria dei Laici di Amelia,Infermieri,1,
+Lazio,Roma,AOU Policlinico Umberto I,Policlinico Umberto I,Totale,51,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo. Il dato è relativo al periodo compreso tra il 1 marzo ed il 31 maggio 2020"
+Liguria,Genova,IRCCS AOU San Martino,Ospedale Policlinico San Martino,Totale,162,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Lombardia,Cremona,Asst Cremona,Asst Cremona,Totale,276,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Lombardia,Milano,IRCCS Istituto tumori di Milano,IRCCS Istituto tumori di Milano,Medici,9,
+Lombardia,Milano,IRCCS Istituto tumori di Milano,IRCCS Istituto tumori di Milano,Infermieri,18,
+Lombardia,Milano,IRCCS Istituto tumori di Milano,IRCCS Istituto tumori di Milano,Oss,6,
+Liguria,Genova,Asl 3 Liguria,Asl 3 Liguria,Medici,40,
+Liguria,Genova,Asl 3 Liguria,Asl 3 Liguria,Infermieri,111,
+Liguria,Genova,Asl 3 Liguria,Asl 3 Liguria,Oss,31,
+Liguria,Imperia,Asl 1 Liguria,Ambito imperiese,Medici,21,
+Liguria,Imperia,Asl 1 Liguria,Ambito imperiese,Infermieri,74,Il dato fa riferimento anche agli Oss
+Liguria,Imperia,Asl 1 Liguria,Ambito sanremese,Medici,20,
+Liguria,Imperia,Asl 1 Liguria,Ambito sanremese,Infermieri,79,Il dato fa riferimento anche agli Oss
+Liguria,Imperia,Asl 1 Liguria,Ambito Bordighera/Ventimiglia,Medici,4,
+Liguria,Imperia,Asl 1 Liguria,Ambito Bordighera/Ventimiglia,Infermieri,22,Il dato fa riferimento anche agli Oss
+Lombardia,Monza Brianza,Asst Brianza,Asst Brianza,Totale,132,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Veneto,Treviso,Azienda Ulss 2 Marca Trevigiana,Azienda Ulss 2 Marca Trevigiana,Medici,49,
+Veneto,Treviso,Azienda Ulss 2 Marca Trevigiana,Azienda Ulss 2 Marca Trevigiana,Oss,88,
+Veneto,Treviso,Azienda Ulss 2 Marca Trevigiana,Azienda Ulss 2 Marca Trevigiana,Infermieri,158,
+Campania,Avellino,AORN San Giuseppe Moscati di Avellino,AORN San Giuseppe Moscati di Avellino,Totale,32,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Sardegna,Cagliari,AOU Ospedale civile di Cagliari,AOU Ospedale civile di Cagliari,Totale,23,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Lombardia,Milano,Ats Città metropolitana di Milano,Ats Città metropolitana di Milano,Totale,27,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Emilia Romagna,Bologna,Ausl Bologna,Ausl Bologna,Medici,77,Tre medici positivi erano tirocinanti all'epoca
+Emilia Romagna,Bologna,Ausl Bologna,Ausl Bologna,Infermieri,160,
+Emilia Romagna,Ravenna,Ausl Romagna,Ausl Romagna,Medici,109,
+Emilia Romagna,Ravenna,Ausl Romagna,Ausl Romagna,Oss,88,
+Emilia Romagna,Ravenna,Ausl Romagna,Ausl Romagna,Infermieri,323,
+Puglia,Foggia,AOU Ospedali riuniti di Foggia,AOU Ospedali riuniti di Foggia,Totale,42,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Distretto di Bolzano,Totale,95,L'azienda ha fornito il dato relativo a un non meglio precisato personale sanitario
+Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Distretto di Merano,Totale,30,L'azienda ha fornito il dato relativo a un non meglio precisato personale sanitario
+Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Distretto di Bressanone,Totale,37,L'azienda ha fornito il dato relativo a un non meglio precisato personale sanitario
+Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Distretto di Brunico,Totale,26,L'azienda ha fornito il dato relativo a un non meglio precisato personale sanitario
+Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Azienda sanitaria dell'Alto Adige,Totale,24,L'azienda ha fornito il dato relativo a un non meglio precisato personale sanitario
+Piemonte,Torino,AOU San Luigi Gonzaga di Orbassano,AOU San Luigi Gonzaga di Orbassano,Totale,91,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Abruzzo,Teramo,Asl Teramo,Ospedale Giuseppe Mazzini di Teramo,Totale,69,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Abruzzo,Teramo,Asl Teramo,Ospedale San Liberatore di Atri,Totale,8,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Abruzzo,Teramo,Asl Teramo,Ospedale Maria SS dello Splendore di Giulianova,Totale,8,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Abruzzo,Teramo,Asl Teramo,Ospedale Val Vibrata di Sant'Omero,Totale,5,"L'azienda non ha fornito dati che permettessero di distinguere tra medici, infermieri e Oss. Il numero potrebbe ricomprendere anche personale amministrativo."
+Sicilia,Catania,Asp Catania,Asp Catania,Medici,23,
+Sicilia,Catania,Asp Catania,Asp Catania,Infermieri,18,
+Sicilia,Catania,Asp Catania,Asp Catania,Oss,12,
+Lazio,Roma,AO San Giovanni,AO San Giovanni,Totale,0,
+Lazio,Roma,Policlinico Tor Vergata,Policlinico Tor Vergata,Medici,10,
+Lazio,Roma,Policlinico Tor Vergata,Policlinico Tor Vergata,Infermieri,12,
+Lazio,Roma,Policlinico Tor Vergata,Policlinico Tor Vergata,Oss,1,

@@ -1,0 +1,66 @@
+Service,Region,Province,Source,Hospital,Type,Delivered,Postponed,Delivered in 2019,Rate change
+Oncological follow-ups,Tuscany,Firenze,AOU Careggi,AOU Careggi,Total,3235,:,5395,-40.03707136
+Oncological follow-ups,Lombardy,Cremona,Ats Valpadana,Poliambulatorio Ospedale Maggiore di Crema,Total,1694,:,2377,-28.73369794
+Oncological follow-ups,Lombardy,Cremona,Ats Valpadana,Poliambulatorio di Rivolta d'Adda,Total,1,:,130,-99.23076923
+Oncological follow-ups,Lombardy,Cremona,Ats Valpadana,Ospedale Oglio Po,Total,279,:,599,-53.42237062
+Oncological follow-ups,Lombardy,Cremona,Ats Valpadana,Ospedale di Cremona,Total,1691,:,2187,-22.67946959
+Oncological follow-ups,Lombardy,Mantova,Ats Valpadana,Poliambulatorio Ospedale Carlo Poma di Mantova,Total,1920,:,2332,-17.66723842
+Oncological follow-ups,Lombardy,Mantova,Ats Valpadana,Ospedale di Asola,Total,6,:,57,-89.47368421
+Oncological follow-ups,Lazio,Roma,Ospedale Sant'Andrea,Ospedale Sant'Andrea,Total,2260,:,3636,-37.84378438
+Oncological follow-ups,Lazio,Latina,Asl Latina,Oncologia Distretto (parte nord ASL ),Total,454,:,666,-31.83183183
+Oncological follow-ups,Lazio,Latina,Asl Latina,Ospedale Santa Maria Goretti di Latina,Total,1604,:,2712,-40.85545723
+Oncological follow-ups,Lazio,Latina,Asl Latina,Ospedale Fiorini di Terracina,Total,697,:,1089,-35.99632691
+Oncological follow-ups,Lombardy,Brescia,Asst del Garda,Asst del Garda,Total,131,:,744,-82.39247312
+Oncological follow-ups,Tuscany,Pisa,AOU Pisana,AOU Pisana,Total,3931,:,5942,-33.84382363
+Oncological follow-ups,Emilia Romagna,Ferrara,AOU Arcispedale Sant'Anna di Ferrara,AOU Arcispedale Sant'Anna di Ferrara,Total,2780,:,3290,-15.50151976
+Oncological follow-ups,Friuli Venezia Giulia,Trieste,IRCCS Materno Infantile Burlo Garofolo,IRCCS Materno Infantile Burlo Garofolo,Total,39,:,80,-51.25
+Oncological follow-ups,Campania,Napoli,AORN Santobono Pausilipon di Napoli,AORN Santobono Pausilipon di Napoli,Total,18,:,22,-18.18181818
+Oncological follow-ups,Lombardy,Pavia,Ats Pavia,Policlinico San Matteo di Pavia,Total,978,:,1014,-3.550295858
+Oncological follow-ups,Lombardy,Pavia,Ats Pavia,IRCCS Maugeri di Pavia,Total,156,:,865,-81.96531792
+Oncological follow-ups,Lombardy,Milano,IRCCS Istituto tumori di Milano,IRCCS Istituto tumori di Milano,Total,10383,:,21942,-52.67979218
+Oncological follow-ups,Emilia Romagna,Bologna,Ausl Bologna,Ausl Bologna,Total,1523,:,2384,-36.11577181
+Oncological follow-ups,Basilicata,Potenza,AO San Carlo,AO San Carlo,Total,100,368,:,-78.63247863
+Oncological follow-ups,Basilicata,Matera,ASM Matera,Distretto di Matera,Total,367,27,:,-6.852791878
+Oncological follow-ups,Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale San Bassiano di Bassano del Grappa,Total,691,87,:,-11.18251928
+Oncological follow-ups,Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale di Asiago,Total,46,0,:,0.0
+Oncological follow-ups,Veneto,Vicenza,Ulss 7 Pedemontana,Ospedale di Santorso,Total,788,0,:,0.0
+Oncological follow-ups,Piedmont,Verbania,Asl Vco,Asl Vco,Total,400,0,:,0.0
+Oncological follow-ups,Sardinia,Cagliari,Arnas Brotzu,Ospedale oncologico Armando Businco,Total,1750,1157,:,-39.8004816
+Oncological follow-ups,Sardinia,Cagliari,Arnas Brotzu,Ospedale pediatrico Antonio Cao,Total,33,21,:,-38.88888889
+Oncological follow-ups,Sardinia,Sassari,AOU Sassari,AOU Sassari,Total,:,:,:,0.0
+Oncological follow-ups,Puglia,Bari,Policlinico di Bari,Policlinico di Bari,Total,488,0,:,0.0
+Oncological follow-ups,Sicily,Agrigento,Asp Agrigento,Ospedale San Giovanni di Dio di Agrigento,Total,492,214,:,-30.31161473
+Oncological follow-ups,Sicily,Agrigento,Asp Agrigento,Ospedale Barone Lombardo di Canicattì,Total,182,20,:,-9.900990099
+Oncological follow-ups,Sicily,Agrigento,Asp Agrigento,Ospedale Giovanni Paolo II di Sciacca,Total,175,0,:,0.0
+Oncological follow-ups,Tuscany,Siena,AOU Senese,AOU Senese,Total,423,306,:,-41.97530864
+Oncological follow-ups,Calabria,Cosenza,Asp Cosenza,Ospedale di Castrovillari,Total,0,102,:,-100.0
+Oncological follow-ups,Liguria,Genova,Ospedale pediatrico Gaslini,Ospedale pediatrico Gaslini,Total,830,350,:,-29.66101695
+Oncological follow-ups,Liguria,Genova,Ospedale Galliera,Ospedale Galliera,Total,209,48,:,-18.6770428
+Oncological follow-ups,Piedmont,Cuneo,Asl Cuneo 2,Asl Cuneo 2,Total,692,211,:,-23.36655592
+Oncological follow-ups,Sicily,Catania,Arnas Garibaldi,Arnas Garibaldi,Total,302,112,:,-27.0531401
+Oncological follow-ups,Lombardy,Varese,Asst Sette Laghi,Asst Sette Laghi,Total,143,695,:,-82.93556086
+Oncological follow-ups,Lombardy,Mantova,Asst Mantova,Asst Mantova,Total,443,30,:,-6.342494715
+Oncological follow-ups,Friuli Venezia Giulia,Pordenone,IRCCS Centro di riferimento oncologico di Aviano,IRCCS Centro di riferimento oncologico di Aviano,Total,3659,2600,:,-41.54018214
+Oncological follow-ups,Lombardy,Lecco,Asst Lecco,Asst Lecco,Total,980,0,:,0.0
+Oncological follow-ups,Lombardy,Pavia,Asst Pavia,Ospedale di Mede,Total,0,6,:,-100.0
+Oncological follow-ups,Lombardy,Pavia,Asst Pavia,Ospedale Asilo Vittoria di Mortara,Total,2,0,:,0.0
+Oncological follow-ups,Lombardy,Pavia,Asst Pavia,Ospedale unificato di Broni - Stradella,Total,5,0,:,0.0
+Oncological follow-ups,Lombardy,Pavia,Asst Pavia,Ospedale Ss. Annunziata di Varzi,Total,5,23,:,-82.14285714
+Oncological follow-ups,Lombardy,Pavia,Asst Pavia,Ospedale civile di Vigevano,Total,35,5,:,-12.5
+Oncological follow-ups,Lombardy,Pavia,Asst Pavia,Ospedale civile di Voghera,Total,40,61,:,-60.3960396
+Oncological follow-ups,Brands,Pesaro,Ao Ospedali riuniti Marche Nord,Ao Ospedali riuniti Marche Nord,Total,888,1428,:,-61.65803109
+Oncological follow-ups,Piedmont,Torino,Asl Torino 4,Ospedale di Chivasso,Total,164,20,:,-10.86956522
+Oncological follow-ups,Piedmont,Torino,Asl Torino 4,Ospedale di Ciriè,Total,50,121,:,-70.76023392
+Oncological follow-ups,Piedmont,Torino,Asl Torino 4,Ospedale di Ivrea,Total,200,52,:,-20.63492063
+Oncological follow-ups,Lombardy,Como,Asst Lariana,Asst Lariana,Total,284,240,:,-45.80152672
+Oncological follow-ups,Campania,Napoli,Asl Napoli 3 Sud,Ospedale Santa Maria della Pietà di Nola,Total,164,0,:,0.0
+Oncological follow-ups,Campania,Napoli,Asl Napoli 3 Sud,Ospedale Cavalier Raffaele Apicenna di Pollena Trocchia,Total,162,0,:,0.0
+Oncological follow-ups,Lombardy,Brescia,Asst Valcamonica,Asst Valcamonica,Total,121,0,:,0.0
+Oncological follow-ups,Lombardy,Sondrio,Asst Valtellina e Alto Lario,Asst Valtellina e Alto Lario,Total,268,0,:,0.0
+Oncological follow-ups,Lombardy,Varese,Asst Valle Olona,Asst Valle Olona,Total,495,300,:,-37.73584906
+Oncological follow-ups,Umbria,Perugia,Azienda Usl Umbria 1,Azienda Usl Umbria 1,Total,2551,0,:,0.0
+Oncological follow-ups,Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria dei Laici di Amelia,Total,9,0,:,0.0
+Oncological follow-ups,Umbria,Terni,Azienda Usl Umbria 2,Ospedale San Giovanni Battista di Foligno,Total,364,45,:,-11.00244499
+Oncological follow-ups,Umbria,Terni,Azienda Usl Umbria 2,Ospedale di Narni,Total,67,0,:,0.0
+Oncological follow-ups,Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria della Stella di Orvieto,Total,198,12,:,-5.714285714
+Oncological follow-ups,Umbria,Terni,Azienda Usl Umbria 2,Ospedale civile San Matteo degli Infermi di Spoleto,Total,48,0,:,0.0

@@ -1,0 +1,187 @@
+Service,Region,Province,Source,Hospital,Type,Delivered,Postponed,Delivered in 2019,Rate change,Notes
+Surgeries,Piedmont,Verbania,Asl Vco,Asl Vco,Total,224,:,625,"-64,16","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lombardy,Milano,Asst Grande ospedale metropolitano Niguarda,Ospedale Niguarda,Total,926,:,2343,"-60,47801963","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Emilia Romagna,Bologna,Istituto ortopedico Rizzoli,Istituto ortopedico Rizzoli,Total,578,:,1570,"-63,18471338","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Firenze,AOU Careggi,AOU Careggi,Total,4150,:,8547,"-51,44495144","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Abruzzo,Chieti,Asl 2 Abruzzo,"Ospedale ""Floraspe Renzetti"" di Lanciano",Total,84,:,351,"-76,06837607","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lazio,Roma,Asl Roma 6,"Civile di Velletri ""P. Colombo""",Total,63,:,176,"-64,20454545","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lazio,Roma,Asl Roma 6,Generale Provinciale di Anzio,Total,129,:,217,"-40,55299539","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lazio,Roma,Asl Roma 6,Ospedale dei Castelli,Total,114,:,219,"-47,94520548","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lazio,Roma,Asl Roma 6,San Giuseppe - Marino,Total,60,:,166,"-63,85542169","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lazio,Roma,Asl Roma 6,San Sebastiano Martire,Total,29,:,118,"-75,42372881","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Sardinia,Cagliari,Arnas Brotzu,Ospedale oncologico Armando Businco,Total,277,:,462,"-40,04329004","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Sardinia,Cagliari,Arnas Brotzu,Ospedale pediatrico Antonio Cao,Total,90,:,294,"-69,3877551","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Sardinia,Cagliari,Arnas Brotzu,Ospedale San Michele,Total,506,:,1769,"-71,39626908","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Friuli Venezia Giulia,Pordenone,As Friuli Occidentale,As Friuli Occidentale,Total,1861,:,4276,"-56,47801684","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lombardy,Mantova,Ats Valpadana,Ospedale civile Destra Secchia di Pieve di Coriano,Total,71,:,293,"-75,76791809","The comparison is not on referrals, but on the performance of the same period of 2019. The figure also includes 6 procedures performed in 2020, and 104 performed in 2019 to poliambulatorio Borgo Mantovano"
+Surgeries,Lombardy,Mantova,Ats Valpadana,Ospedale Carlo Poma di Mantova,Total,319,:,827,"-61,42684401","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lombardy,Cremona,Ats Valpadana,Ospedale di Cremona,Total,54,:,1147,"-95,29206626","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lombardy,Mantova,Ats Valpadana,Ospedale di Suzzara,Total,220,:,987,"-77,71023303","The comparison is not on referrals, but on the performance of the same period of 2019. The figure also includes 60 procedures performed in 2020, and 393 performed in 2019 at the clinic of Suzzara"
+Surgeries,Lombardy,Cremona,Ats Valpadana,Ospedale Maggiore di Crema,Total,39,:,883,"-95,58323896","The comparison is not on referrals, but on the performance of the same period of 2019. The figure also includes the procedures performed in 2020 to 0 poliambulatorio of Crema and 456 executed in 2019"
+Surgeries,Lombardy,Cremona,Ats Valpadana,Ospedale Oglio Po,Total,10,:,412,"-97,57281553","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lombardy,Mantova,Ats Valpadana,Ospedale di Asola,Total,4,:,220,"-98,18181818","The comparison is not on referrals, but on the performance of the same period of 2019. The figure also includes the 0 interventions performed in 2020 and 167 performed in 2019 at the clinic of Asola"
+Surgeries,Lombardy,Mantova,Ats Valpadana,Poliambulatorio Ospedale di Mantova,Total,26,:,241,"-89,21161826","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Sardinia,Sassari,AOU Sassari,AOU Sassari,Total,642,:,1646,"-60,9963548","The comparison is not on referrals, but the services performed in the first two months of 2020"
+Surgeries,Lazio,Roma,Ospedale Sant'Andrea,Ospedale Sant'Andrea,Total,938,:,1820,"-48,46153846","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Veneto,Vicenza,Azienda ULSS 8 Berica,Ospedale di Montecchio-Arzignano,Total,871,:,1605,"-45,73208723","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Veneto,Vicenza,Azienda ULSS 8 Berica,Ospedale di Valdagno,Total,322,:,780,"-58,71794872","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Veneto,Vicenza,Azienda ULSS 8 Berica,Ospedale San Bortolo di Vicenza - Blocco centrale,Total,1282,:,2978,"-56,95097381","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Veneto,Vicenza,Azienda ULSS 8 Berica,Ospedale di Noventa Vicentina,Total,160,:,648,"-75,30864198","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Emilia Romagna,Parma,Ausl Parma,Presidio unico Ausl Parma,Total,88,:,808,"-89,10891089","The comparison is not on referrals, but the performance in the same period of 2019. The figure contains both elective operations and those in emergency / urgency"
+Surgeries,Liguria,Savona,Asl 2,Asl 2,Total,583,:,1781,"-67,26558113","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Campania,Salerno,Asl Salerno,Psaut di Agropoli,Total,0,:,122,-100,"The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Campania,Salerno,Asl Salerno,"Ospedale ""Dell'Immacolata"" di Sapri",Total,35,:,740,"-95,27027027","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Campania,Salerno,Asl Salerno,"Ospedale ""Luigi Curto"" di Polla",Total,68,:,1654,"-95,88875453","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Campania,Salerno,Asl Salerno,"Ospedale ""Maria SS.Addolorata"" di Eboli",Total,129,:,1613,"-92,00247985","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Campania,Salerno,Asl Salerno,Ospedale di Roccadaspide,Total,15,:,449,"-96,65924276","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Campania,Salerno,Asl Salerno,"Ospedale ""San Francesco d'Assisi"" di Oliveto Citra",Total,55,:,763,"-92,79161206","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Campania,Salerno,Asl Salerno,"Ospedale ""San Luca"" di Vallo della Lucania",Total,143,:,2182,"-93,44637947","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Campania,Salerno,Asl Salerno,"Ospedale ""Santa Maria della Speranza"" di Battipaglia",Total,114,:,1327,"-91,40919367","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Campania,Salerno,Asl Salerno,"Ospedale ""Umberto I"" di Nocera Inferiore",Total,343,:,3512,"-90,23348519","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Campania,Salerno,Asl Salerno,"Ospedale ""Martiri di Villa Malta"" di Sarno",Total,45,:,1184,"-96,19932432","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Firenze,AOU Meyer,Azienda ospedaliero universitaria Meyer,Total,256,:,1488,"-82,79569892","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lombardy,Bergamo,Asst Papa Giovanni XXIII,Asst Papa Giovanni XXIII,Total,1180,:,4334,"-72,77341947","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Abruzzo,L'Aquila,Asl 1 Abruzzo,"Ospedale regionale ""San Salvatore"" di L'Aquila",Total,483,:,1565,"-69,13738019","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Abruzzo,L'Aquila,Asl 1 Abruzzo,"Ospedale ""Ss. Filippo e Nicola"" di Avezzano",Total,334,:,1149,"-70,93124456","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Abruzzo,L'Aquila,Asl 1 Abruzzo,Ospedale dell'Annunziata di Sulmona,Total,77,:,446,"-82,73542601","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Abruzzo,L'Aquila,Asl 1 Abruzzo,Ospedale civile di Castel di Sangro,Total,23,:,126,"-81,74603175","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lazio,Latina,Asl Latina,Ospedale Santa Maria Goretti di Latina,Total,740,:,1330,"-44,36090226","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lazio,Latina,Asl Latina,Ospedale Dono Svizzero di Formia,Total,275,:,372,"-26,07526882","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lazio,Latina,Asl Latina,Ospedale Fiorini di Terracina,Total,214,:,474,"-54,85232068","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lombardy,Brescia,Asst Franciacorta,Asst Franciacorta,Total,8,:,1930,"-99,58549223","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lombardy,Brescia,Asst del Garda,Ospedale di Desenzano del Garda,Total,660,:,1663,"-60,31268791","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lombardy,Brescia,Asst del Garda,"Ospedale ""La Memoria"" di Gavardo",Total,153,:,414,"-63,04347826","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lombardy,Brescia,Asst del Garda,Ospedale di Manerbio,Total,336,:,1101,"-69,48228883","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Liguria,Genova,Ospedale Galliera,Ospedale Galliera,Total,549,:,1843,"-70,2116115","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lazio,Rieti,Asl Rieti,Asl Rieti,Total,417,:,1080,"-61,38888889","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Emilia Romagna,Ferrara,AOU Arcispedale Sant'Anna di Ferrara,AOU Arcispedale Sant'Anna di Ferrara,Total,597,:,1486,"-59,82503365","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Sicily,Messina,Ao Papardo,Ao Papardo,Total,654,:,1551,"-57,83365571","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Sicily,Catania,Ao Canizzaro,Ao Canizzaro,Total,168,:,266,"-36,84210526","The comparison is not on referrals, but on the performance of the same period of 2019. The data concerns only the UOC of Urology"
+Surgeries,Piedmont,Cuneo,Asl Cuneo 1,Asl Cuneo 1,Total,580,:,3114,"-81,37443802","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Liguria,Genova,Ospedale Evangelico Internazionale,Ospedale Evangelico Internazionale,Total,707,:,2716,"-73,96907216","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Sicily,Catania,AOU Policlinico Rodolico-San Marco,AOU Policlinico Rodolico-San Marco,Total,1030,:,3522,"-70,7552527","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Friuli Venezia Giulia,Trieste,IRCCS Materno Infantile Burlo Garofolo,IRCCS Materno Infantile Burlo Garofolo,Total,292,:,713,"-59,04628331","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale civile di Carrara,Total,396,:,1474,"-73,13432836","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale Sant'Antonio Abate di Fivizzano,Total,82,:,419,"-80,42959427","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale Sant'Antonio Abate di Pontremoli,Total,21,:,379,"-94,4591029","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Massa Carrara,Azienda Usl Toscana Nord Ovest,Ospedale SS. Giacomo e Cristoforo di Massa,Total,241,:,1261,"-80,88818398","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale San Luca di Lucca,Total,849,:,2084,"-59,26103647","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale Santa Croce Castelnuovo Garfagnana,Total,87,:,237,"-63,29113924","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale San Francesco di Barga,Total,91,:,182,-50,"The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Pisa,Azienda Usl Toscana Nord Ovest,Ospedale Felice Lotti di Pontedera,Total,443,:,1086,"-59,20810313","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Pisa,Azienda Usl Toscana Nord Ovest,Ospedale Santa Maria Maddalena di Volterra,Total,66,:,297,"-77,77777778","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Ospedale civile Elbano di Portoferraio,Total,24,:,95,"-74,73684211","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Ospedale Civile di Cecina,Total,93,:,371,"-74,93261456","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Ospedale Villamarina di Piombino,Total,101,:,397,"-74,55919395","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Livorno,Azienda Usl Toscana Nord Ovest,Ospedali riuniti di Livorno,Total,559,:,1220,"-54,18032787","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Tuscany,Lucca,Azienda Usl Toscana Nord Ovest,Ospedale unico Versilia di Lido di Camaiore,Total,752,:,2536,"-70,34700315","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lombardy,Mantova,Asst Mantova,Asst Mantova,Total,570,:,2732,"-79,13616398","The comparison is not on referrals, but the performance in the same period of 2019. The Company stresses that the two periods are ""difficult to compare because the emergency pandemic has necessitated a complex and profound reorganization of departments and activities, as directed regional and national."
+Surgeries,Campania,Napoli,AORN Ospedali dei Colli,AORN Ospedali dei Colli,Total,451,:,1063,"-57,57290687","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lombardy,Milano,IRCCS Ca' Granda Ospedale Maggiore Policlinico,IRCCS Ca' Granda Ospedale Maggiore Policlinico,Total,644,:,1876,"-65,67164179","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Puglia,Barletta-Andria-Trani,Asl BAT,Lorenzo Bonomo Ospedale civile di Andria,Total,229,:,651,"-64,82334869","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Puglia,Barletta-Andria-Trani,Asl BAT,Ospedale Monsignor Raffaele Dimiccoli di Barletta,Total,238,:,561,"-57,57575758","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Puglia,Barletta-Andria-Trani,Asl BAT,Ospedale Vittorio Emanuele II di Bisceglie,Total,26,:,254,"-89,76377953","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lombardy,Lodi,Asst Lodi,Asst Lodi,Total,405,:,2767,"-85,36320925","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lombardy,Brescia,Asst Valcamonica,Asst Valcamonica,Total,102,:,719,"-85,81363004","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale central di Bolzano,Total,602,:,1295,"-53,51351351","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale di Merano,Total,614,:,1613,"-61,93428394","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale di Bressanone,Total,310,:,1061,"-70,78228087","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Trentino Alto Adige,Bolzano,Azienda sanitaria dell'Alto Adige,Ospedale di Brunico,Total,252,:,714,"-64,70588235","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Liguria,Genova,IRCCS AOU San Martino,Ospedale Policlinico San Martino,Total,2134,:,5510,"-61,27041742",The figure also includes the outpatient surgery
+Surgeries,Piedmont,Asti,Asl Asti,Asl Asti,Total,460,:,6687,"-93,12098101",The data on referrals refers to patients on the waiting list
+Surgeries,Lombardy,Milano,IRCCS Istituto tumori di Milano,IRCCS Istituto tumori di Milano,Total,880,:,1482,"-40,62078273","The precise IRCCS that the reduction is due in particular to the non-influx of patients from outside the region. The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Reggio Emilia,Total,1533,:,3491,"-56,08708107","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Castelnovo Monti,Total,239,:,613,"-61,01141925","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Correggio,Total,278,:,876,"-68,26484018","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Guastalla,Total,179,:,616,"-70,94155844","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Montecchio,Total,78,:,614,"-87,29641694","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Emilia Romagna,Reggio Emilia,Ausl Reggio Emilia,Ospedale di Scandiano,Total,175,:,762,"-77,03412073","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Piedmont,Cuneo,AO Santa Croce e Carle di Cuneo,AO Santa Croce e Carle di Cuneo,Total,727,:,2082,"-65,08165226","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Campania,Avellino,AORN San Giuseppe Moscati di Avellino,AORN San Giuseppe Moscati di Avellino,Total,1321,:,2855,"-53,73029772","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Piedmont,Torino,AOU San Luigi Gonzaga di Orbassano,AOU San Luigi Gonzaga di Orbassano,Total,284,:,479,"-40,70981211","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Lazio,Roma,Policlinico Tor Vergata,Policlinico Tor Vergata,Total,292,:,1364,"-78,59237537","The comparison is not on referrals, but the performance in the same period of 2019"
+Surgeries,Basilicata,Potenza,AO San Carlo,Ospedale di Lagonegro,Total,154,194,:,"-55,74712644",
+Surgeries,Basilicata,Potenza,AO San Carlo,Ospedale di Melfi,Total,141,151,:,"-51,71232877",
+Surgeries,Basilicata,Potenza,AO San Carlo,Ospedale di Potenza,Total,1047,1481,:,"-58,58386076",
+Surgeries,Basilicata,Potenza,AO San Carlo,Ospedale di Villa d’Agri,Total,46,205,:,"-81,67330677",
+Surgeries,Basilicata,Matera,ASM Matera,Ospedale di Matera,Total,529,857,:,"-61,83261183",
+Surgeries,Basilicata,Matera,ASM Matera,Ospedale di Policoro,Total,137,319,:,"-69,95614035",
+Surgeries,Puglia,Bari,Asl Bari,"Ospedale della Murgia ""Fabio Perinei""",Total,34,327,:,"-90,58171745",
+Surgeries,Puglia,Bari,Asl Bari,Ospedale San Paolo di Bari,Total,64,346,:,"-84,3902439",
+Surgeries,Puglia,Bari,Asl Bari,Ospedale Don Tonino Bello di Molfetta,Total,8,293,:,"-97,34219269",
+Surgeries,Puglia,Bari,Asl Bari,Ospedale San Giacomo di Monopoli,Total,78,98,:,"-55,68181818",
+Surgeries,Puglia,Bari,Asl Bari,Ospedale Di Venere di Bari,Total,80,369,:,"-82,18262806",
+Surgeries,Puglia,Bari,Asl Bari,Ospedale Santa Maria degli Angeli di Putignano,Total,90,256,:,"-73,98843931",
+Surgeries,Puglia,Bari,Asl Bari,"Ospedale ""Umberto I"" di Corato",Total,85,128,:,"-60,09389671",
+Surgeries,Puglia,Bari,Policlinico di Bari,Policlinico di Bari,Total,667,881,:,"-56,9121447",
+Surgeries,Sicily,Agrigento,Asp Agrigento,Ospedale Giovanni Paolo II di Sciacca,Total,33,32,:,"-49,23076923",Il dato sugli interventi eseguiti comprende 12 interventi in elezione e 21 in emergenza urgenza. Il dato su quelli rinviati non offre questa distinzione
+Surgeries,Sicily,Agrigento,Asp Agrigento,Ospedale San Giovanni di Dio di Agrigento,Total,59,37,:,"-38,54166667",Il dato sugli interventi eseguiti comprende 14 interventi in elezione e 45 in emergenza urgenza. Il dato su quelli rinviati non offre questa distinzione
+Surgeries,Sicily,Agrigento,Asp Agrigento,Ospedale San Giacomo d'Altopasso di Licata,Total,12,0,:,0,
+Surgeries,Sicily,Agrigento,Asp Agrigento,Ospedale Barone Lombardo di Canicattì,Total,26,56,:,"-68,29268293",Il dato sugli interventi eseguiti comprende 12 interventi in elezione e 14 in emergenza urgenza. Il dato su quelli rinviati non offre questa distinzione
+Surgeries,Emilia Romagna,Ferrara,Ausl Ferrara,Ospedale del Delta,Total,79,1,:,"-1,25",
+Surgeries,Emilia Romagna,Ferrara,Ausl Ferrara,Ospedale Ss. Annunziata di Cento,Total,78,0,:,0,
+Surgeries,Emilia Romagna,Ferrara,Ausl Ferrara,Ospedale Mazzolani Vandini di Argenta,Total,34,0,:,0,
+Surgeries,Campania,Salerno,Aou San Giovanni di Dio Ruggi d'Aragona,Ospedale San Giovanni di Dio Ruggi d'Aragona,Total,619,583,:,"-48,50249584",L'azienda non ha fornito dati che permettessero di distinguere gli interventi in elezione e quelli in emergena/urgenza rinviati. Il dato ricomprende pertanto entrambe le fattispecie
+Surgeries,Tuscany,Siena,AOU Senese,AOU Senese,Total,1351,771,:,"-36,3336475",
+Surgeries,Calabria,Cosenza,Asp Cosenza,Ospedale di Castrovillari,Total,400,527,:,"-56,85005394",
+Surgeries,Calabria,Cosenza,Asp Cosenza,Ospedale di Praia a Mare,Total,4,7,:,"-63,63636364",
+Surgeries,Calabria,Cosenza,Asp Cosenza,Ospedale di San Giovanni in Fiore,Total,2,9,:,"-81,81818182",
+Surgeries,Calabria,Cosenza,Asp Cosenza,Ospedale di Cetraro,Total,17,290,:,"-94,46254072",
+Surgeries,Calabria,Cosenza,Asp Cosenza,Ospedale di Paola,Total,133,170,:,"-56,10561056",
+Surgeries,Calabria,Cosenza,Asp Cosenza,Ospedale di Rossano,Total,162,336,:,"-67,46987952",
+Surgeries,Calabria,Cosenza,Asp Cosenza,Ospedale di Corigliano,Total,301,404,:,"-57,30496454",
+Surgeries,Liguria,Genova,Ospedale pediatrico Gaslini,Ospedale pediatrico Gaslini,Total,316,826,:,"-72,32924694",
+Surgeries,Piedmont,Cuneo,Asl Cuneo 2,Asl Cuneo 2,Total,222,56,:,"-20,14388489",
+Surgeries,Tuscany,Pisa,AOU Pisana,AOU Pisana,Total,2046,5786,:,"-73,87640449",
+Surgeries,Piedmont,Torino,Asl Torino 5,Ospedale Maggiore di Chieri,Total,29,345,:,"-92,2459893",Tutti gli interventi sono stati recuperati alla riapertura
+Surgeries,Piedmont,Torino,Asl Torino 5,Ospedale Santa Croce di Moncalieri,Total,109,0,:,0,
+Surgeries,Piedmont,Torino,Asl Torino 5,Ospedale San Lorenzo di Carmagnola,Total,59,620,:,"-91,3107511",Tutti gli interventi sono stati recuperati alla riapertura
+Surgeries,Emilia Romagna,Modena,Ausl Modena,Ospedale di Carpi,Total,216,173,:,"-44,47300771",
+Surgeries,Emilia Romagna,Modena,Ausl Modena,Ospedale di Mirandola,Total,46,59,:,"-56,19047619",
+Surgeries,Emilia Romagna,Modena,Ausl Modena,Ospedale di Pavullo,Total,23,5,:,"-17,85714286",
+Surgeries,Emilia Romagna,Modena,Ausl Modena,Ospedale di Vignola,Total,50,11,:,"-18,03278689",
+Surgeries,Piedmont,Alessandria,Asl Alessandria,Ospedale Monsignor Giovanni Galliano di Acqui Terme,Total,30,0,:,0,
+Surgeries,Piedmont,Alessandria,Asl Alessandria,Ospedale Santo Spirito di Casale Monferrato,Total,137,22,:,"-13,83647799",
+Surgeries,Piedmont,Alessandria,Asl Alessandria,Ospedale San Giacomo di Novi Ligure,Total,98,163,:,"-62,45210728",
+Surgeries,Piedmont,Alessandria,Asl Alessandria,Ospedale civile Santi Antonio e Margherita di Tortona,Total,9,9,:,-50,
+Surgeries,Lombardy,Varese,Asst Sette Laghi,Ospedale Ondoli di Angera,Total,17,200,:,"-92,16589862",
+Surgeries,Lombardy,Varese,Asst Sette Laghi,Ospedale di Circolo Varese,Total,200,1907,:,"-90,50783104",
+Surgeries,Lombardy,Varese,Asst Sette Laghi,Ospedale Causa Pia Luvini di Cittiglio,Total,117,154,:,"-56,82656827",
+Surgeries,Lombardy,Varese,Asst Sette Laghi,Ospedale Luini Confalonieri di Luino,Total,51,221,:,"-81,25",
+Surgeries,Lombardy,Varese,Asst Sette Laghi,Ospedale Galmarini di Tradate,Total,95,409,:,"-81,15079365",
+Surgeries,Lombardy,Varese,Asst Sette Laghi,Ospedale Filippo Del Ponte di Varese,Total,308,522,:,"-62,89156627",
+Surgeries,Friuli Venezia Giulia,Pordenone,IRCCS Centro di riferimento oncologico di Aviano,IRCCS Centro di riferimento oncologico di Aviano,Total,321,0,:,0,
+Surgeries,Campania,Napoli,AORN Santobono Pausilipon di Napoli,AORN Santobono Pausilipon di Napoli,Total,208,554,:,"-72,70341207",
+Surgeries,Lombardy,Lecco,Asst Lecco,Ospedale Manzoni di Lecco,Total,187,1160,:,"-86,1172977",
+Surgeries,Lombardy,Lecco,Asst Lecco,Ospedale San Leopoldo Mandic di Merate,Total,75,689,:,"-90,18324607",
+Surgeries,Lombardy,Milano,Asst Gaetano Pini CTO,Asst Gaetano Pini CTO,Total,248,1272,:,"-83,68421053",
+Surgeries,Lombardy,Pavia,Asst Pavia,Ospedale Asilo Vittoria di Mortara,Total,0,180,:,-100,
+Surgeries,Lombardy,Pavia,Asst Pavia,Ospedale unificato di Broni - Stradella,Total,2,194,:,"-98,97959184",
+Surgeries,Lombardy,Pavia,Asst Pavia,Ospedale Ss. Annunziata di Varzi,Total,0,46,:,-100,
+Surgeries,Lombardy,Pavia,Asst Pavia,Ospedale civile di Vigevano,Total,1,682,:,"-99,85358712",
+Surgeries,Lombardy,Pavia,Asst Pavia,Ospedale civile di Voghera,Total,55,811,:,"-93,64896074",
+Surgeries,Marche,Pesaro,Ao Ospedali riuniti Marche Nord,Ao Ospedali riuniti Marche Nord,Total,453,456,:,"-50,1650165",
+Surgeries,Piedmont,Torino,Asl Torino 4,Ospedale di Chivasso,Total,52,315,:,"-85,83106267",
+Surgeries,Piedmont,Torino,Asl Torino 4,Ospedale di Ciriè,Total,320,584,:,"-64,60176991",
+Surgeries,Piedmont,Torino,Asl Torino 4,Ospedale di Ivrea,Total,408,376,:,"-47,95918367",
+Surgeries,Veneto,Venezia,Azienda ULSS 4 Veneto Orientale,Azienda ULSS 4 Veneto Orientale,Total,479,163,:,"-25,3894081",
+Surgeries,Lombardy,Como,Asst Lariana,Asst Lariana,Total,43,36,:,"-45,56962025",L'azienda specifica che tutti gli interventi rinviati sono stati recuperati entro il 31 agosto 2020
+Surgeries,Liguria,Genova,Asl 4 Liguria,Ospedale di Lavagna,Total,189,17,:,"-8,252427184",
+Surgeries,Liguria,Genova,Asl 4 Liguria,Ospedale Nostra Signora di Montallegro di Rapallo,Total,303,45,:,"-12,93103448",
+Surgeries,Liguria,Genova,Asl 4 Liguria,Ospedale di Sestri Levante,Total,11,0,:,0,
+Surgeries,Campania,Napoli,Asl Napoli 3 Sud,Ospedali riuniti area nolana,Total,87,7,:,"-7,446808511",
+Surgeries,Lombardy,Sondrio,Asst Valtellina e Alto Lario,Asst Valtellina e Alto Lario,Total,158,1090,:,"-87,33974359",
+Surgeries,Lombardy,Milano,Asst Rhodense,Asst Rhodense,Total,494,794,:,"-61,64596273",
+Surgeries,Umbria,Terni,Azienda Usl Umbria 2,Ospedale civile San Matteo degli Infermi di Spoleto,Total,175,6,:,"-3,314917127",
+Surgeries,Umbria,Terni,Azienda Usl Umbria 2,Ospedale Santa Maria della Stella di Orvieto,Total,43,2,:,"-4,444444444",
+Surgeries,Umbria,Terni,Azienda Usl Umbria 2,Ospedale di Narni,Total,55,6,:,"-9,836065574",
+Surgeries,Umbria,Terni,Azienda Usl Umbria 2,Ospedale San Giovanni Battista di Foligno,Total,272,22,:,"-7,482993197",
+Surgeries,Lazio,Roma,AOU Policlinico Umberto I,Policlinico Umberto I,Total,1018,1778,:,"-63,59084406",Il dato è relativo al periodo compreso tra il 1 marzo ed il 31 maggio 2020
+Surgeries,Lombardy,Cremona,Asst Cremona,Asst Cremona,Total,374,275,:,"-42,37288136",Il dato relativo ai rinvii è una nostra elaborazione a partire dai dati forniti
+Surgeries,Emilia Romagna,Ravenna,Ausl Romagna,Ausl Romagna,Total,2443,937,:,"-27,72189349",
+Surgeries,Sicily,Catania,Asp Catania,Ospedale S. Marta e S. Venera di Acireale,Total,111,703,:,"-86,36363636","Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Surgeries,Sicily,Catania,Asp Catania,Ospedale Maria SS. Addolorata di Biancavilla,Total,33,161,:,"-82,98969072","Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Surgeries,Sicily,Catania,Asp Catania,Ospedale Castiglione Prestianni di Bronte,Total,42,172,:,"-80,37383178","Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Surgeries,Sicily,Catania,Asp Catania,Ospedale Gravina e S. Pietro di Caltagirone,Total,89,551,:,"-86,09375","Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Surgeries,Sicily,Catania,Asp Catania,Ospedale Basso Ragusa Mario di Militello,Total,29,165,:,"-85,05154639","Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
+Surgeries,Sicily,Catania,Asp Catania,Ospedale SS. Salvatore di Paternò,Total,91,361,:,"-79,86725664","Il confronto non è sui rinvii, ma sulle prestazioni dello stesso periodo del 2019"
